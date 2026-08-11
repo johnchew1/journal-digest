@@ -14,6 +14,8 @@ from pathlib import Path
 import requests
 from deep_translator import GoogleTranslator
 
+from pollutant_analyzer import analyze_articles
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA_FILE = ROOT / "public" / "data" / "articles.json"
 
@@ -167,10 +169,20 @@ def main() -> None:
     print(f"\nTranslating {len(all_articles)} articles to Chinese...")
     all_articles = translate_articles(all_articles)
 
+    print("\nAnalyzing pollutant themes and generating writing brief...")
+    analysis = analyze_articles(all_articles)
+    brief = analysis["digest"]["writing_brief"]
+    print(
+        f"  Pollutant articles: {analysis['digest']['pollutant_count']} "
+        f"(microplastic: {analysis['digest']['microplastic_count']})"
+    )
+    print(f"  Hot themes: {len(brief['hot_themes'])}")
+
     output = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "journals": {k: {"name": v["name"], "color": v["color"]} for k, v in JOURNALS.items()},
-        "articles": all_articles,
+        "articles": analysis["articles"],
+        "digest": analysis["digest"],
     }
 
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)

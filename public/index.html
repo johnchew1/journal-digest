@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>期刊速递 · NC / EST / JHM</title>
+  <title>期刊速递 · 新污染物写作风向</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -12,20 +12,24 @@
 <body>
   <header class="site-header">
     <div class="container">
-      <h1>期刊速递</h1>
-      <p class="subtitle">Nature Communications · Environmental Science &amp; Technology · Journal of Hazardous Materials</p>
+      <h1>期刊速递 · 新污染物写作风向</h1>
+      <p class="subtitle">Nature Communications · EST · JHM · 微塑料 &amp; 新污染物专题整理</p>
       <p class="update-time" id="update-time">加载中…</p>
     </div>
   </header>
 
-  <nav class="filter-bar container" id="filter-bar">
-    <button class="filter-btn active" data-filter="all">全部</button>
-    <button class="filter-btn" data-filter="NC">NC</button>
-    <button class="filter-btn" data-filter="EST">EST</button>
-    <button class="filter-btn" data-filter="JHM">JHM</button>
-  </nav>
-
   <main class="container">
+    <section id="writing-brief" class="writing-brief hidden"></section>
+
+    <nav class="filter-bar" id="filter-bar">
+      <button class="filter-btn active" data-filter="all">全部</button>
+      <button class="filter-btn" data-filter="pollutant">新污染物</button>
+      <button class="filter-btn" data-filter="microplastic">微塑料</button>
+      <button class="filter-btn" data-filter="NC">NC</button>
+      <button class="filter-btn" data-filter="EST">EST</button>
+      <button class="filter-btn" data-filter="JHM">JHM</button>
+    </nav>
+
     <div id="loading" class="loading">正在加载最新文章…</div>
     <div id="articles" class="articles-grid"></div>
     <div id="empty" class="empty hidden">暂无文章数据</div>
@@ -33,7 +37,7 @@
 
   <footer class="site-footer">
     <div class="container">
-      <p>数据来源于 CrossRef · 每日自动更新 · 中文翻译由 Google Translate 提供</p>
+      <p>数据来源于 CrossRef · 每日自动更新 · 新污染物/微塑料智能分类 · 中文翻译由 Google Translate 提供</p>
     </div>
   </footer>
 
