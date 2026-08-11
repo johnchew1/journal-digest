@@ -1,0 +1,90 @@
+name: Weekly Digest Push
+
+on:
+  schedule:
+    # Every Monday 01:00 UTC = 09:00 Beijing time
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh articles
+        run: python scripts/fetch_articles.py
+        continue-on-error: true
+
+      - name: Generate weekly markdown
+        run: python scripts/weekly_digest.py --output weekly.md
+
+      - name: Save weekly archive to site
+        run: |
+          mkdir -p public/weekly
+          cp weekly.md public/weekly/latest.md
+          cp weekly.md "public/weekly/$(date -u +%Y-%m-%d).md"
+
+      - name: Create GitHub Issue (triggers email notification)
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('weekly.md', 'utf8');
+            const title = fs.readFileSync('weekly.title', 'utf8').trim();
+
+            try {
+              await github.rest.issues.createLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: 'weekly-digest',
+                color: '2980b9',
+                description: 'Weekly pollutant/microplastic writing brief',
+              });
+            } catch (e) { /* label exists */ }
+
+            const open = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'weekly-digest',
+            });
+            for (const issue of open.data) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+              });
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: title,
+              body: body,
+              labels: ['weekly-digest'],
+            });
+
+      - name: Commit weekly archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/articles.json public/weekly/
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: weekly digest $(date -u +%Y-%m-%d)"
+            git push
+          fi
