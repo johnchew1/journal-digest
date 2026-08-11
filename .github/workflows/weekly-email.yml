@@ -1,0 +1,34 @@
+name: Weekly Email Digest
+
+on:
+  schedule:
+    # Every Monday 01:00 UTC = 09:00 Beijing time
+    - cron: "0 1 * * 1"
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh articles before sending
+        run: python scripts/fetch_articles.py
+        continue-on-error: true
+
+      - name: Send weekly email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: zihanzhou1705@outlook.com
+          EMAIL_FROM: ${{ secrets.SMTP_USER }}
+        run: python scripts/weekly_email.py
