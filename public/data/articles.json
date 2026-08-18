@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:41:01Z",
+  "updated_at": "2026-08-18T08:35:02Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -66,6 +66,22 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
+      "title": "Overlooked sulfur moieties in leaf litter drive the divergent fates of Cu and Cd during DOM humification",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143256",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143256",
+      "title_zh": "落叶中被忽视的硫部分导致 DOM 腐殖化过程中铜和镉的不同命运",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
       "title": "Phthalate and alternative plasticizer exposure and antiandrogenic risk among automobile parts manufacturing workers in South Korea",
       "abstract": "",
       "published": "2026-09-01",
@@ -121,22 +137,6 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Overlooked sulfur moieties in leaf litter drive the divergent fates of Cu and Cd during DOM humification",
-      "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143256",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143256",
-      "title_zh": "落叶中被忽视的硫部分导致 DOM 腐殖化过程中铜和镉的不同命运",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
       "title": "Molecular mechanisms and environmental implications of thallium complexation with butyl xanthate",
       "abstract": "",
       "published": "2026-09-01",
@@ -175,6 +175,22 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
+      "title": "Environmentally relevant imidacloprid exposure elicits hippocampal microglial apoptosis via JNK-FOXO3 pathway: Implication for latent central neurotoxicity",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143205",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143205",
+      "title_zh": "环境相关的吡虫啉暴露通过 JNK-FOXO3 途径引发海马小胶质细胞凋亡：对潜在中枢神经毒性的影响",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
       "title": "Cardiovascular benefits of personal protection against traffic-related air pollution and noise: Evidence from multi-system biomarkers in a randomized crossover trial",
       "abstract": "",
       "published": "2026-09-01",
@@ -191,12 +207,100 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Environmentally relevant imidacloprid exposure elicits hippocampal microglial apoptosis via JNK-FOXO3 pathway: Implication for latent central neurotoxicity",
+      "title": "Permeable pavement systems for microplastic mitigation: Critical insights on transport, retention, detection and removal efficiency",
       "abstract": "",
       "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143205",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143205",
-      "title_zh": "环境相关的吡虫啉暴露通过 JNK-FOXO3 途径引发海马小胶质细胞凋亡：对潜在中枢神经毒性的影响",
+      "doi": "10.1016/j.jhazmat.2026.143096",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143096",
+      "title_zh": "用于减缓微塑料的渗透性路面系统：关于运输、保留、检测和去除效率的关键见解",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [
+        "微塑料"
+      ],
+      "is_microplastic": true,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [
+        "检测与表征",
+        "环境行为与迁移",
+        "源头与控制"
+      ],
+      "relevance_score": 4
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Enhanced atomic hydrogen utilization on ordered Pd1Cu intermetallic single-atom alloy for electrochemical hydrodechlorination",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143041",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143041",
+      "title_zh": "有序 Pd1Cu 金属间单原子合金增强原子氢利用率用于电化学加氢脱氯",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Waste mop cloth recycling enables rapid, high-throughput removal of viscous winter oil spills",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143161",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143161",
+      "title_zh": "废弃拖把布回收能够快速、高通量地清除冬季粘性漏油",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Occurrence of Phthalate acid esters in new and used household curtains and their distribution patterns",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143154",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143154",
+      "title_zh": "新旧家用窗帘中邻苯二甲酸酯的存在及其分布模式",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [
+        "塑化剂与内分泌干扰物"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Scaling up biochar based remediation: Continuous column adsorption of toxic elements from oil sands wastewater and sequential valorization of spent biochar in cement",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143293",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143293",
+      "title_zh": "扩大基于生物炭的修复：油砂废水中有毒元素的连续柱吸附和水泥中废生物炭的连续增值",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Seasonal multiphase partitioning and driving mechanisms of eutrophicants and toxic contaminants in effluent-receiving rivers: Integrating field monitoring and hydrodynamic modeling",
+      "abstract": "",
+      "published": "2026-09-01",
+      "doi": "10.1016/j.jhazmat.2026.143296",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143296",
+      "title_zh": "受纳河流中富营养化物和有毒污染物的季节性多相分配和驱动机制：现场监测和水动力建模相结合",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
@@ -255,36 +359,14 @@
       "relevance_score": 0
     },
     {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Permeable pavement systems for microplastic mitigation: Critical insights on transport, retention, detection and removal efficiency",
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Synergistic Co–Zn dual atomic sites drive C-lignin hydrogenolysis via vicinal C–O cleavage",
       "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143096",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143096",
-      "title_zh": "用于减缓微塑料的渗透性路面系统：关于运输、保留、检测和去除效率的关键见解",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "微塑料"
-      ],
-      "is_microplastic": true,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [
-        "检测与表征",
-        "环境行为与迁移",
-        "源头与控制"
-      ],
-      "relevance_score": 4
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Enhanced atomic hydrogen utilization on ordered Pd1Cu intermetallic single-atom alloy for electrochemical hydrodechlorination",
-      "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143041",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143041",
-      "title_zh": "有序 Pd1Cu 金属间单原子合金增强原子氢利用率用于电化学加氢脱氯",
+      "published": "2026-08-18",
+      "doi": "10.1038/s41467-026-76577-2",
+      "url": "https://doi.org/10.1038/s41467-026-76577-2",
+      "title_zh": "协同Co-Zn双原子位点通过邻位C-O裂解驱动C-木质素氢解",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
@@ -293,17 +375,33 @@
       "relevance_score": 0
     },
     {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Occurrence of Phthalate acid esters in new and used household curtains and their distribution patterns",
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Transcriptomic profiling of inner ear hair cell spontaneous regeneration reveals the key role of dlx5a",
       "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143154",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143154",
-      "title_zh": "新旧家用窗帘中邻苯二甲酸酯的存在及其分布模式",
+      "published": "2026-08-18",
+      "doi": "10.1038/s41467-026-76892-8",
+      "url": "https://doi.org/10.1038/s41467-026-76892-8",
+      "title_zh": "内耳毛细胞自发再生的转录组分析揭示了 dlx5a 的关键作用",
       "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Global genomic surveillance uncovers emergence and spatiotemporal patterns of World Health Organization priority antibiotic resistance in invasive Salmonella",
+      "abstract": "Abstract Antimicrobial resistance (AMR) in invasive Salmonella infections remains a global public health concern, and enhanced high-quality genomic surveillance is essential to inform guidelines and policies. Here, we aimed to describe clinically key antibiotic resistance trends in invasive Salmonella infections using 7691 isolates derived from national surveillance and publicly available datasets between 1954 and 2024. 29 (37.7%) of 77 countries identified at least one isolate with resistance or decreased susceptibility to ciprofloxacin, 25 (32.5%) and 29 (37.7%) countries resistance or decreased susceptibility to ceftriaxone and cefixime, 8 (10.4%) countries resistance to azithromycin, 15 (19.5%) countries resistance to fosfomycin, 10 (13.0%) countries resistance to colistin. Overall, 7.39% of 7691 isolates were resistant or decreased susceptibility to ciprofloxacin, 7.91% reported resistance or decreased susceptibility to 3GCs, 4.23% reported resistance to fosfomycin, and 0.79% reported resistance to azithromycin. Globally, azithromycin resistance is increasing, as is resistance or decreased susceptibility to ciprofloxacin, 3GCs, and 4GCs. However, surveillance levels remain inadequate in African and South American regions. We generated a global map of clinically key antibiotic resistance genes in invasive Salmonella infections worldwide. This retrospective, global, longitudinal genomic epidemiology study on invasive Salmonella provides evidence-based data for clinical guidelines, genomic surveillance, AMR control, and public health policies.",
+      "published": "2026-08-18",
+      "doi": "10.1038/s41467-026-76354-1",
+      "url": "https://doi.org/10.1038/s41467-026-76354-1",
+      "title_zh": "全球基因组监测揭示了世界卫生组织优先考虑的侵袭性沙门氏菌抗生素耐药性的出现和时空模式",
+      "abstract_zh": "摘要 侵袭性沙门氏菌感染中的抗生素耐药性 (AMR) 仍然是全球公共卫生问题，加强高质量的基因组监测对于为指导方针和政策提供信息至关重要。在这里，我们的目的是使用 1954 年至 2024 年间从国家监测和公开数据集中获得的 7691 株分离株来描述侵袭性沙门氏菌感染的临床关键抗生素耐药性趋势。77 个国家中的 29 个国家 (37.7%) 确定至少一种分离株对环丙沙星具有耐药性或敏感性降低，25 个国家 (32.5%) 和 29 个国家 (37.7%) 对环丙沙星耐药或敏感性降低。头孢曲松和头孢克肟，8个国家（10.4%）对阿奇霉素耐药，15个国家（19.5%）对磷霉素耐药，10个国家（13.0%）对粘菌素耐药。总体而言，7691 株分离株中，7.39% 对环丙沙星耐药或敏感性降低，7.91% 对 3GC 耐药或敏感性降低，4.23% 对磷霉素耐药，0.79% 对阿奇霉素耐药。在全球范围内，阿奇霉素耐药性正在增加，对环丙沙星、3GC 和 4GC 的耐药性或敏感性也在下降。然而，非洲和南美洲地区的监测水平仍然不足。我们生成了全球侵袭性沙门氏菌感染中临床关键抗生素耐药基因的全球图谱。这项针对侵袭性沙门氏菌的回顾性、全球性、纵向基因组流行病学研究为临床指南、基因组监测、抗菌素耐药性控制和公共卫生政策提供了循证数据。",
       "pollutant_categories": [
-        "塑化剂与内分泌干扰物"
+        "药物与个人护理品"
       ],
       "is_microplastic": false,
       "is_emerging_pollutant": true,
@@ -311,14 +409,142 @@
       "relevance_score": 1
     },
     {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Waste mop cloth recycling enables rapid, high-throughput removal of viscous winter oil spills",
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Complete biosynthesis of the clinical agent escin Ia",
+      "abstract": "Abstract Escin Ia is a barrigenol-type triterpenoid specific to Aesculus seeds and is widely utilized in clinical practice for the treatment of cerebral edema, swelling, and venous insufficiency. Here, we fully elucidated its biosynthetic pathway by identifying ten previously uncharacterized enzymes from Aesculus chinensis . AcCYP716BX1/2 catalyze the C-22α and C-28 hydroxylation of the β-amyrin scaffold, and AcCYP714E67 mediates the C-24 hydroxylation to produce protoaescigenin. Sequential glycosylation at the 2’- O and 4’- O positions is catalyzed by AcUGT94AK1/3/6 and AcUGT87AZ3, respectively, forming aesculuside B. AcCCL3 catalyzes the formation of tigloyl-CoA, and AcBAHD13/17 catalyze the C-21β tigloylation of aesculuside B to yield desacetylescin Ia. These enzymes significantly broaden the catalytic versatility of their respective gene families. Finally, we successfully reconstructed the complete pathway in Nicotiana benthamiana , enabling the heterologous production of escin Ia. This work fully elucidates the biosynthesis of escin Ia and establishes a foundation for the green production of barrigenol-type triterpenoid saponins.",
+      "published": "2026-08-18",
+      "doi": "10.1038/s41467-026-76851-3",
+      "url": "https://doi.org/10.1038/s41467-026-76851-3",
+      "title_zh": "临床药物七叶皂苷 Ia 的完全生物合成",
+      "abstract_zh": "摘要 Escin Ia 是七叶树种子特有的巴里烯醇型三萜类化合物，在临床上广泛用于治疗脑水肿、肿胀和静脉功能不全。在这里，我们通过鉴定七叶树中十种以前未表征的酶，充分阐明了其生物合成途径。 AcCYP716BX1/2 催化 β-香树素支架的 C-22α 和 C-28 羟基化，AcCYP714E67 介导 C-24 羟基化以产生原七叶皂甙元。 2'-O 和 4'-O 位的连续糖基化分别由 AcUGT94AK1/3/6 和 AcUGT87AZ3 催化，形成七叶苷 B。AcCCL3 催化七叶酰辅酶 A 的形成，AcBAHD13/17 催化七叶苷 B 的 C-21β 替格酰化生成去乙酰七叶素 Ia。这些酶显着拓宽了各自基因家族的催化多功能性。最后，我们成功重建了本塞姆氏烟草的完整途径，实现了七叶皂苷 Ia 的异源生产。该工作全面阐明了七叶皂苷Ia的生物合成，为巴瑞醇型三萜皂苷的绿色生产奠定了基础。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Tracking funding disparities in global health aid with machine learning",
+      "abstract": "Abstract Reducing the global burden of disease is crucial for improving health outcomes. However, misalignment between health aid and country-level disease burden leaves vulnerable populations without the necessary support for major health challenges, particularly in the least developed countries. Here, we develop a machine learning pipeline using large language models to track flows in official development assistance (ODA) earmarked for health and identify aid–burden misalignment. We classified 3.7 million development aid projects from 2000 to 2022 (USD ~ 332 billion) into 17 major categories of communicable, maternal, neonatal, and nutritional diseases (CMNNDs) and non-communicable diseases (NCDs). We compared the rank of per capita ODA disbursement against the rank of disease burden, measured in disability-adjusted life years (DALYs). We interpret DALY-based alignment as a policy-relevant heuristic rather than a prescriptive allocation criterion. Although funding and disease burden are significantly correlated for many diseases, there are notable disparities. For example, NCDs account for 59.5% of global DALYs but received only 2.5% of health-related ODA over the study period. This is concerning because low- and middle-income countries face an increasing double burden from both CMNNDs and NCDs. Our results show aid–burden misalignment across multiple diseases in several regions, including Central Africa and parts of South Asia and West Africa. Overall, our results identify health disparities to potentially inform policy decisions on development assistance and support targeted allocation of health aid.",
+      "published": "2026-08-18",
+      "doi": "10.1038/s41467-026-76542-z",
+      "url": "https://doi.org/10.1038/s41467-026-76542-z",
+      "title_zh": "通过机器学习跟踪全球卫生援助的资金差距",
+      "abstract_zh": "摘要 减轻全球疾病负担对于改善健康结果至关重要。然而，卫生援助与国家一级疾病负担之间的不一致导致弱势群体无法获得应对重大卫生挑战的必要支持，特别是在最不发达国家。在这里，我们使用大型语言模型开发了一个机器学习管道，以跟踪专门用于卫生的官方发展援助 (ODA) 的流量，并识别援助与负担的不一致。我们将2000年至2022年期间的370万个发展援助项目（约3320亿美元）分为传染病、孕产妇、新生儿和营养疾病（CMNND）和非传染性疾病（NCD）等17个主要类别。我们将人均官方发展援助支出的排名与以伤残调整生命年（DALY）衡量的疾病负担排名进行了比较。我们将基于 DALY 的调整解释为与政策相关的启发式方法，而不是规定性的分配标准。尽管资金和疾病负担对于许多疾病显着相关，但存在显着差异。例如，非传染性疾病占全球伤残调整生命年的 59.5%，但在研究期间仅收到健康相关官方发展援助的 2.5%。这令人担忧，因为低收入和中等收入国家面临着 CMNND 和非传染性疾病日益增加的双重负担。我们的研究结果显示，包括中非以及南亚和西非部分地区在内的多个地区多种疾病的援助与负担不一致。总体而言，我们的结果确定了健康差异，有可能为发展援助的政策决策提供信息，并支持有针对性的卫生援助分配。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Poromechanical toughening in tensile fracture of saturated solids",
+      "abstract": "Abstract Fracture in fluid-saturated porous solids is governed not only by solid mechanics but also by fluid flow within the pore space. In systems ranging from geomaterials to biological tissues, deformation in the near-tip region perturbs pore pressure and thereby alters crack growth. Yet these pore-fluid effects have largely been inferred rather than directly observed. Here, we perform in situ pore-pressure measurements during controlled tensile rupture of a water-saturated microporous cement. We demonstrate that a propagating crack generates a localized underpressure ahead of its tip, providing a direct experimental signature of poromechanical coupling. The amplitude of this transient pressure drop scales with the square root of crack velocity, in agreement with poroelastic theory. This underpressure reduces the effective stress near the crack tip, leading to a coupled mechanical response: the apparent fracture energy doubles across the tested velocity range while the fracture process zone shrinks by half. Our findings reveal poromechanical coupling as a rate-dependent control on fracture in saturated porous materials, governed by effective stress changes induced by competing fluid diffusion and crack advance.",
+      "published": "2026-08-18",
+      "doi": "10.1038/s41467-026-76352-3",
+      "url": "https://doi.org/10.1038/s41467-026-76352-3",
+      "title_zh": "饱和固体拉伸断裂的孔隙机械增韧",
+      "abstract_zh": "摘要 流体饱和多孔固体中的断裂不仅受固体力学的控制，还受孔隙空间内流体流动的控制。在从地质材料到生物组织的系统中，近端区域的变形会扰乱孔隙压力，从而改变裂纹扩展。然而，这些孔隙流体效应很大程度上是推断出来的，而不是直接观察到的。在这里，我们在水饱和微孔水泥的受控拉伸破裂过程中进行原位孔隙压力测量。我们证明，传播的裂纹在其尖端之前产生局部负压，提供了孔隙机械耦合的直接实验特征。这种瞬态压降的幅度与裂纹速度的平方根成比例，这与多孔弹性理论一致。这种负压降低了裂纹尖端附近的有效应力，导致耦合机械响应：在测试速度范围内表观断裂能加倍，而断裂过程区收缩一半。我们的研究结果表明，孔隙机械耦合是饱和多孔材料中断裂的速率相关控制，受竞争性流体扩散和裂纹扩展引起的有效应力变化的控制。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Prophage\nActivation as an Overlooked Mechanism Underlying\nthe Biocidal Effect of Free Nitrous Acid in Sewers",
+      "abstract": "Abstract Biogenic hydrogen sulfide produced in sewer systems causes odor nuisance and concrete corrosion, necessitating effective biocidal control. Free nitrous acid (FNA) has emerged as a promising biocide, but its unclear mechanisms complicate dosage optimization and risk assessment. Here, using Desulfovibrio vulgaris as a model lysogenic bacterium, we demonstrate that low-dose FNA (0.2–4.0 mg N/L) induces bacterial inactivation via prophage activation-associated lysis in addition to chemical oxidation. Reactive nitrogen species (RNS) scavenging tests revealed that RNS-mediated oxidative stress was closely associated with prophage activation. Activated phages further infected new hosts, reducing the viability of freshly cultured D. vulgaris cells by 25.7% and increasing total phage production 15.2-fold. The phenomenon was further validated in real sewage biofilms, where increased phage production and decreased bacterial viability were observed at a low FNA dose of 0.2 mg N/L, below the dose required for cell destruction by chemical oxidation. Furthermore, metagenomic analysis of 896 sewage samples worldwide revealed that 71.9% of recovered sewage-derived microbial genomes harbor prophages, indicating a widespread genomic basis for prophage activation-mediated bacterial inactivation. Overall, this study expands current understanding of the biocidal mechanisms of FNA and contributes to the development of environmentally sustainable biocidal strategies.",
+      "published": "2026-08-18",
+      "doi": "10.1021/acs.est.6c01580",
+      "url": "https://doi.org/10.1021/acs.est.6c01580",
+      "title_zh": "原噬菌体\n激活作为一个被忽视的潜在机制\n下水道中游离亚硝酸的杀菌作用",
+      "abstract_zh": "摘要 下水道系统中产生的生物硫化氢会造成臭味滋扰和混凝土腐蚀，因此需要有效的杀菌控制。游离亚硝酸（FNA）已成为一种有前途的杀菌剂，但其机制尚不明确，使剂量优化和风险评估变得复杂。在这里，我们使用普通脱硫弧菌作为溶源性细菌模型，证明低剂量 FNA (0.2–4.0 mg N/L) 除了化学氧化之外，还可通过与前噬菌体活化相关的裂解来诱导细菌失活。活性氮（RNS）清除试验表明，RNS 介导的氧化应激与原噬菌体激活密切相关。激活的噬菌体进一步感染新宿主，使新鲜培养的 D. vulgaris 细胞的活力降低 25.7%，并使噬菌体总产量增加 15.2 倍。这一现象在真实的污水生物膜中得到了进一步验证，在 0.2 mg N/L 的低 FNA 剂量（低于化学氧化破坏细胞所需的剂量）下，观察到噬菌体产量增加和细菌活力下降。此外，对全球 896 个污水样本的宏基因组分析显示，回收的污水来源微生物基因组中 71.9% 含有原噬菌体，这表明原噬菌体激活介导的细菌失活存在广泛的基因组基础。总的来说，这项研究扩展了目前对 FNA 杀菌机制的理解，并有助于环境可持续的杀菌策略的发展。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Surface\nProton Reservoirs\nConstrain Alkalinity Export\nfrom Enhanced Weathering",
+      "abstract": "Abstract The addition of silicate and carbonate materials to soils (enhanced weathering) is a proposed carbon dioxide removal (CDR) strategy with potential agronomic co-benefits, especially for soil pH management. However, alkalinity from mineral dissolution interacts with the surface proton reservoir (SPR), consuming alkalinity prior to export and complicating quantification. Because durable CDR requires transmission of alkalinity to marine storage, soil export constitutes a mechanistically definable upper bound on EW performance. Here, we develop a framework that partitions operational cation exchange measurements into electrostatic and pH-dependent coordinative surface reservoirs and embed this representation within a reactive transport model to explicitly couple the depth-dependent SPR, cation exchange, alkalinity generation, and CO2(g) exchange. We apply this approach to contrasting silicate (olivine) and carbonate (calcite) amendments across representative hydrologic conditions. Using distance-based generalized sensitivity analysis, we identify the multivariate control space involving SPR magnitude, baseline soil pH, soil moisture, and amendment rate that governs alkalinity export efficiency. Simulations show that amendment-derived alkalinity is largely neutralized during early dissolution, with substantial impairment occurring below the shallow (&gt;25 cm) soil zone. As a result, proxy-based estimates of alkalinity export derived from dissolved inorganic carbon or base cations exhibit systematic and depth-dependent bias. These findings highlight the SPR as a first-order limitation on EW alkalinity export and suggest appropriate screening and monitoring strategies for CDR quantification.",
+      "published": "2026-08-18",
+      "doi": "10.1021/acs.est.6c03236",
+      "url": "https://doi.org/10.1021/acs.est.6c03236",
+      "title_zh": "表面\n质子储层\n限制碱度导出\n来自增强耐候性",
+      "abstract_zh": "Abstract The addition of silicate and carbonate materials to soils (enhanced weathering) is a proposed carbon dioxide removal (CDR) strategy with potential agronomic co-benefits, especially for soil pH management. However, alkalinity from mineral dissolution interacts with the surface proton reservoir (SPR), consuming alkalinity prior to export and complicating quantification. Because durable CDR requires transmission of alkalinity to marine storage, soil export constitutes a mechanistically definable upper bound on EW performance. Here, we develop a framework that partitions operational cation exchange measurements into electrostatic and pH-dependent coordinative surface reservoirs and embed this representation within a reactive transport model to explicitly couple the depth-dependent SPR, cation exchange, alkalinity generation, and CO2(g) exchange.我们应用这种方法来对比代表性水文条件下的硅酸盐（橄榄石）和碳酸盐（方解石）修正。 Using distance-based generalized sensitivity analysis, we identify the multivariate control space involving SPR magnitude, baseline soil pH, soil moisture, and amendment rate that governs alkalinity export efficiency. Simulations show that amendment-derived alkalinity is largely neutralized during early dissolution, with substantial impairment occurring below the shallow (&gt;25 cm) soil zone. As a result, proxy-based estimates of alkalinity export derived from dissolved inorganic carbon or base cations exhibit systematic and depth-dependent bias. These findings highlight the SPR as a first-order limitation on EW alkalinity export and suggest appropriate screening and monitoring strategies for CDR quantification.",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "A Wastewater-based\nModeling Framework for Inferring\nNorovirus Transmission Dynamics",
+      "abstract": "Abstract Norovirus is a leading cause of gastroenteritis globally, yet its true infection burden in the community remains poorly understood because of widespread asymptomatic transmission and underreporting. Wastewater-based surveillance is a promising approach for tracking infection trends, but methods for mechanistically linking wastewater viral concentrations to infection dynamics remain limited. Here, we developed a mechanistic SEIR-V framework to infer community-level norovirus transmission dynamics from wastewater data by jointly modeling disease transmission, viral-shedding kinetics, and wastewater viral load. We leveraged temporal fecal shedding data from a controlled human challenge study and systematic literature review to parametrize symptom-specific shedding profiles and integrate them into the framework. Applied to wastewater data from four treatment plants in El Paso, Texas, the model showed consistent agreement between out-of-sample predictions and observed wastewater viral load across sewersheds while generating model-inferred temporal infection dynamics across disease compartments. Sensitivity analysis further showed that wastewater viral load was influenced by transmission, shedding, and viral loss parameters, whereas inferred infection dynamics were primarily influenced by the transmission rate and infectious duration. This work provides a mechanistic wastewater modeling framework to infer norovirus transmission dynamics and could support proactive public health surveillance, particularly for pathogens with high asymptomatic transmission and limited clinical reporting.",
+      "published": "2026-08-18",
+      "doi": "10.1021/acs.est.6c02418",
+      "url": "https://doi.org/10.1021/acs.est.6c02418",
+      "title_zh": "基于废水的\n推理建模框架\n诺如病毒传播动力学",
+      "abstract_zh": "摘要 诺如病毒是全球胃肠炎的主要原因，但由于广泛的无症状传播和漏报，人们对其在社区中的真正感染负担仍知之甚少。基于废水的监测是跟踪感染趋势的一种有前景的方法，但将废水病毒浓度与感染动态机械联系起来的方法仍然有限。在这里，我们开发了一个机械 SEIR-V 框架，通过联合建模疾病传播、病毒脱落动力学和废水病毒载量，从废水数据推断社区级诺如病毒传播动态。我们利用来自受控人类挑战研究和系统文献综述的时间粪便排泄数据来参数化特定症状的排泄概况并将其整合到框架中。该模型应用于德克萨斯州埃尔帕索四个处理厂的废水数据，显示出样本外预测与下水道中观察到的废水病毒载量之间的一致性，同时生成了模型推断的跨疾病分区的时间感染动态。敏感性分析进一步表明，废水病毒载量受传播、脱落和病毒丢失参数的影响，而推断的感染动态主要受传播率和感染持续时间的影响。这项工作提供了一个机械废水模型框架来推断诺如病毒的传播动态，并可以支持主动的公共卫生监测，特别是对于无症状传播率高且临床报告有限的病原体。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Deprotonation-mediated vitrification of organic-inorganic hybrid perovskites",
+      "abstract": "Abstract Glasses made from organic-inorganic hybrid perovskites are emerging non-crystalline semiconducting materials whose versatile composition and exceptional processability allow for manifold applications. The current melt-quenching approaches are compatible to only few perovskite crystals, as most undergo irreversible decomposition prior to melting. Herein, we report a general flux-mediated approach to produce a library of high-quality perovskite glasses with different organic molecules, metal centers, and framework dimensionality. We show that the partial deprotonation of organic moiety by alkali metal hydroxide flux modulates the intermolecular interactions in perovskites, and activates the flow unit, which depresses the fusion temperature ranging 21–77 °C with flux ratio <1.1 wt%. More critically, the utilization of hydroxide flux creates a large melt window, and enables the thermal vitrification of many inherently non-meltable systems, such as (BA) 2 PbI 4 (BA = butylamine) and (DGA)PbI 4 (DGA = 1,1-dimethylbiguanide). Using these semiconductive glasses, we realize high-performance X-ray detection devices showing a sensitivity of 35674.1 μC Gy air −1 cm −2 under 500 V mm −1 electric field, and a high-resolution X-ray imaging system via its seamless integration on commercial thin-film transistor backplanes.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76712-z",
+      "url": "https://doi.org/10.1038/s41467-026-76712-z",
+      "title_zh": "有机-无机杂化钙钛矿的去质子化介导的玻璃化",
+      "abstract_zh": "摘要 由有机-无机杂化钙钛矿制成的玻璃是新兴的非晶半导体材料，其多功能的成分和卓越的加工性能允许多种应用。目前的熔化淬火方法仅适用于少数钙钛矿晶体，因为大多数钙钛矿晶体在熔化前会发生不可逆分解。在此，我们报告了一种通用的通量介导方法来生产具有不同有机分子、金属中心和框架维度的高质量钙钛矿玻璃库。我们表明，碱金属氢氧化物通量对有机部分的部分去质子化调节了钙钛矿中的分子间相互作用，并激活了流动单元，从而降低了 21-77 °C 范围内的熔化温度，通量比 <1.1 wt%。更关键的是，氢氧化物助熔剂的使用创造了一个大的熔化窗口，并使许多本质上不可熔化的体系能够热玻璃化，例如(BA) 2 PbI 4 (BA = 丁胺)和(DGA)PbI 4 (DGA = 1,1-二甲基双胍)。使用这些半导体玻璃，我们实现了高性能X射线探测装置，在500 V mm -1 电场下灵敏度为35674.1 μC Gy air -1 cm -2 ，并通过其与商用薄膜晶体管背板的无缝集成实现了高分辨率X射线成像系统。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Identifying phenotype-genotype-function coupling in 3D organoid imaging using Shape, Appearance and Motion Phenotype Observation Tool (SPOT)",
+      "abstract": "Abstract Live cells in tissue are plastic, phenotypically dynamic, and modify their function in response to genetic and environmental perturbations. To unleash the power of live-cell imaging to identify phenotype-genotype-function coupling over time, we report the development of a standardized Shape-Appearance-Motion (SAM) “phenome” and SAM-Phenotype-Observation-Tool (SPOT), that act as an image-“transcriptome” and image-“transcriptome analyzer” respectively, and provide an unbiased and comprehensive description of morpho-dynamic phenotypes without prior knowledge. We apply SAM-SPOT to our simulated organoids database with known ground-truth and >1.6 million mouse and human organoid instances with defined genetic and chemical perturbations. SAM-SPOT can effectively and robustly characterize 3D morpho-dynamics from 2D projection videos. Combined with single-cell RNA sequencing, SAM-SPOT reveals that altered WNT signaling, but not mutant RAS or p53, predisposes intestinal organoids to irregular morphogenesis. SAM-SPOT advances biomedical discovery by empowering live-cell imaging to identify phenotype-genotype-function relationships through large-scale and cost-effective label-free live-cell imaging.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-75506-7",
+      "url": "https://doi.org/10.1038/s41467-026-75506-7",
+      "title_zh": "使用形状、外观和运动表型观察工具 (SPOT) 识别 3D 类器官成像中的表型-基因型-功能耦合",
+      "abstract_zh": "摘要 组织中的活细胞是可塑的、表型动态的，并且会根据遗传和环境扰动改变其功能。为了释放活细胞成像的力量来识别随时间变化的表型-基因型-功能耦合，我们报告了标准化形状-外观-运动（SAM）“表型”和SAM-表型-观察-工具（SPOT）的开发，它们分别充当图像“转录组”和图像“转录组分析器”，并在没有先验知识的情况下提供形态动态表型的公正且全面的描述。我们将 SAM-SPOT 应用到我们的模拟类器官数据库中，该数据库具有已知的真实情况和超过 160 万个具有明确遗传和化学扰动的小鼠和人类类器官实例。 SAM-SPOT 可以有效、稳健地表征 2D 投影视频的 3D 形态动力学。结合单细胞 RNA 测序，SAM-SPOT 揭示了改变的 WNT 信号传导，而不是突变的 RAS 或 p53，使肠道类器官的形态发生变得不规则。 SAM-SPOT 通过大规模且经济高效的无标记活细胞成像，使活细胞成像能够识别表型-基因型-功能关系，从而推动生物医学发现。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Dynamic “Deactivation” mechanism enables epoxides ring-opening to prepare α-substituted alcohols",
       "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143161",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143161",
-      "title_zh": "废弃拖把布回收能够快速、高通量地清除冬季粘性漏油",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76655-5",
+      "url": "https://doi.org/10.1038/s41467-026-76655-5",
+      "title_zh": "动态“失活”机制使环氧化物开环制备α-取代醇",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
@@ -327,14 +553,14 @@
       "relevance_score": 0
     },
     {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Seasonal multiphase partitioning and driving mechanisms of eutrophicants and toxic contaminants in effluent-receiving rivers: Integrating field monitoring and hydrodynamic modeling",
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Molecular basis for cold and menthol sensing by mammalian TRPM8",
       "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143296",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143296",
-      "title_zh": "受纳河流中富营养化物和有毒污染物的季节性多相分配和驱动机制：现场监测和水动力建模相结合",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76926-1",
+      "url": "https://doi.org/10.1038/s41467-026-76926-1",
+      "title_zh": "哺乳动物 TRPM8 冷感和薄荷醇传感的分子基础",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
@@ -343,15 +569,143 @@
       "relevance_score": 0
     },
     {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Scaling up biochar based remediation: Continuous column adsorption of toxic elements from oil sands wastewater and sequential valorization of spent biochar in cement",
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Mixed positive and negative feedback loops drive diverse single-cell gene expression dynamics",
+      "abstract": "Abstract Genetic circuits with only a few components can generate complex gene regulatory dynamics. Here, we combine stochastic modelling and single-cell time-lapse microscopy to map how a common circuit motif, the mixed positive/negative feedback loop, gives rise to diverse single-cell behaviours. Our minimal stochastic model of this motif reveals ten distinct classes of dynamic output, including stochastic pulsing, oscillations, and bistability. We systematically map how the circuit’s core parameters can be tuned to generate each of the behaviours. Experimental validation in two different mixed feedback circuits in the bacterium Bacillus subtilis , σ B and σ V , confirms our model’s predictive power. Guided by our simulations, we are able to transition between selected dynamic behaviours by modulating in vivo parameters. Together, these results establish a quantitative framework for how mixed feedback loops generate diverse single-cell dynamics, improving our understanding of this common biological network motif and informing our efforts to engineer them for synthetic biology applications.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-75107-4",
+      "url": "https://doi.org/10.1038/s41467-026-75107-4",
+      "title_zh": "混合的正反馈环和负反馈环驱动不同的单细胞基因表达动态",
+      "abstract_zh": "摘要：仅由少量元件组成的遗传电路就可以产生复杂的基因调控动态。在这里，我们结合随机建模和单细胞延时显微镜来绘制常见的电路图案（混合正/负反馈回路）如何引起不同的单细胞行为。我们的该主题的最小随机模型揭示了十种不同类别的动态输出，包括随机脉冲、振荡和双稳态。我们系统地描绘了如何调整电路的核心参数以生成每种行为。在枯草芽孢杆菌的两个不同混合反馈电路 σ B 和 σ V 中进行的实验验证证实了我们模型的预测能力。在我们的模拟指导下，我们能够通过调节体内参数在选定的动态行为之间进行转换。总之，这些结果为混合反馈回路如何产生不同的单细胞动力学建立了一个定量框架，提高了我们对这种常见生物网络基序的理解，并为我们为合成生物学应用设计它们的努力提供了信息。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Counteraction of HMGB1 at ss-dsDNA junctions maintains liquidity of protamine-DNA co-condensates",
       "abstract": "",
-      "published": "2026-09-01",
-      "doi": "10.1016/j.jhazmat.2026.143293",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143293",
-      "title_zh": "扩大基于生物炭的修复：油砂废水中有毒元素的连续柱吸附和水泥中废生物炭的连续增值",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76807-7",
+      "url": "https://doi.org/10.1038/s41467-026-76807-7",
+      "title_zh": "HMGB1 在 ss-dsDNA 连接处的反作用维持了鱼精蛋白-DNA 共缩合物的流动性",
       "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Author Correction: Breaking the activity-selectivity trade-off for acetylene semihydrogenation by Pd2 dual-atom site",
+      "abstract": "",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76860-2",
+      "url": "https://doi.org/10.1038/s41467-026-76860-2",
+      "title_zh": "作者更正：通过 Pd2 双原子位点打破乙炔半氢化的活性与选择性权衡",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Microbial superoxide production drives biogenic nitrogen dioxide formation in soils",
+      "abstract": "Abstract Nitrogen dioxide (NO 2 ) is a critical atmospheric pollutant and ozone precursor, yet biogenic soil sources remain poorly constrained. Current models assume soil NO 2 flux is exclusively depositional. Here we demonstrate that soils can produce NO 2 through microbial superoxide (O 2 ˉ) production. Using controlled factorial slurry experiments, native microbial communities produced approximately 10 times more NO 2 than sterile controls following nitric oxide (NO) exposure. Stimulating superoxide production with NADH increased NO 2 formation 15- to 26-fold, while inhibiting NADH oxidase reduced production toward baseline levels. Superoxide dismutase decreased NO 2 production by 46-71%, and O 2 ˉ concentration explained 60% of variation in NO 2 production rates. Addition of peroxynitrite to soil increased headspace NO 2 , confirming this intermediate as the mechanistic link. These findings reveal a pathway linking carbon and nitrogen cycling where heterotrophic decomposers facilitate biogenic NO-to-NO 2 conversion via superoxide chemistry, potentially explaining discrepancies between satellite observations and modelled soil NO x emissions.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76881-x",
+      "url": "https://doi.org/10.1038/s41467-026-76881-x",
+      "title_zh": "微生物超氧化物的产生驱动土壤中生物二氧化氮的形成",
+      "abstract_zh": "摘要 二氧化氮（NO 2 ）是一种重要的大气污染物和臭氧前体，但生物土壤源仍然很少受到限制。目前的模型假设土壤NO 2 通量完全是沉积的。在这里，我们证明土壤可以通过微生物超氧化物（O 2 ˉ）的产生来产生NO 2 。通过受控因子浆料实验，接触一氧化氮 (NO) 后，原生微生物群落产生的 NO 2 比无菌对照组多约 10 倍。用 NADH 刺激超氧化物的产生可使 NO 2 的形成增加 15 至 26 倍，而抑制 NADH 氧化酶则可将产生量降低至基线水平。超氧化物歧化酶使NO 2 产量减少46-71%，O 2 ˉ浓度解释了NO 2 产量变化的60%。向土壤中添加过氧亚硝酸盐增加了顶部空间NO 2 ，​​证实了该中间体是机械连接。这些发现揭示了连接碳和氮循环的途径，其中异养分解剂通过超氧化物化学促进生物NO向NO 2 的转化，这可能解释了卫星观测与模拟土壤NO x 排放之间的差异。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Efficient spatio-angular reconstruction enables high-fidelity mapping of six-dimensional structures and dynamics with polarized fluorescence microscopy",
+      "abstract": "Abstract Understanding molecular orientation and density distributions is essential for unveiling biological structure and function. Polarized fluorescence microscopy (PFM) offers valuable insights into the structural orientation information, yet existing methods typically retrieve only ensemble-averaged orientations within each voxel and struggle to resolve comprehensive three-dimensional (3D) orientation distributions, particularly in thick or densely labeled complex specimens. Here we introduce the efficient generalized Richardson-Lucy (eGRL) algorithm, a computational framework that reconstructs complete 3D position and 3D orientation (spatio-angular) distributions of fluorescent molecules from PFM measurements. eGRL statistically models the oriented-fluorophore imaging process, solves the inverse problem with an iterative maximum-likelihood solution, and integrates dimensionality reduction with angular-domain transformation to achieve accurate and efficient reconstruction on standard computational platforms. Validated on simulated and experimental data across diverse PFM implementations, eGRL resolves previously inaccessible spatio-angular structures and dynamics, including actin filament alignment, nanowire-guided cytoskeletal organization, rotational actin patterns, and membrane tension-induced anisotropy in live cells.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76703-0",
+      "url": "https://doi.org/10.1038/s41467-026-76703-0",
+      "title_zh": "高效的空间角度重建能够利用偏振荧光显微镜对六维结构和动力学进行高保真映射",
+      "abstract_zh": "摘要 了解分子取向和密度分布对于揭示生物结构和功能至关重要。偏振荧光显微镜 (PFM) 为结构取向信息提供了有价值的见解，但现有方法通常仅检索每个体素内的整体平均取向，并且难以解析全面的三维 (3D) 取向分布，特别是在厚或密集标记的复杂样本中。在这里，我们介绍高效的广义 Richardson-Lucy (eGRL) 算法，这是一种计算框架，可根据 PFM 测量重建荧光分子的完整 3D 位置和 3D 方向（空间角度）分布。 eGRL 对定向荧光团成像过程进行统计建模，通过迭代最大似然解解决逆问题，并将降维与角域变换相结合，以在标准计算平台上实现准确高效的重建。 eGRL 经过不同 PFM 实施的模拟和实验数据的验证，解决了以前无法访问的空间角度结构和动力学问题，包括肌动蛋白丝排列、纳米线引导的细胞骨架组织、旋转肌动蛋白模式和活细胞中膜张力诱导的各向异性。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Broadband and wide-temperature dissipation continuum in a supramolecular damping organohydrogel for motion-tolerant bioelectronics",
+      "abstract": "",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76626-w",
+      "url": "https://doi.org/10.1038/s41467-026-76626-w",
+      "title_zh": "用于耐运动生物电子学的超分子阻尼有机水凝胶中的宽带和宽温度耗散连续体",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "A minimal model of working memory in neural systems and neuromorphic circuits",
+      "abstract": "Abstract Phenomenological spiking neuron models such as Izhikevich, adaptive quadratic integrate-and-fire (aQIF), and Adaptive Exponential (AdEx) are widely used because of their simplicity and numerical efficiency. These models reproduce diverse neuronal dynamics through a slow self-inhibitory adaptation variable. Here we introduce their symmetric counterpart by replacing adaptation with slow self-excitation, motivated by intrinsic calcium-mediated membrane currents. This minimal modification enables robust persistent spiking and working-memory dynamics without compromising computational efficiency. These properties remain in excitatory spiking neural networks. We then derive and validate a mean-field neural mass model that remains stable while retaining working-memory functionality. Additionally, we implement the single-neuron model in a minimal memristor-based neuromorphic circuit and experimentally confirm its dynamics. These results provide scalable tools for large-scale brain simulations and neuromorphic applications in robotics, brain-machine interfaces, and edge AI devices.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-75704-3",
+      "url": "https://doi.org/10.1038/s41467-026-75704-3",
+      "title_zh": "神经系统和神经形态回路中工作记忆的最小模型",
+      "abstract_zh": "摘要 Izhikevich、自适应二次积分激发（aQIF）和自适应指数（AdEx）等现象学尖峰神经元模型因其简单性和数值效率而被广泛使用。这些模型通过缓慢的自我抑制适应变量再现不同的神经元动力学。在这里，我们通过用内在钙介导的膜电流驱动的缓慢自激代替适应来介绍它们的对称对应物。这种最小的修改可以在不影响计算效率的情况下实现强大的持续尖峰和工作记忆动态。这些特性保留在兴奋性尖峰神经网络中。然后，我们推导并验证了平均场神经质量模型，该模型在保留工作记忆功能的同时保持稳定。此外，我们在基于忆阻器的最小神经形态电路中实现了单神经元模型，并通过实验证实了其动力学。这些结果为机器人、脑机接口和边缘人工智能设备中的大规模大脑模拟和神经形态应用提供了可扩展的工具。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Reconfigurable multibeam engineering of Marangoni convection for programmable optofluidic steering",
+      "abstract": "",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76930-5",
+      "url": "https://doi.org/10.1038/s41467-026-76930-5",
+      "title_zh": "用于可编程光流控转向的马兰戈尼对流可重构多波束工程",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Ferroelectric-assisted charge-transfer plasmons in graphene/CuInP2S6",
+      "abstract": "Abstract Two-dimensional materials and their van der Waals heterostructures provide a versatile platform for novel optoelectronic functionalities. Interfacial charge transfer in such stacks enables high-quality graphene plasmons, but the charge-doping is fixed by work-function differences between constituent layers. Ferroelectric substrates have been explored for non-volatile, switchable doping, yet oxide ferroelectrics yield only modest doping due to imperfect interfaces. Here, we report efficient charge transfer between graphene and the van der Waals ferroelectric CuInP 2 S 6 , where the atomically-sharp interface yields unexpectedly large doping and high-quality plasmons, despite orders-of-magnitude smaller polarizations compared to oxide ferroelectrics. Infrared nano-imaging directly visualizes graphene plasmons whose doping depends on the adjacent ferroelectric layer. Combined nano-infrared and piezoresponse force microscopies reveal that graphene doping and CuInP 2 S 6 polarization increase with thickness and saturate in tandem, linking charge-transfer doping and out-of-plane ferroelectricity. Our results establish ferroelectric-assisted charge-transfer plasmons in graphene/CuInP 2 S 6 as a promising route to probe and control nanoscale ferroelectric textures.",
+      "published": "2026-08-17",
+      "doi": "10.1038/s41467-026-76909-2",
+      "url": "https://doi.org/10.1038/s41467-026-76909-2",
+      "title_zh": "石墨烯/CuInP2S6 中的铁电辅助电荷转移等离子体",
+      "abstract_zh": "摘要 二维材料及其范德华异质结构为新型光电功能提供了一个通用平台。这种堆叠中的界面电荷转移能够实现高质量的石墨烯等离子体激元，但电荷掺杂是通过组成层之间的功函数差异来固定的。铁电衬底已被探索用于非易失性、可切换掺杂，但由于界面不完善，氧化物铁电体仅产生适度的掺杂。在这里，我们报告了石墨烯和范德华铁电体 CuInP 2 S 6 之间的有效电荷转移，其中原子级尖锐的界面产生了意想不到的大量掺杂和高质量的等离子激元，尽管与氧化物铁电体相比极化程度要小几个数量级。红外纳米成像直接可视化石墨烯等离子体，其掺杂取决于相邻的铁电层。结合纳米红外和压电响应力显微镜揭示石墨烯掺杂和 CuInP 2 S 6 极化随着厚度的增加而增加并串联饱和，将电荷转移掺杂和面外铁电性联系起来。我们的研究结果表明，石墨烯/CuInP 2 S 6 中的铁电辅助电荷转移等离子激元是探测和控制纳米级铁电纹理的有前途的途径。",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -375,14 +729,30 @@
       "relevance_score": 0
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Viscoelasticity-guided covalent assembly of atomically precise nanoclusters via nitrene-mediated two-photon lithography",
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "How Microscale Flow\nand Vapor Transport Shape New\nParticle Formation and Growth",
+      "abstract": "Abstract Accurate simulation of atmospheric new particle formation (NPF) remains limited because large-scale models cannot resolve aerosol processes at fine spatial scales, while detailed microphysics models assume spatially homogeneous conditions. Here we use a high-resolution three-dimensional multiphysics framework (3D-ICAM) to quantify how environmental heterogeneity governs NPF dynamics at meter scales. Simulations at 10 m resolution across contrasting emission geometries reveal that spatial gradients in wind and precursor vapor convergence substantially modify local nucleation intensity, particle growth rates, and size-distribution structure. Under weak-wind conditions (&lt;1 m s–1) the model reproduces nucleation “hotspots”, intermittent multiepisode nucleation, and persistently bimodal size distributions absent under homogeneous conditions. Comparison with an equivalent box (0D) model isolates the effect of spatial structure: resolving it raises predicted growth rates at the survival-limiting sub-3 nm sizes by up to ∼20× and brings modeled growth within the range of field observations, whereas the box model underpredicts across the size spectrum. This occurs because localized, transport-generated microenvironments relax the growth–scavenging competition that governs particle survival. Meter-scale environmental structure therefore strongly influences urban NPF and must be considered when interpreting observations, constraining nucleation mechanisms, and predicting particle number and cloud condensation nuclei budgets.",
+      "published": "2026-08-17",
+      "doi": "10.1021/acs.est.6c10206",
+      "url": "https://doi.org/10.1021/acs.est.6c10206",
+      "title_zh": "微尺度流动如何\n和蒸汽传输形状新\n颗粒的形成和生长",
+      "abstract_zh": "摘要：大气新颗粒形成（NPF）的准确模拟仍然受到限制，因为大规模模型无法解析精细空间尺度的气溶胶过程，而详细的微物理模型则假设空间均匀条件。在这里，我们使用高分辨率三维多物理场框架（3D-ICAM）来量化环境异质性如何控制米尺度的 NPF 动力学。在 10 m 分辨率下对对比发射几何形状进行的模拟表明，风和前体蒸气汇聚的空间梯度极大地改变了局部成核强度、颗粒生长速率和尺寸分布结构。在弱风条件下（<1 m s-1），该模型再现了成核“热点”、间歇性多阶段成核以及均匀条件下不存在的持续双峰尺寸分布。与等效盒 (0D) 模型的比较隔离了空间结构的影响：解决该问题可将生存限制的亚 3 nm 尺寸的预测生长率提高约 20 倍，并将模型生长置于现场观察范围内，而盒模型则对整个尺寸谱进行了低估。发生这种情况是因为局部的、运输产生的微环境放松了控制粒子生存的生长-清除竞争。因此，米级环境结构强烈影响城市 NPF，在解释观测结果、约束成核机制以及预测粒子数和云凝结核预算时必须予以考虑。",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Application and\nDevelopment of Standard Reference\nMaterials as the Metrological Foundation for Retrospective Nontarget\nAnalysis",
       "abstract": "",
       "published": "2026-08-17",
-      "doi": "10.1038/s41467-026-76504-5",
-      "url": "https://doi.org/10.1038/s41467-026-76504-5",
-      "title_zh": "通过氮烯介导的双光子光刻实现原子级精确纳米团簇的粘弹性引导共价组装",
+      "doi": "10.1021/acs.est.6c11841",
+      "url": "https://doi.org/10.1021/acs.est.6c11841",
+      "title_zh": "应用及\n标准参考的制定\n材料作为回顾性非目标的计量基础\n分析",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
@@ -391,47 +761,33 @@
       "relevance_score": 0
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "PD-1 regulates CD4+ T cell-mediated CD8+ T cell responses in the brain to balance viral control and neuroinflammation",
-      "abstract": "",
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Dibromoacetic Acid\nInduces Hypothyroidism: From Network\nToxicology to SOCS1-Mediated Mechanistic Validation",
+      "abstract": "Abstract Thyroid dysfunction affects hundreds of millions of people worldwide, yet the environmental contributors remain poorly characterized. Dibromoacetic acid (DBA), an unregulated brominated disinfection byproduct, is frequently detected in drinking water and is widely present in human populations. Despite its widespread human exposure, its potential to disrupt thyroid function and induce hypothyroidism has remained largely unexplored. To address this knowledge gap, we adopted an integrative strategy combining network toxicology, transcriptomics, and in vivo and in vitro experimental validation. Phenotypic results showed that in DBA-exposed SD rats, plasma thyroid hormone (TH) levels decreased, and thyroid histomorphology and ultrastructure were impaired. Mechanistically, DBA dysregulated thyroid miRNA expression, particularly upregulating miR-365–5p/miR-448–5p to downregulate SOCS1. Subsequently, SOCS1 depletion coupled with oxidative stress hyperactivated the Jak1/Stat1 signaling cascade, which, in turn, positively regulated YY1 to transcriptionally repress TPO in thyrocytes, ultimately suppressing TH synthesis. Moreover, DBA disrupted TH metabolism, transport, selenium trafficking, and receptor expression, further exacerbating the hypothyroidism. Taken together, our results identify DBA as an unrecognized thyroid-disrupting chemical beyond a simple unregulated drinking-water DBP. This integrative paradigm bridges computational prediction and mechanistic validation, establishing a reliable workflow to assess endocrine disruption triggered by poorly characterized DBPs and emerging environmental contaminants.",
       "published": "2026-08-17",
-      "doi": "10.1038/s41467-026-76762-3",
-      "url": "https://doi.org/10.1038/s41467-026-76762-3",
-      "title_zh": "PD-1 调节大脑中 CD4+ T 细胞介导的 CD8+ T 细胞反应，以平衡病毒控制和神经炎症",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
+      "doi": "10.1021/acs.est.6c07158",
+      "url": "https://doi.org/10.1021/acs.est.6c07158",
+      "title_zh": "二溴乙酸\n诱发甲状腺功能减退症：来自网络\nSOCS1 介导的机制验证的毒理学",
+      "abstract_zh": "摘要 甲状腺功能障碍影响着全世界数亿人，但其环境影响因素仍知之甚少。二溴乙酸 (DBA) 是一种不受管制的溴化消毒副产品，经常在饮用水中检测到，并且广泛存在于人群中。尽管人类广泛接触它，但其破坏甲状腺功能和诱发甲状腺功能减退的潜力仍未得到充分探索。为了解决这一知识差距，我们采用了结合网络毒理学、转录组学以及体内和体外实验验证的综合策略。表型结果显示，DBA暴露的SD大鼠血浆甲状腺激素（TH）水平下降，甲状腺组织形态和超微结构受损。从机制上讲，DBA 失调甲状腺 miRNA 表达，特别是上调 miR-365–5p/miR-448–5p 从而下调 SOCS1。随后，SOCS1 耗竭加上氧化应激使 Jak1/Stat1 信号级联过度激活，进而正向调节 YY1 以转录抑制甲状腺细胞中的 TPO，最终抑制 TH 合成。此外，DBA 扰乱了 TH 代谢、运输、硒运输和受体表达，进一步加剧了甲状腺功能减退症。总而言之，我们的结果表明，DBA 是一种未被识别的甲状腺干扰化学物质，超出了简单的不受监管的饮用水 DBP 的范围。这种综合范例将计算预测和机制验证联系起来，建立了可靠的工作流程来评估由不良特征 DBP 和新出现的环境污染物引发的内分泌干扰。",
+      "pollutant_categories": [
+        "塑化剂与内分泌干扰物"
+      ],
       "is_microplastic": false,
-      "is_emerging_pollutant": false,
+      "is_emerging_pollutant": true,
       "microplastic_themes": [],
-      "relevance_score": 0
+      "relevance_score": 1
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Chem-SIM: SIM-resolved chemical imaging via wide-field mid-infrared photothermal modulation of fluorescence",
-      "abstract": "",
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Microbial Reduction–Induced\nSelective DOM Transformation\nGoverns As(III) Oxidation under Redox Oscillations",
+      "abstract": "Abstract Microbial respiration-triggered reductive transformation of dissolved organic matter (DOM) plays a central role in O2 activation and, consequently, As(III) oxidation under fluctuating hydrological conditions. However, the key DOM components and their molecular transformations associated with this electron-transfer process remain poorly resolved. Here, by integrating Fourier transform ion cyclotron resonance mass spectrometry with machine learning, we reveal that fulvic acid (FA), the predominant DOM fraction, undergoes selective molecular transformation by Geobacter sulfurreducens PCA, forming a reactive subpool that drives O2 activation and thereby enhances As(III) oxidation by approximately 2–10 fold. Reaction network analysis reveals that oxygen-rich aromatic precursors are preferentially transformed into more reduced intermediates through decarboxylation, dehydrogenation, and partial reduction pathways. These transformations collectively shift the molecular composition toward lower oxidation states and enhanced redox reactivity. Machine-learning analysis further identifies nitrogen- and sulfur-containing molecules with low oxidation states as the key components governing the overall redox activity of the system. These species represent a functionally distinct fraction of microbially transformed FA with enhanced electron-donating capacity. This study provides molecular-level insights into how microbial DOM transformation regulates O2 activation and As(III) oxidation, offering a mechanistic basis for predicting and manipulating redox reactivity in dynamic soil and sediment systems.",
       "published": "2026-08-17",
-      "doi": "10.1038/s41467-026-76934-1",
-      "url": "https://doi.org/10.1038/s41467-026-76934-1",
-      "title_zh": "Chem-SIM：通过荧光的宽场中红外光热调制实现 SIM 分辨化学成像",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Facilitating megacity electricity decarbonization via grid-interactive demand-side resource management",
-      "abstract": "",
-      "published": "2026-08-17",
-      "doi": "10.1038/s41467-026-76799-4",
-      "url": "https://doi.org/10.1038/s41467-026-76799-4",
-      "title_zh": "通过电网互动需求侧资源管理促进特大城市电力脱碳",
-      "abstract_zh": "（暂无摘要）",
+      "doi": "10.1021/acs.est.6c05728",
+      "url": "https://doi.org/10.1021/acs.est.6c05728",
+      "title_zh": "微生物减少——诱导\n选择性 DOM 转换\n控制氧化还原振荡下的 As(III) 氧化",
+      "abstract_zh": "摘要 微生物呼吸触发的溶解有机物 (DOM) 还原转化在 O2 活化以及波动水文条件下的 As(III) 氧化中发挥着核心作用。然而，关键的 DOM 成分及其与电子转移过程相关的分子转化仍然没有得到很好的解决。在这里，通过将傅里叶变换离子回旋共振质谱与机器学习相结合，我们揭示了黄腐酸（FA），即主要的 DOM 组分，通过硫还原地杆菌 PCA 进行选择性分子转化，形成一个反应子库，驱动 O2 活化，从而将 As(III) 氧化增强约 2-10 倍。反应网络分析表明，富氧芳香族前体优先通过脱羧、脱氢和部分还原途径转化为还原性更强的中间体。这些转变共同将分子组成转向较低的氧化态并增强氧化还原反应性。机器学习分析进一步识别出具有低氧化态的含氮和硫分子作为控制系统整体氧化还原活性的关键成分。这些物种代表了微生物转化 FA 的功能独特部分，具有增强的电子供给能力。这项研究提供了微生物 DOM 转化如何调节 O2 活化和 As(III) 氧化的分子水平见解，为预测和操纵动态土壤和沉积物系统中的氧化还原反应性提供了机制基础。",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -462,246 +818,6 @@
       "relevance_score": 5
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Transcriptome profiling of human hypothalamic agouti-related protein and proopiomelanocortin neurons regulating energy homeostasis",
-      "abstract": "Abstract We present and validate a pioneering ‘IHC/LCM-Seq’ method for transcriptome profiling of spatially defined neuronal cell types detected with immunohistochemistry in sections of formaldehyde-fixed human brains. Application of IHC/LCM-Seq to male human hypothalami enables the identification of 14,000–16,000 transcripts in agouti-related protein (AgRP) neurons, which drive appetite and energy storage, and proopiomelanocortin (POMC) neurons, which suppress feeding and promote energy expenditure. These cell types differ from each other, and from fertility-regulating kisspeptin neurons, in their distinct enrichments of co-transmitters, transcription factors, regulatory (lnc) RNAs and receptors. The AgRP neuron transcriptome is rich in receptors for proinflammatory cytokines, metabolic hormones and growth hormone, whereas POMC neurons express reproductive hormone-, glucagon-like peptide-, calcitonin-, and endocannabinoid receptors. IHC/LCM-Seq, a versatile spatial transcriptomic approach for characterizing cell types in postmortem human brain tissue, opens a new window onto the molecular mechanisms that regulate energy homeostasis and highlights potential pharmacological targets for weight-management strategies.",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76688-w",
-      "url": "https://doi.org/10.1038/s41467-026-76688-w",
-      "title_zh": "人类下丘脑刺鼠相关蛋白和阿黑皮素原神经元调节能量稳态的转录组分析",
-      "abstract_zh": "摘要：我们提出并验证了一种开创性的“IHC/LCM-Seq”方法，用于对甲醛固定的人脑切片中通过免疫组织化学检测到的空间定义的神经元细胞类型进行转录组分析。将 IHC/LCM-Seq 应用到男性下丘脑，能够识别刺豚鼠相关蛋白 (AgRP) 神经元（驱动食欲和能量储存）和阿片黑皮素原 (POMC) 神经元（抑制摄食并促进能量消耗）中的 14,000-16,000 个转录本。这些细胞类型彼此不同，也与生育调节 Kisspeptin 神经元不同，其共同递质、转录因子、调节 (lnc) RNA 和受体的富集程度不同。 AgRP 神经元转录组富含促炎细胞因子、代谢激素和生长激素的受体，而 POMC 神经元表达生殖激素、胰高血糖素样肽、降钙素和内源性大麻素受体。 IHC/LCM-Seq 是一种用于表征死后人类脑组织细胞类型的多功能空间转录组学方法，为了解调节能量稳态的分子机制打开了新的窗口，并强调了体重管理策略的潜在药理学目标。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Sintilimab plus Bevacizumab biosimilar IBI305 and chemotherapy as a first-line treatment in advanced gastric or gastroesophageal junction adenocarcinoma (SBAGA): a single-arm, phase Ib/II study",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76502-7",
-      "url": "https://doi.org/10.1038/s41467-026-76502-7",
-      "title_zh": "信迪利单抗联合贝伐珠单抗生物类似药 IBI305 和化疗作为晚期胃或胃食管交界腺癌 (SBAGA) 的一线治疗：一项单组 Ib/II 期研究",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Genome-wide pQTL mapping in human skin identifies specific genetic regulators and mechanistic links to skin disorders",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76575-4",
-      "url": "https://doi.org/10.1038/s41467-026-76575-4",
-      "title_zh": "人类皮肤全基因组 pQTL 作图确定了特定的遗传调节因子以及与皮肤疾病的机制联系",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "CD36-mediated lipid-accumulation in reactive microglia contributes to retinal degeneration via the NLRP3-IL-1β pathway in mice",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76685-z",
-      "url": "https://doi.org/10.1038/s41467-026-76685-z",
-      "title_zh": "CD36 介导的反应性小胶质细胞中的脂质积累通过 NLRP3-IL-1β 途径导致小鼠视网膜变性",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "High-entropy engineering of spinel catalysts for nonradical catalytic ozonation with improved resistance to humidity and sulfur poisoning",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76788-7",
-      "url": "https://doi.org/10.1038/s41467-026-76788-7",
-      "title_zh": "用于非自由基催化臭氧化的尖晶石催化剂的高熵工程，提高了对湿度和硫中毒的抵抗力",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Macrophage trained immunity requires a mitochondrial glutamine-restriction checkpoint for antitumor protection in mice",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76757-0",
-      "url": "https://doi.org/10.1038/s41467-026-76757-0",
-      "title_zh": "巨噬细胞训练的免疫力需要线粒体谷氨酰胺限制检查点来提供小鼠抗肿瘤保护",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Unlocking intrinsic TADF in flexible crystalline covalent organic frameworks through nanopore confinement design",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76630-0",
-      "url": "https://doi.org/10.1038/s41467-026-76630-0",
-      "title_zh": "通过纳米孔限制设计解锁柔性晶体共价有机框架中的内在 TADF",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Solution-phase transition zones govern crystallographic perfection in metal halide perovskite single crystals",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76579-0",
-      "url": "https://doi.org/10.1038/s41467-026-76579-0",
-      "title_zh": "溶液相转变区控制金属卤化物钙钛矿单晶的晶体学完美性",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Odorant receptor coexpression and multi-expression in the dengue mosquito",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76682-2",
-      "url": "https://doi.org/10.1038/s41467-026-76682-2",
-      "title_zh": "登革热蚊子中气味受体的共表达和多重表达",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Sub-millivolt voltage imaging reveals gap junction-mediated bioelectric contact inhibition",
-      "abstract": "Abstract Sub-millivolt membrane potential ( V m ) dynamics in multicellular non-excitable networks have remained largely inaccessible due to insufficiently sensitive imaging tools. Here, we introduce rEstus2s, a next-generation genetically encoded voltage indicator that overcomes this barrier by enabling high-resolution V m imaging. Using rEstus2s, we uncover bioelectric contact inhibition (BCI), a biophysical principle in which gap junction coupling passively stabilizes V m by suppressing electrical volatility. We show that V m variance scales inversely with network size (1/ n ), reflecting a transition from stochastic single-cell behavior to collective electrical stability. Ca²⁺-activated oncogenic ion channels, including ANO1 and K Ca 3.1, drive pronounced electrical volatility in isolated cells, but BCI effectively attenuates this volatility in electrically coupled networks. Disruption of gap junction coupling abolishes BCI and restores high electrical volatility. These findings establish a unifying framework for how multicellular systems maintain electrical homeostasis and reveal gap junction coupling as a key determinant of bioelectric stability in health and disease.",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76758-z",
-      "url": "https://doi.org/10.1038/s41467-026-76758-z",
-      "title_zh": "亚毫伏电压成像揭示间隙连接介导的生物电接触抑制",
-      "abstract_zh": "摘要 由于成像工具不够灵敏，多细胞非兴奋网络中的亚毫伏膜电位 (V m ) 动力学在很大程度上仍然难以实现。在这里，我们介绍了 rEstus2s，这是一种下一代基因编码电压指示器，它通过实现高分辨率 V m 成像来克服这一障碍。使用 rEstus2s，我们发现了生物电接触抑制 (BCI)，这是一种生物物理原理，其中间隙连接耦合通过抑制电波动来被动稳定 V m。我们表明，V m 方差与网络大小 (1/ n ) 成反比，反映了从随机单细胞行为到集体电稳定性的转变。 Ca²⁺ 激活的致癌离子通道（包括 ANO1 和 K Ca 3.1）会在孤立细胞中产生明显的电波动，但 BCI 可以有效减弱电耦合网络中的这种波动。间隙连接耦合的破坏会消除 BCI 并恢复高电波动性。这些发现为多细胞系统如何维持电稳态建立了统一框架，并揭示间隙连接耦合是健康和疾病中生物电稳定性的关键决定因素。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Phosphorylation of OTUB1 promotes autophagy initiation under starvation",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76796-7",
-      "url": "https://doi.org/10.1038/s41467-026-76796-7",
-      "title_zh": "OTUB1 磷酸化促进饥饿条件下自噬的启动",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Redox cycling of viral RNA polymerase controls picornavirus replication",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76818-4",
-      "url": "https://doi.org/10.1038/s41467-026-76818-4",
-      "title_zh": "病毒RNA聚合酶的氧化还原循环控制小核糖核酸病毒复制",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Acid-base bifunctional porous liquids",
-      "abstract": "",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76573-6",
-      "url": "https://doi.org/10.1038/s41467-026-76573-6",
-      "title_zh": "酸碱双功能多孔液体",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Spin state and orbital engineering of cuprous oxide for efficient nitrate reduction",
-      "abstract": "Abstract Electrocatalytic nitrate reduction provides a sustainable pathway for wastewater treatment and ammonia production, yet the complex multi‑electron transfer demands efficient catalysts to achieve both high selectivity and fast kinetics. Here we show that atomic substitution of magnetic transition metals (Cr, Mn, Fe, Co, Ni) into cuprous oxide enables systematic tuning of catalytic performance. Density functional theory calculations combined with experiments identify that catalytic activity is governed by nitrate adsorption strength, ammonia desorption energy, and d–p orbital hybridization. Cobalt‑substituted cuprous oxide delivers a near‑unity Faradaic efficiency of 96.5% and an ammonia yield rate of 2.8 mM h −1 mg cat −1 , showing favorable performance compared with the other metal‑doped counterparts. Mechanistic studies reveal that cobalt substitution alters the spin configuration at the active sites, which optimizes orbital hybridization and balances the adsorption and desorption of key intermediates. This work establishes a design principle linking atomic‑level spin and orbital engineering to catalytic performance, providing a framework for developing high‑performance nitrate reduction electrocatalysts.",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76420-8",
-      "url": "https://doi.org/10.1038/s41467-026-76420-8",
-      "title_zh": "用于高效还原硝酸盐的氧化亚铜的自旋态和轨道工程",
-      "abstract_zh": "摘要：电催化硝酸盐还原为废水处理和氨生产提供了一条可持续的途径，但复杂的多电子转移需要高效的催化剂来实现高选择性和快速动力学。在这里，我们表明，磁性过渡金属（Cr、Mn、Fe、Co、Ni）原子替换为氧化亚铜能够系统地调节催化性能。密度泛函理论计算与实验相结合，确定催化活性受硝酸盐吸附强度、氨解吸能和 d-p 轨道杂化的影响。钴取代的氧化亚铜具有接近 96.5% 的法拉第效率和 2.8 mM h -1 mg cat -1 的氨产率，与其他金属掺杂的对应物相比，显示出良好的性能。机理研究表明，钴取代改变了活性位点的自旋构型，从而优化了轨道杂化并平衡了关键中间体的吸附和解吸。这项工作建立了将原子级自旋和轨道工程与催化性能联系起来的设计原则，为开发高性能硝酸盐还原电催化剂提供了框架。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults",
-      "abstract": "Abstract Oceanic transform faults (OTFs) exhibit concurrent slip behaviors, with creep and characteristic earthquakes on localized patches. At the Gofar transform fault on the East Pacific Rise, magnitude 5.5+ earthquakes are bounded by creeping segments that act as persistent rupture barriers, yet the physical controls on this segmentation remain unclear. Here, from one year of ocean bottom seismometer data, we develop a focal mechanism catalog of 2323 earthquakes on the westernmost Gofar transform fault. This catalog enables robust statistical analyses of along-strike variations in faulting type and mechanical properties. Pure strike-slip earthquakes comprise ~31% of events; oblique earthquakes are pervasive; pure reverse and normal events also exist. Faulting types correlate with seismicity-inferred fault segmentation, with reverse and oblique-reverse events clustering in rupture barriers. Coulomb failure modeling shows that the pattern is diagnostic of elevated pore-fluid pressure and mechanical weakness within the barriers. The 2008 M6 mainshock increased focal mechanism diversity across the fault, indicating widespread activation of secondary structures through the seismic cycle. Comparisons with the Blanco and Chain transform faults suggest diverse faulting and along-strike mechanism clustering may be common OTF features, implying that local mechanical properties govern segmentation.",
-      "published": "2026-08-15",
-      "doi": "10.1038/s41467-026-76407-5",
-      "url": "https://doi.org/10.1038/s41467-026-76407-5",
-      "title_zh": "震源机制变化揭示了海洋转换断层分段的机械控制",
-      "abstract_zh": "摘要 海洋转换断层（OTF）表现出并发的滑动行为，在局部斑块上伴有蠕变和特征地震。在东太平洋隆起的戈法尔转换断层处，5.5 级以上地震的边界是作为持续破裂屏障的蠕动段，但对该段的物理控制仍不清楚。在这里，我们根据一年的海底地震仪数据，开发了最西端戈法尔转换断层 2323 次地震的震源机制目录。该目录可以对断层类型和机械特性的沿走向变化进行可靠的统计分析。纯走滑地震占事件的 31%；斜向地震普遍存在；纯逆向事件和正向事件也存在。断层类型与地震活动推断的断层分段相关，反向和倾斜反向事件聚集在破裂屏障中。库仑失效模型表明，该模式可以诊断屏障内孔隙流体压力升高和机械弱点。 2008 年 M6 主震增加了整个断层震源机制的多样性，表明地震周期中次级结构的广泛激活。与布兰科和链转换断层的比较表明，不同的断层和沿走向机制集群可能是常见的 OTF 特征，这意味着局部力学特性控制分段。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
       "title": "Biomineralization\nInfluences the Transport of Bacteria\nand Cell-Associated Nanoparticles in Saturated Porous Media",
@@ -728,7 +844,7 @@
       "doi": "10.1021/acs.est.6c01198",
       "url": "https://doi.org/10.1021/acs.est.6c01198",
       "title_zh": "利用 Omic\n推进预测生态毒理学的数据",
-      "abstract_zh": "摘要 使用计算机方法预测物种特异性化学敏感性有可能改变环境风险评估、保护和生物监测，同时减少并最终取代动物试验。基因组和转录组数据捕获广泛的敏感性相关变异，包括分子靶标、外源代谢和损害减轻途径的差异。因此，大规模测序计划为解决生态毒理学的“物种过多”问题提供了前所未有的机会。尽管现有的基于组学的预测工具提供了概念证明，但迄今为止它们仅应用于一组相对简单的预测场景。为了实现更广泛的适用性，当前和未来的工具必须牢固地立足于差异化学反应背后的不同分子机制。在这里，我们批判性地评估了利用从组学数据推断的分子变异来预测物种敏感性的新兴领域。我们分析了当前基于组学的方法的优点和局限性，并确定了主要序列和生态毒理学数据差距，以及关键的生物信息学挑战。然后，我们回顾了分子生物学如何构成差异化学敏感性的当前知识，概述了研究路径，以允许下一代敏感性预测工具利用不断扩展的组学数据。",
+      "abstract_zh": "摘要 使用计算机方法预测物种特异性化学敏感性有可能改变环境风险评估、保护和生物监测，同时减少并最终取代动物测试。基因组和转录组数据捕获广泛的敏感性相关变异，包括分子靶标、外源代谢和损害减轻途径的差异。因此，大规模测序计划为解决生态毒理学的“物种过多”问题提供了前所未有的机会。尽管现有的基于组学的预测工具提供了概念证明，但迄今为止它们仅应用于一组相对简单的预测场景。为了实现更广泛的适用性，当前和未来的工具必须牢固地立足于差异化学反应背后的不同分子机制。在这里，我们批判性地评估了利用从组学数据推断的分子变异来预测物种敏感性的新兴领域。我们分析了当前基于组学的方法的优点和局限性，并确定了主要序列和生态毒理学数据差距，以及关键的生物信息学挑战。然后，我们回顾了分子生物学如何构成差异化学敏感性的当前知识，概述了研究路径，以允许下一代敏感性预测工具利用不断扩展的组学数据。",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -910,131 +1026,11 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Oxygen-Vacancies-Bridged\nCu2O/Cu Heterojunction\nEnables Closed-Loop Electron Cycling for Bidirectional Peracetic Acid\nActivation in Fenton-like Reactions",
-      "abstract": "Abstract Integrating the strong oxidative capacity of radicals with the high selectivity of nonradicals is crucial for efficient pollutant degradation under complex aqueous conditions. However, conventional peroxide activation relies on unidirectional electron utilization, where a single oxidant molecule typically generates only one reactive species, thereby limiting oxidant utilization and electron recycling. Herein, we employ oxygen vacancies (Vo) to bridge asymmetric electronic sites at the Cu2O/Cu heterojunction, achieving bidirectional activation of a single peracetic acid (PAA) within a “closed-loop electron cycle” to simultaneously generate •OH and nonradical active species (NRS). Vo-induced electron delocalization forms continuous electronic levels that facilitate Cu2O→Cu electron transfer, leading to electron enrichment at Cu sites and depletion at Cu2O sites. This electronic asymmetry, coupled with the unoccupied orbitals inherent to Vo, enables a thermodynamically favorable dual-coordination (Cu–(C═Oα) and Cu2O–(Oβ–Oγ), Eads = −3.74 vs −0.79 eV) of a single PAA (CH3–C(Oα)–Oβ–Oγ–H) with Vo–Cu2O/Cu. Driven by the electron-inductive effect, electrons are transferred from Cu to Oβ–Oγ via C═Oα, triggering Oβ–Oγ homolysis to generate •OH and a metastable NRS. The latter extracts electrons from organics via Cu2O to initiate the direct electron-transfer pathway (ETP, ∼46.90%, ΔE = −1.314 eV), thereby achieving a “closed-loop electron cycle”. Unlike conventional unidirectional catalytic pathways, bidirectional activation within a single PAA molecule boosts synchronous enhancement in oxidation-mineralization synergy (∼33-fold increase in k2,O and ∼1.5-fold increase in TOC removal), PAA utilization efficiency (∼1.5-fold increase), and superior resistance to water matrix interference. This previously unrecognized oxidant activation mechanism offers new insights into coupling radical and nonradical pathways via interfacial electron-flow regulation for efficient and energy-saving water remediation.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.6c08777",
-      "url": "https://doi.org/10.1021/acs.est.6c08777",
-      "title_zh": "氧空位桥\nCu2O/Cu异质结\n实现双向过乙酸的闭环电子循环\n类芬顿反应中的活化",
-      "abstract_zh": "摘要 将自由基的强氧化能力与非自由基的高选择性相结合对于复杂水条件下污染物的高效降解至关重要。然而，传统的过氧化物活化依赖于单向电子利用，其中单个氧化剂分子通常仅产生一种活性物质，从而限制了氧化剂利用和电子回收。在此，我们利用氧空位（Vo）桥接Cu2O/Cu异质结上的不对称电子位点，实现“闭环电子循环”内单个过乙酸（PAA）的双向激活，同时生成·OH和非自由基活性物质（NRS）。 Vo诱导的电子离域形成连续的电子能级，促进Cu2O→Cu电子转移，导致Cu位点的电子富集和Cu2O位点的耗尽。这种电子不对称性与 Vo 固有的未占据轨道相结合，使得单个 PAA (CH3–C(Oα)–Oβ–Oγ–H) 与 Vo–Cu2O/Cu 形成热力学上有利的双配位（Cu–(C=Oα) 和 Cu2O–(Oβ–Oγ)，Eads = -3.74 vs -0.79 eV）。在电子感应效应的驱动下，电子通过C=Oα从Cu转移到Oβ–Oγ，引发Oβ–Oγ均裂生成·OH和亚稳态NRS。后者通过 Cu2O 从有机物中提取电子，启动直接电子转移途径（ETP，∼46.90%，ΔE = -1.314 eV），从而实现“闭环电子循环”。与传统的单向催化途径不同，单个 PAA 分子内的双向激活可同步增强氧化-矿化协同作用（k2,O 增加约 33 倍，TOC 去除增加约 1.5 倍）、PAA 利用率（增加约 1.5 倍）和卓越的抗水基质干扰能力。这种以前未被认识的氧化剂活化机制为通过界面电子流调节耦合自由基和非自由基途径提供了新的见解，以实现高效节能的水修复。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Bridging Human and\nEnvironmental Radiological Protection\nwith the Ecosystem Services Approach: A Case Study with Clade Anthophila\n(Bees)",
-      "abstract": "Abstract Ecosystem services, the benefits people derive from nature, provides a conceptual structure by which to explicitly characterize and protect the coupled human–nature relationships that are central to human well-being, the integrity of ecosystems, and sustainable development. We suggest the ecosystem services concept may complement and broaden the International Commission on Radiological Protection’s currently established framework of radiological protection (RP) through intentional reflection on the interconnection between people and their environment. As operationalization of an ecosystem services approach is a notable challenge for implementation, we discuss Anthophila (bees) as a model clade for demonstrating how the ecosystem services approach may contribute to the integrated protection of people and the environment across geographies, cultures, and exposure scenarios. Assessing the impacts of radiological contamination and associated decision-making on ecosystem services has the potential to bridge human and environmental RP through adoption of a sustainable development mindset, enhanced stakeholder engagement, and improved decision-making. We provide a framework to describe how a conceptual model to combine the ecosystem services approach with RP could be helpful in supporting holistic and integrated decision-making in certain situations and demonstrate its application to a hypothetical existing exposure situation using bees as a model clade of species.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.5c16937",
-      "url": "https://doi.org/10.1021/acs.est.5c16937",
-      "title_zh": "架起人与人之间的桥梁\n环境放射防护\n生态系统服务方法：以 Clade Anthophila 为例\n（蜜蜂）",
-      "abstract_zh": "摘要 生态系统服务是人类从自然中获得的利益，它提供了一个概念结构，通过该结构可以明确描述和保护对人类福祉、生态系统完整性和可持续发展至关重要的人与自然耦合关系。我们建议，通过有意反思人与环境之间的相互关系，生态系统服务概念可以补充和扩大国际放射防护委员会目前建立的放射防护（RP）框架。由于生态系统服务方法的可操作性是实施的一个显着挑战，我们将 Anthophila（蜜蜂）作为一个模型分支来讨论生态系统服务方法如何有助于跨地域、文化和暴露场景的人类和环境的综合保护。评估放射性污染和相关决策对生态系统服务的影响有可能通过采用可持续发展思维、增强利益相关者的参与和改进决策来弥合人类和环境的RP。我们提供了一个框架来描述将生态系统服务方法与 RP 相结合的概念模型如何有助于支持某些情况下的整体和综合决策，并展示其在使用蜜蜂作为物种模型进化枝的假设的现有暴露情况中的应用。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Transport\nand Attenuation of Human Viruses in Groundwater:\nAssessment of Adsorption-Induced Interfacial Inactivation and Evidence\nof Aggregation",
-      "abstract": "Abstract Virus transport in groundwater is a key pathway contributing to waterborne disease outbreaks and poses significant risks to public health. However, the mechanisms governing virus transport and attenuation remain poorly understood. Here, using the human enteric virus Coxsackievirus (CV-A16), we coupled experiments with a dual-marker approach (TCID50 and RT-qPCR) and a stepwise modeling strategy to quantify virus inactivation, interfacial inactivation, and adsorption during virus transport and attenuation in heterogeneous sediments. Static batch experiments revealed markedly slower CV-A16 inactivation in the aqueous phase, requiring 106–191 days to achieve a 90% loss of infectivity, compared with about 12 days in saturated sediments. Column experiments indicated that kinetic adsorption–desorption was the dominant attenuation mechanism, while surface-associated interfacial inactivation represented an additional important pathway that increased with virus adsorption, reflecting a coupled adsorption-inactivation process. Further analysis showed that inactivation rate constants ranged from 0.002 to 0.004 min–1 from coarse sand to silt, suggesting enhanced virus-solid interface reactivity in finer sediments. Furthermore, bimodal particle-size distributions from laser particle sizing and TEM observations of virus clusters indicate the formation of aggregates during transport, while zeta potential variations suggest that this process most likely occurs during the early to intermediate stages of transport. By evaluating the interplay between physical retention and biological inactivation, this study provides a mechanistic framework to improve the prediction of virus transport and the accuracy of pathogen-related health risk assessments in subsurface environments.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.6c03626",
-      "url": "https://doi.org/10.1021/acs.est.6c03626",
-      "title_zh": "交通\n和地下水中人类病毒的减毒：\n吸附引起的界面失活的评估和证据\n聚合的",
-      "abstract_zh": "摘要 地下水中的病毒传播是导致水传播疾病爆发的关键途径，并对公众健康构成重大风险。然而，人们对病毒运输和减毒的机制仍知之甚少。在这里，我们使用人类肠道病毒柯萨奇病毒（CV-A16），将实验与双标记方法（TCID50和RT-qPCR）和逐步建模策略结合起来，以量化病毒在异质沉积物中运输和减毒过程中的病毒失活、界面失活和吸附。静态批量实验表明，CV-A16 在水相中的灭活速度明显较慢，需要 106-191 天才能实现感染性损失 90%，而在饱和沉积物中则需要约 12 天。柱实验表明，动力学吸附-解吸是主要的衰减机制，而表面相关的界面失活代表了随着病毒吸附而增加的另一个重要途径，反映了吸附-失活的耦合过程。进一步分析表明，从粗砂到淤泥，灭活速率常数范围为 0.002 至 0.004 min-1，这表明较细沉积物中的病毒-固体界面反应性增强。此外，激光粒度测定和病毒簇 TEM 观察得出的双峰粒度分布表明在运输过程中形成了聚集体，而 zeta 电位变化表明该过程最有可能发生在运输的早期到中期阶段。通过评估物理滞留和生物灭活之间的相互作用，本研究提供了一个机制框架，以提高地下环境中病毒传播的预测和病原体相关健康风险评估的准确性。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Intraspecies Variation\nof Per- and Polyfluoroalkyl\nSubstances Bioaccumulation in a Coastal Marine Organism Near a Megacity",
-      "abstract": "Abstract Intraspecies variation in pollutant bioaccumulation has received limited attention in field studies, which could cause bias for ecological and health risk assessment. In this study, 40 per- and polyfluoroalkyl substances (PFAS) and stable carbon and nitrogen isotope were analyzed in 43 individuals of Cynoglossus trigrammus collected from the coastal area of Shenzhen City, China, to explore the intraspecies variation in PFAS bioaccumulation. Total PFAS (Σ40PFAS) concentrations ranged from 40.0 to 192 ng/g, ww, and increased significantly with body length (p &lt; 0.001). Positive relationships (p &lt; 0.01) were observed for perfluorooctanesulfonate (PFOS), perfluorodecanoic acid (PFDA), perfluoropentanesulfonic acid (PFPeS), and perfluorohexanesulfonic acid (PFHxS), whereas negative relationships (p &lt; 0.05) were observed for perfluorooctanoic acid (PFOA), N-methyl perfluorooctanesulfonamidoacetic acid (N-MeFOSE), and 11-Chloroeicosafluoro-3-oxaundecane-1-sulfonic acid (11Cl-PF3OUdS) with body length. Muscle-derived trophic levels also showed significant relationships but were different and weaker than those of body length. Quantile regression showed stronger size effects at high quantiles of whole-fish burden (τ = 0.90 and 0.95), and size-selective feeding (length ≥75th percentile) shifted dose distributions toward higher values. These results suggest that body length is an important indicator to identify the intraspecies PFAS heterogeneity and that size-selective processes might increase upper percentiles exposure and risks.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.6c06067",
-      "url": "https://doi.org/10.1021/acs.est.6c06067",
-      "title_zh": "种内变异\n全氟烷基和多氟烷基\n大城市附近沿海海洋生物中的物质生物累积",
-      "abstract_zh": "摘要 污染物生物累积的种内变化在实地研究中受到的关注有限，这可能会导致生态和健康风险评估的偏差。本研究对采自中国深圳市沿海地区的 43 只食蟹猴个体中的 40 种全氟烷基物质和多氟烷基物质 (PFAS) 以及稳定碳和氮同位素进行了分析，以探讨 PFAS 生物累积的种内变化。总 PFAS (Σ40PFAS) 浓度范围为 40.0 至 192 ng/g, ww，并随着体长显着增加 (p < 0.001)。全氟辛烷磺酸 (PFOS)、全氟癸酸 (PFDA)、全氟戊烷磺酸 (PFPeS) 和全氟己烷磺酸 (PFHxS) 呈正相关 (p < 0.01)，而全氟辛酸 (PFOA)、N-甲基全氟辛烷磺酰胺乙酸呈负相关 (p < 0.05) (N-MeFOSE) 和 11-氯二十一氟-3-氧十一烷-1-磺酸 (11Cl-PF3OUdS) 的体长。肌肉来源的营养水平也显示出显着的关系，但与身体长度的关系不同且较弱。分位数回归显示，在全鱼负荷的高分位数（τ = 0.90 和 0.95）下，尺寸效应更强，并且尺寸选择性喂养（长度≥75%）将剂量分布转向更高的值。这些结果表明，体长是识别种内 PFAS 异质性的重要指标，并且体型选择过程可能会增加上百分位数的暴露和风险。",
-      "pollutant_categories": [
-        "PFAS"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Facilitation-Dominated\nMotifs Characterize Cross-Domain\nMicrobial Networks in Co-Occurring Water and Soil Habitats",
-      "abstract": "Abstract Microorganisms form complex association networks supporting diverse functions from organic matter decomposition to water quality. However, the prevalence of different network structures (i.e., motifs) and their associations with biodiversity across ecosystems remain poorly understood. We surveyed paired water and soil samples from 20 relatively pristine Tibetan Plateau wetlands, spanning broad climatic and physicochemical gradients. Facilitation-dominated motifs were prevalent in both habitats and positively associated with phylogenetic diversity and species richness across domains; greater positive association prevalence among archaea, bacteria, and eukaryotes likewise correlated with greater biodiversity. These patterns were robust to alternative edge-retention thresholds, abundance table null models, and networks reconstructed from centered log-ratio-transformed or presence/absence data. Facilitation-dominated motifs were most consistently associated with network size- and centralization-related properties, whereas their associations with cohesion- and stability-related properties were more habitat-dependent and were clearer in soil than in water. The cycle facilitation motif, with all three pairwise associations positive, showed the most consistent associations with biodiversity and network properties. Structural equation modeling suggested links between environmental factors and biodiversity through paths involving the motif overrepresentation. Overall, facilitation-dominated co-occurrence structures were consistently associated with biodiversity in water and soil habitats, highlighting the microbial association structure as a useful framework for interpreting wetland biodiversity patterns.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.5c17862",
-      "url": "https://doi.org/10.1021/acs.est.5c17862",
-      "title_zh": "以便利为主\n主题表征跨领域\n水和土壤共存生境中的微生物网络",
-      "abstract_zh": "摘要 微生物形成复杂的关联网络，支持从有机物分解到水质的多种功能。然而，不同网络结构（即主题）的普遍性及其与跨生态系统生物多样性的关联仍然知之甚少。我们调查了来自 20 个相对原始的青藏高原湿地的配对水和土壤样本，涵盖了广泛的气候和物理化学梯度。促进主导的主题在这两个栖息地中都很普遍，并且与跨领域的系统发育多样性和物种丰富度呈正相关；古细菌、细菌和真核生物之间更大的正相关流行率同样与更大的生物多样性相关。这些模式对于替代边缘保留阈值、丰度表空模型以及从中心对数比转换或存在/不存在数据重建的网络来说是稳健的。促进主导的主题与网络规模和集中度相关的特性最为一致，而它们与内聚力和稳定性相关特性的关联则更多地依赖于栖息地，并且在土壤中比在水中更清晰。循环促进主题，所有三个成对关联均为正，显示出与生物多样性和网络特性最一致的关联。结构方程模型通过涉及主题过度表达的路径表明环境因素与生物多样性之间的联系。总体而言，促进主导的共现结构始终与水和土壤栖息地的生物多样性相关，强调微生物关联结构是解释湿地生物多样性模式的有用框架。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Zebrafish Serotonin\nTransporter Inhibition Enables\nIdentification of Neuroactive Chemicals: Structural Insights into\nInterspecies Differences",
-      "abstract": "Abstract Antidepressants are widely detected in aquatic environments and can affect fish behavior through inhibition of the serotonin transporter (SERT). Notably, zebrafish SERT (zSERT) exhibits greater sensitivity to antidepressants than human SERT (hSERT), suggesting species-specific differences in transporter structures. However, the molecular mechanisms underlying this differential inhibition remain elusive, and prioritized antidepressants alone cannot fully explain the zSERT-mediated activity observed in the environmental samples. Herein, molecular simulation, computational screening, and experimental validation were adopted to identify environmental chemicals with potential activity toward zSERT. The binding affinity of 27 antidepressants for hSERT and zSERT was predicted by Boltz-2. The antidepressant with the largest interspecies difference was selected as a representative case, and the key amino acid residues involved in binding were characterized by using molecular dynamics simulations performed for at least 100 ns. The molecular simulation-optimized zSERT structure was then applied in structure-based virtual screening to identify potentially toxic compounds from a chemical library comprising high-risk chemicals from Europe and China. Fourteen of the 15 top-ranked candidates were found to inhibit zSERT in an in vitro assay. This integrative approach provides a mechanistically informed framework for identifying previously unrecognized zSERT-acting chemicals and improving hazard identification and cross-species risk assessments in aquatic environments.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.6c04972",
-      "url": "https://doi.org/10.1021/acs.est.6c04972",
-      "title_zh": "斑马鱼血清素\n转运蛋白抑制使\n神经活性化学物质的鉴定：结构洞察\n种间差异",
-      "abstract_zh": "摘要 抗抑郁药在水生环境中广泛存在，可通过抑制血清素转运蛋白 (SERT) 影响鱼类行为。值得注意的是，斑马鱼 SERT (zSERT) 比人类 SERT (hSERT) 对抗抑郁药表现出更高的敏感性，这表明转运蛋白结构存在物种特异性差异。然而，这种差异抑制背后的分子机制仍然难以捉摸，并且单独优先的抗抑郁药无法完全解释在环境样本中观察到的 zSERT 介导的活性。在此，采用分子模拟、计算筛选和实验验证来识别对 zSERT 具有潜在活性的环境化学物质。 Boltz-2 预测了 27 种抗抑郁药对 hSERT 和 zSERT 的结合亲和力。选择种间差异最大的抗抑郁药作为代表案例，并通过至少100 ns的分子动力学模拟来表征参与结合的关键氨基酸残基。然后将分子模拟优化的 zSERT 结构应用于基于结构的虚拟筛选，以从包含来自欧洲和中国的高风险化学品的化学库中识别潜在有毒化合物。在体外测定中，发现 15 个排名靠前的候选药物中有 14 个能够抑制 zSERT。这种综合方法提供了一个机械化的框架，用于识别以前未被识别的 zSERT 作用化学品，并改进水生环境中的危害识别和跨物种风险评估。",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Carbonyl Index Variability\nand Trends in Marine Meso-Microplastics:\nImplications of Instrumental Effects and Spectral Preprocessing",
-      "abstract": "Abstract This study addresses the critical need to understand variability in the carbonyl index (CI) of marine plastics to effectively assess their environmental fate. Standardization is essential to ensure data interoperability and comparability across different research laboratories. We evaluated the effect of spectral preprocessing on the comparability of four carbonyl indices derived from analyses of marine meso- and microplastics across three ATR-FTIR instruments. The fillpeaks baseline spectral preprocessing correction yielded the highest consistency and interlaboratory correlation, thus supporting its adoption as a standard for environmental CI determination. Moreover, when used with the CI-SAUB index, defined as the ratio of the carbonyl peak area to the methylene peak area, instrumental differences are effectively smoothed out. We also demonstrated that index-specific CI values derived from spectra processed differently are not directly comparable, further underscoring the need for harmonized protocols. Our analysis supports the use of the CI as a reliable proxy for surface oxidation resulting from weathering mechanisms. To enhance reproducibility in future research, we provide a cross-validated, open-access spectral library of weathered plastics, along with a reference database for estimating the CI of weathered particles. Our results emphasize the importance of standardized approaches for improving the reliability and reproducibility of plastic pollution research and monitoring.",
-      "published": "2026-08-13",
-      "doi": "10.1021/acs.est.6c02609",
-      "url": "https://doi.org/10.1021/acs.est.6c02609",
-      "title_zh": "羰基指数变异性\n海洋细观微塑料的发展趋势：\n仪器效应和光谱预处理的意义",
-      "abstract_zh": "摘要 这项研究解决了了解海洋塑料羰基指数 (CI) 变化的迫切需要，以有效评估其环境命运。标准化对于确保不同研究实验室之间的数据互操作性和可比性至关重要。我们评估了光谱预处理对四个羰基指数可比性的影响，这四个羰基指数是通过三台 ATR-FTIR 仪器对海洋细观塑料和微塑料进行分析得出的。 fillpeaks 基线光谱预处理校正产生了最高的一致性和实验室间相关性，从而支持其采用作为环境 CI 测定的标准。此外，当与 CI-SAUB 指数（定义为羰基峰面积与亚甲基峰面积之比）一起使用时，可以有效消除仪器差异。我们还证明，从不同处理的光谱中得出的特定指数 CI 值不能直接比较，这进一步强调了协调协议的必要性。我们的分析支持使用 CI 作为风化机制导致的表面氧化的可靠指标。为了提高未来研究的可重复性，我们提供了一个经过交叉验证、开放获取的风化塑料光谱库，以及用于估计风化颗粒 CI 的参考数据库。我们的结果强调了标准化方法对于提高塑料污染研究和监测的可靠性和可重复性的重要性。",
-      "pollutant_categories": [
-        "微塑料"
-      ],
-      "is_microplastic": true,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [
-        "检测与表征",
-        "环境行为与迁移",
-        "老化与界面过程"
-      ],
-      "relevance_score": 4
     }
   ],
   "digest": {
     "pollutant_count": 13,
-    "microplastic_count": 7,
+    "microplastic_count": 6,
     "pollutant_articles": [
       {
         "doi": "10.1016/j.jhazmat.2026.142923",
@@ -1077,17 +1073,6 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143007"
       },
       {
-        "doi": "10.1016/j.jhazmat.2026.143050",
-        "title_zh": "三氯生协同促进抗生素抗性基因的接合转移：桥接双组分系统和群体感应",
-        "journal": "JHM",
-        "published": "2026-09-01",
-        "pollutant_categories": [
-          "药物与个人护理品"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1016/j.jhazmat.2026.143050"
-      },
-      {
         "doi": "10.1016/j.jhazmat.2026.143096",
         "title_zh": "用于减缓微塑料的渗透性路面系统：关于运输、保留、检测和去除效率的关键见解",
         "journal": "JHM",
@@ -1112,6 +1097,39 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143154"
+      },
+      {
+        "doi": "10.1016/j.jhazmat.2026.143050",
+        "title_zh": "三氯生协同促进抗生素抗性基因的接合转移：桥接双组分系统和群体感应",
+        "journal": "JHM",
+        "published": "2026-09-01",
+        "pollutant_categories": [
+          "药物与个人护理品"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1016/j.jhazmat.2026.143050"
+      },
+      {
+        "doi": "10.1038/s41467-026-76354-1",
+        "title_zh": "全球基因组监测揭示了世界卫生组织优先考虑的侵袭性沙门氏菌抗生素耐药性的出现和时空模式",
+        "journal": "NC",
+        "published": "2026-08-18",
+        "pollutant_categories": [
+          "药物与个人护理品"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1038/s41467-026-76354-1"
+      },
+      {
+        "doi": "10.1021/acs.est.6c07158",
+        "title_zh": "二溴乙酸\n诱发甲状腺功能减退症：来自网络\nSOCS1 介导的机制验证的毒理学",
+        "journal": "EST",
+        "published": "2026-08-17",
+        "pollutant_categories": [
+          "塑化剂与内分泌干扰物"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1021/acs.est.6c07158"
       },
       {
         "doi": "10.1021/acs.est.6c03767",
@@ -1182,72 +1200,45 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1021/acs.est.6c06620"
-      },
-      {
-        "doi": "10.1021/acs.est.6c06067",
-        "title_zh": "种内变异\n全氟烷基和多氟烷基\n大城市附近沿海海洋生物中的物质生物累积",
-        "journal": "EST",
-        "published": "2026-08-13",
-        "pollutant_categories": [
-          "PFAS"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c06067"
-      },
-      {
-        "doi": "10.1021/acs.est.6c02609",
-        "title_zh": "羰基指数变异性\n海洋细观微塑料的发展趋势：\n仪器效应和光谱预处理的意义",
-        "journal": "EST",
-        "published": "2026-08-13",
-        "pollutant_categories": [
-          "微塑料"
-        ],
-        "microplastic_themes": [
-          "检测与表征",
-          "环境行为与迁移",
-          "老化与界面过程"
-        ],
-        "url": "https://doi.org/10.1021/acs.est.6c02609"
       }
     ],
     "writing_brief": {
-      "date": "2026-08-17",
-      "overview": "本周共整理 13 篇新污染物相关文献，其中微塑料 7 篇。研究热点集中在「环境行为与迁移」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
+      "date": "2026-08-18",
+      "overview": "本周共整理 13 篇新污染物相关文献，其中微塑料 6 篇。研究热点集中在「毒性与健康风险」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
       "stats": {
         "total_pollutant": 13,
-        "microplastic": 7,
+        "microplastic": 6,
         "categories": {
-          "微塑料": 7,
-          "塑化剂与内分泌干扰物": 4,
-          "药物与个人护理品": 2,
+          "微塑料": 6,
+          "塑化剂与内分泌干扰物": 5,
+          "药物与个人护理品": 3,
           "纳米材料": 1,
           "重金属与放射性": 1,
-          "PFAS": 2
+          "PFAS": 1
         },
         "microplastic_themes": {
           "毒性与健康风险": 4,
-          "环境行为与迁移": 5,
-          "老化与界面过程": 3,
-          "检测与表征": 3,
+          "环境行为与迁移": 4,
+          "老化与界面过程": 2,
+          "检测与表征": 2,
           "源头与控制": 1,
           "生态效应": 3
         }
       },
       "hot_themes": [
         {
-          "theme": "微塑料 · 环境行为与迁移",
-          "category": "微塑料",
+          "theme": "塑化剂与内分泌干扰物",
+          "category": "塑化剂与内分泌干扰物",
           "article_count": 5,
           "heat_level": "高",
           "sample_titles": [
-            "微塑料老化对饮用水分配系统中三卤酚类消毒副产物吸附和解吸的影响",
-            "用于减缓微塑料的渗透性路面系统：关于运输、保留、检测和去除效率的关键见解",
-            "全球模式\n和区域遥感监测\n淡水-海洋系统中的微塑料污染（2014-2024）"
+            "韩国汽车零部件制造工人的邻苯二甲酸盐和替代增塑剂暴露及抗雄激素风险",
+            "单一对羟基苯甲酸酯引起的幼年斑马鱼下丘脑-垂体轴干扰的时间和性别异质性",
+            "新旧家用窗帘中邻苯二甲酸酯的存在及其分布模式"
           ],
           "writing_angles": [
-            "从环境行为与迁移切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 5 篇相关论文，话题热度较高）",
-            "对比JHM最新成果：环境行为与迁移研究正在发生哪些范式转变？",
-            "写给非专业读者：distribution到底意味着什么，我们该如何理解？"
+            "日常暴露警示：塑化剂与内分泌干扰物 研究告诉了我们什么？（本周已有 5 篇相关论文，话题热度较高）",
+            "从职业暴露到家庭环境：塑化剂风险如何层层递进？"
           ]
         },
         {
@@ -1267,50 +1258,19 @@
           ]
         },
         {
-          "theme": "塑化剂与内分泌干扰物",
-          "category": "塑化剂与内分泌干扰物",
+          "theme": "微塑料 · 环境行为与迁移",
+          "category": "微塑料",
           "article_count": 4,
           "heat_level": "高",
           "sample_titles": [
-            "韩国汽车零部件制造工人的邻苯二甲酸盐和替代增塑剂暴露及抗雄激素风险",
-            "单一对羟基苯甲酸酯引起的幼年斑马鱼下丘脑-垂体轴干扰的时间和性别异质性",
-            "新旧家用窗帘中邻苯二甲酸酯的存在及其分布模式"
-          ],
-          "writing_angles": [
-            "日常暴露警示：塑化剂与内分泌干扰物 研究告诉了我们什么？（本周已有 4 篇相关论文，话题热度较高）",
-            "从职业暴露到家庭环境：塑化剂风险如何层层递进？"
-          ]
-        },
-        {
-          "theme": "微塑料 · 老化与界面过程",
-          "category": "微塑料",
-          "article_count": 3,
-          "heat_level": "高",
-          "sample_titles": [
             "微塑料老化对饮用水分配系统中三卤酚类消毒副产物吸附和解吸的影响",
-            "界面富集\nMicrodroplet 的微塑料\n空气-水界面促进光老化",
-            "羰基指数变异性\n海洋细观微塑料的发展趋势：\n仪器效应和光谱预处理的意义"
-          ],
-          "writing_angles": [
-            "从老化与界面过程切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 3 篇相关论文，话题热度较高）",
-            "对比JHM最新成果：老化与界面过程研究正在发生哪些范式转变？",
-            "写给非专业读者：aging到底意味着什么，我们该如何理解？"
-          ]
-        },
-        {
-          "theme": "微塑料 · 检测与表征",
-          "category": "微塑料",
-          "article_count": 3,
-          "heat_level": "高",
-          "sample_titles": [
             "用于减缓微塑料的渗透性路面系统：关于运输、保留、检测和去除效率的关键见解",
-            "全球模式\n和区域遥感监测\n淡水-海洋系统中的微塑料污染（2014-2024）",
-            "羰基指数变异性\n海洋细观微塑料的发展趋势：\n仪器效应和光谱预处理的意义"
+            "全球模式\n和区域遥感监测\n淡水-海洋系统中的微塑料污染（2014-2024）"
           ],
           "writing_angles": [
-            "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 3 篇相关论文，话题热度较高）",
-            "对比JHM最新成果：检测与表征研究正在发生哪些范式转变？",
-            "写给非专业读者：detection到底意味着什么，我们该如何理解？"
+            "从环境行为与迁移切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 4 篇相关论文，话题热度较高）",
+            "对比JHM最新成果：环境行为与迁移研究正在发生哪些范式转变？",
+            "写给非专业读者：distribution到底意味着什么，我们该如何理解？"
           ]
         },
         {
@@ -1330,56 +1290,86 @@
           ]
         },
         {
+          "theme": "微塑料 · 老化与界面过程",
+          "category": "微塑料",
+          "article_count": 2,
+          "heat_level": "高",
+          "sample_titles": [
+            "微塑料老化对饮用水分配系统中三卤酚类消毒副产物吸附和解吸的影响",
+            "界面富集\nMicrodroplet 的微塑料\n空气-水界面促进光老化"
+          ],
+          "writing_angles": [
+            "从老化与界面过程切入：最新研究揭示了哪些容易被忽视的风险？",
+            "对比JHM最新成果：老化与界面过程研究正在发生哪些范式转变？",
+            "写给非专业读者：aging到底意味着什么，我们该如何理解？"
+          ]
+        },
+        {
+          "theme": "微塑料 · 检测与表征",
+          "category": "微塑料",
+          "article_count": 2,
+          "heat_level": "高",
+          "sample_titles": [
+            "用于减缓微塑料的渗透性路面系统：关于运输、保留、检测和去除效率的关键见解",
+            "全球模式\n和区域遥感监测\n淡水-海洋系统中的微塑料污染（2014-2024）"
+          ],
+          "writing_angles": [
+            "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？",
+            "对比JHM最新成果：检测与表征研究正在发生哪些范式转变？",
+            "写给非专业读者：detection到底意味着什么，我们该如何理解？"
+          ]
+        },
+        {
           "theme": "药物与个人护理品",
           "category": "药物与个人护理品",
-          "article_count": 2,
+          "article_count": 3,
           "heat_level": "中",
           "sample_titles": [
             "微塑料老化对饮用水分配系统中三卤酚类消毒副产物吸附和解吸的影响",
-            "三氯生协同促进抗生素抗性基因的接合转移：桥接双组分系统和群体感应"
+            "三氯生协同促进抗生素抗性基因的接合转移：桥接双组分系统和群体感应",
+            "全球基因组监测揭示了世界卫生组织优先考虑的侵袭性沙门氏菌抗生素耐药性的出现和时空模式"
           ],
           "writing_angles": [
-            "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
+            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 3 篇相关论文，话题热度较高）",
             "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
           ]
         },
         {
-          "theme": "PFAS",
-          "category": "PFAS",
-          "article_count": 2,
-          "heat_level": "中",
+          "theme": "纳米材料",
+          "category": "纳米材料",
+          "article_count": 1,
+          "heat_level": "低",
           "sample_titles": [
-            "增强型\n脉冲式\n电催化去除氟化物\n含有 Pd 单原子和 CoP 纳米颗粒的有机污染物：协同作用\n空气条件下的还原和氧化降解",
-            "种内变异\n全氟烷基和多氟烷基\n大城市附近沿海海洋生物中的物质生物累积"
+            "生物矿化\n影响细菌的运输\n和饱和多孔介质中的细胞相关纳米颗粒"
           ],
           "writing_angles": [
-            "PFAS 研究新进展：PFAS——公众最需要知道什么？",
-            "从实验室到现实：最新 PFAS 毒性/归趋研究如何影响治理逻辑？"
+            "新污染物周报：纳米材料 为何成为近期研究焦点？",
+            "跨期刊观察：EST 最新论文传递了怎样的研究风向？"
           ]
         }
       ],
       "microplastic_summary": {
-        "count": 7,
+        "count": 6,
         "top_themes": [
-          {
-            "theme": "环境行为与迁移",
-            "count": 5
-          },
           {
             "theme": "毒性与健康风险",
             "count": 4
           },
           {
-            "theme": "老化与界面过程",
-            "count": 3
-          },
-          {
-            "theme": "检测与表征",
-            "count": 3
+            "theme": "环境行为与迁移",
+            "count": 4
           },
           {
             "theme": "生态效应",
             "count": 3
+          },
+          {
+            "theme": "老化与界面过程",
+            "count": 2
+          },
+          {
+            "theme": "检测与表征",
+            "count": 2
           }
         ],
         "key_findings": [
@@ -1389,9 +1379,9 @@
           "【检测与表征、环境行为与迁移、毒性与健康风险、生态效应】全球模式\n和区域遥感监测\n淡水-海洋系统中的微塑料污染（2014-2024）"
         ],
         "recommended_angles": [
-          "从环境行为与迁移切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 7 篇相关论文，话题热度较高）",
-          "对比JHM最新成果：环境行为与迁移研究正在发生哪些范式转变？",
-          "写给非专业读者：微塑料到底意味着什么，我们该如何理解？"
+          "从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 6 篇相关论文，话题热度较高）",
+          "对比JHM最新成果：毒性与健康风险研究正在发生哪些范式转变？",
+          "写给非专业读者：exposure到底意味着什么，我们该如何理解？"
         ]
       },
       "daily_picks": [
