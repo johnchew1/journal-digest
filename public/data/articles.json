@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T13:07:43Z",
+  "updated_at": "2026-09-14T06:03:17Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -139,22 +139,6 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "From regionalization to homogenization: Nationwide metagenomic assessment of priority pathogens and the resistome in Polish hospital wastewater",
-      "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143526",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143526",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
       "title": "Multi-omics integration uncovers mechanisms of chromium tolerance in Cosmos sulphureus",
       "abstract": "",
       "published": "2026-10-01",
@@ -208,6 +192,22 @@
       "published": "2026-10-01",
       "doi": "10.1016/j.jhazmat.2026.143559",
       "url": "https://doi.org/10.1016/j.jhazmat.2026.143559",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "From regionalization to homogenization: Nationwide metagenomic assessment of priority pathogens and the resistome in Polish hospital wastewater",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143526",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143526",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -362,6 +362,120 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
+      "title": "Hos2-mediated KatG1 decrotonylation orchestrates ROS scavenging in rice blast infection",
+      "abstract": "",
+      "published": "2026-09-14",
+      "doi": "10.1038/s41467-026-76910-9",
+      "url": "https://doi.org/10.1038/s41467-026-76910-9",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Built-in electric field-boosted attomolar Pb²⁺ sensing on carboxylated black phosphorene",
+      "abstract": "Abstract Lead ion (Pb²⁺) contamination poses a severe and persistent threat to environmental safety and human health, demanding ultrasensitive and selective detection strategies. Herein, we fabricate a carboxyl-functionalized black phosphorene-modified surface plasmon resonance sensor (Au+BP-COOH) with built-in electric field enhancement for attomolar-level and highly selective Pb²⁺ detection. The Au/BP-COOH junction generates a strong interfacial built-in electric field, which strengthens near-field electromagnetic coupling and amplifies the SPR optical response, thereby boosting the detection sensitivity. Meanwhile, abundant oxygen-containing sites on BP-COOH enable efficient and preferential interaction with Pb²⁺. Our sensor achieves a detection limit of 10⁻¹⁹ M, 14 orders of magnitude lower than that of bare Au, and exhibits remarkable selectivity against Cd²⁺, Cu²⁺, Zn²⁺, Ni²⁺, Ca²⁺, and Mg²⁺. This label-free and straightforward platform provides a reliable route for ultratrace heavy-metal monitoring in environmental and food-safety applications.",
+      "published": "2026-09-14",
+      "doi": "10.1038/s41467-026-77793-6",
+      "url": "https://doi.org/10.1038/s41467-026-77793-6",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [
+        "重金属与放射性"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Geometrical-optics resonator photonics",
+      "abstract": "",
+      "published": "2026-09-14",
+      "doi": "10.1038/s41467-026-77489-x",
+      "url": "https://doi.org/10.1038/s41467-026-77489-x",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Mineral-integrated electrochemical system enabling membrane-free pH swing and active chlorine species generation for urine valorization",
+      "abstract": "",
+      "published": "2026-09-14",
+      "doi": "10.1038/s41467-026-77732-5",
+      "url": "https://doi.org/10.1038/s41467-026-77732-5",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Studying the failure mechanism in Li-metal electrode by a reversible fluorescence analysis methodology",
+      "abstract": "",
+      "published": "2026-09-14",
+      "doi": "10.1038/s41467-026-77648-0",
+      "url": "https://doi.org/10.1038/s41467-026-77648-0",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Decomposing Vehicle\nProduction and Consumption Impacts\nin Japan under Mobility and Production Network Interventions",
+      "abstract": "Abstract Passenger vehicles contribute approximately 8% to global energy-related emissions and drive other environmental impacts through the extraction of raw materials. In this study, a hybrid LCA approach is used to investigate emissions and material life-cycle impacts arising from vehicle production and consumption in Japan. By embedding a physical vehicle production model within a global MRIO, we find that 53% of emissions occur in Japan, while almost all material extraction impacts occur internationally. Vehicle size, PHEV utility factor, and battery capacity all strongly influence life-cycle impacts. Demand-side scenarios of increased occupancy, downsizing, and lifetime extension have the collective potential to reduce emissions by approximately 33% at the cohort level, while providing comparable mobility services. Lifetime extension requires additional material inputs with associated impacts; however, these impacts are repaid over time, resulting in an overall average emissions intensity (gCO2e/km) reduction of 7%. Vehicle electrification alone is unlikely to be sufficient to meet climate targets; therefore, demand-side measures should be implemented concurrently to decarbonize passenger transport while maintaining access to mobility services. While some opportunity exists to substitute upstream suppliers for lower-impact providers, the existence of low-pollution production havens is limited, further underscoring the importance of demand-side measures.",
+      "published": "2026-09-13",
+      "doi": "10.1021/acs.est.6c06919",
+      "url": "https://doi.org/10.1021/acs.est.6c06919",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Advanced CO2 Capture from Flue Gas by Promoting\nAmine Solvent Regeneration Using Dual-Functional Graphitized Packing",
+      "abstract": "Abstract Amine-based CO2 capture from flue gas provides a reliable approach for industrial emission reduction, but still suffers from a high energy penalty due to high-temperature regeneration. Catalytic amine solvent regeneration has emerged as an effective strategy to enhance the CO2 reaction kinetics at mild temperatures. However, the current powder catalysts face challenges of heat transfer limitations and weak durability in the practical packing stripper. Herein, we prepared a dual-functional stainless-steel packing with efficient heat transfer and catalytic activity through an in situ carbon modification strategy from an industrial perspective. The micron-thick graphitic carbon layer increases the heat conduction rate by 61.7%, while the active Fe sites (Fe–O–C) within the carbon layer reduce the energy barrier for CO2 desorption by 36.5%. Moreover, the catalytic packing exhibits universal applicability for various amine solvents and excellent stability during a four-week hydrothermal experiment. The pilot-scale experiments (∼150 N m3 h–1 flue gas) demonstrate that the modified packing could reduce the energy consumption to as low as 2.18 GJ per tCO2, decreased by 28.8% compared to the blank case. The industrial-scale process simulation provides an efficient route for integration of low-grade waste-heat utilization and catalytic solvent regeneration, achieving a 49.4% reduction in the total operating cost of carbon capture (∼$16.2 per tCO2).",
+      "published": "2026-09-13",
+      "doi": "10.1021/acs.est.6c07676",
+      "url": "https://doi.org/10.1021/acs.est.6c07676",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
       "title": "Two-dimensional metal oxide polaritonics",
       "abstract": "",
       "published": "2026-09-12",
@@ -444,13 +558,13 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Functional alignment of protein language models via reinforcement learning",
-      "abstract": "",
+      "title": "Loss of oxytocin receptor function disrupts neural signatures of pair bonding and fidelity in the nucleus accumbens",
+      "abstract": "Abstract Enduring relationships dramatically shape behaviors by promoting affiliation between familiar individuals; however, the neural mechanisms driving attachments remain unclear. Oxytocin receptor (Oxtr) signaling in the nucleus accumbens (NAc) reinforces pair bond formation in socially monogamous prairie voles. How Oxtr influences NAc activity during affiliative behaviors with partners and rejection of strangers is unknown. Using in vivo fiber photometry, we demonstrate that genetic loss of Oxtr sex-specifically disrupts attachment behaviors and associated NAc activity. In females, loss of Oxtr reduces prosocial behaviors and NAc activity during initial chemosensory investigation of novel males; however, partner-directed affiliative behavior and associated activity increase independently of Oxtr. In males, loss of Oxtr increases prosocial investigation of novel females, and initial behavioral and neural activity patterns predict future partner preference in Oxtr-null males. These findings reveal sex-specific roles for Oxtr in early pair bond development through modulation of prosociality and sensory processing.",
       "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-77557-2",
-      "url": "https://doi.org/10.1038/s41467-026-77557-2",
+      "doi": "10.1038/s41467-026-76876-8",
+      "url": "https://doi.org/10.1038/s41467-026-76876-8",
       "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
+      "abstract_zh": "",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -460,13 +574,13 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Loss of oxytocin receptor function disrupts neural signatures of pair bonding and fidelity in the nucleus accumbens",
-      "abstract": "Abstract Enduring relationships dramatically shape behaviors by promoting affiliation between familiar individuals; however, the neural mechanisms driving attachments remain unclear. Oxytocin receptor (Oxtr) signaling in the nucleus accumbens (NAc) reinforces pair bond formation in socially monogamous prairie voles. How Oxtr influences NAc activity during affiliative behaviors with partners and rejection of strangers is unknown. Using in vivo fiber photometry, we demonstrate that genetic loss of Oxtr sex-specifically disrupts attachment behaviors and associated NAc activity. In females, loss of Oxtr reduces prosocial behaviors and NAc activity during initial chemosensory investigation of novel males; however, partner-directed affiliative behavior and associated activity increase independently of Oxtr. In males, loss of Oxtr increases prosocial investigation of novel females, and initial behavioral and neural activity patterns predict future partner preference in Oxtr-null males. These findings reveal sex-specific roles for Oxtr in early pair bond development through modulation of prosociality and sensory processing.",
+      "title": "Functional alignment of protein language models via reinforcement learning",
+      "abstract": "",
       "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-76876-8",
-      "url": "https://doi.org/10.1038/s41467-026-76876-8",
+      "doi": "10.1038/s41467-026-77557-2",
+      "url": "https://doi.org/10.1038/s41467-026-77557-2",
       "title_zh": "",
-      "abstract_zh": "",
+      "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -602,86 +716,6 @@
       "relevance_score": 0
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "PKM2 AP: a micropeptide inhibits vascular calcification via molecular glue-mediated ubiquitination of PKM2",
-      "abstract": "",
-      "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-77693-9",
-      "url": "https://doi.org/10.1038/s41467-026-77693-9",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Wildfire exposure and political participation in Africa",
-      "abstract": "Abstract Civic engagement can shape collective responses to climate change. However, evidence on how climate-related disasters affect political participation in Africa remains limited. Combining Global Fire Atlas records with Afrobarometer surveys of more than 100,000 people in 34 African countries, we show that people living close to wildfires are more likely to vote, contact local councillors, attend community meetings, and raise collective issues, whereas protest participation shows weaker responses. These effects are larger in arid regions and among people with higher climate literacy or access to information, members of politically dominant ethnic groups and those living near ethnic boundaries. Our findings suggest that participation is motivated mainly by immediate material loss and demand for public services, rather than environmental concern. These findings highlight the importance of addressing post-disaster needs to sustain political engagement and public support for long-term climate adaptation in the Global South.",
-      "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-77404-4",
-      "url": "https://doi.org/10.1038/s41467-026-77404-4",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Huntington’s disease vasculopathy is barrier-type-selective and arteriolar-dominant with spatially-coupled astrogliosis and reversible by S1pr1 stimulation",
-      "abstract": "Abstract Brain vascular barriers are dysfunctional in many neurological disorders, including Huntington’s disease (HD), but which vessels are affected and how remains unclear. Using in vivo two-photon microscopy in R6/2 HD-model mice, we reveal a striking divergence in barrier dysfunction. Surface vessels of the blood-cerebrospinal fluid barrier (BCSFB) drive pathology in HD by paracellular leakage, while parenchymal vessels forming the blood-brain barrier (BBB) exhibit increased vesicular transport and adsorptive-mediated transcytosis (AMT), with arterioles representing the most critically impacted vascular segment. The pathology of both barriers was spatially-matched with astrocyte activation pattern localized to affected vessels both in R6/2 mice and in brains of HD patients. Sphingosine-1-phosphate receptor 1 (S1pr1) agonist treatment reversed BCSFB leakage and partially restored BBB function, selectively reducing AMT in arterioles, with no effect in capillaries and venules. These findings redefine HD vascular pathology, demonstrating heterogeneous, vessel-type-specific barrier failure beyond generalized “disruption,” uncovering mechanistic vulnerabilities and the therapeutic potential of S1pr1 modulation.",
-      "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-77474-4",
-      "url": "https://doi.org/10.1038/s41467-026-77474-4",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "A local structural basis to distinguish amorphous ices",
-      "abstract": "Abstract Phases with distinct thermodynamic properties must differ in their underlying microscopic configurations. While ordered phases are readily distinguished by unit cells and space groups, the local structural basis differentiating amorphous phases is less apparent. Here, using a new probabilistic data-driven framework applied to molecular simulations of water, we identify local collective variables that discriminate low-density and high-density amorphous (LDA and HDA) ices and characterize pressure-induced transitions between them. As expected, descriptors related to local density effectively distinguish LDA and HDA; however, phase identity is surprisingly encoded within the first coordination shell. Furthermore, the pressure-induced LDA–HDA transformation proceeds through redistribution between LDA- and HDA-like local environments with no evidence for intermediate structures, consistent with a first-order-like phase transition. This contrasts with the gradual structural evolution observed in other amorphous systems, such as metallic glasses. Critically, local hydrogen density reveals pronounced structural hysteresis between compression and decompression pathways, which is not apparent in orientational order parameters, demonstrating that the microscopic interpretation of amorphous transformations depends fundamentally on descriptor choice. These findings are robust across force fields and provide a general strategy for characterizing disordered phases lacking obvious distinguishing features.",
-      "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-77279-5",
-      "url": "https://doi.org/10.1038/s41467-026-77279-5",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Polyploid frequency decreases with elevation but increases with distance to glacial refugia in the Eastern European Alps",
-      "abstract": "Abstract Polyploidy, the possession of more than two sets of chromosomes in somatic cells, is a major driver in the diversification of flowering plants. Whereas an association between the occurrence of polyploids and latitude suggests a major impact of temperature on their global distribution, it remains unknown how polyploid frequency varies at regional spatial scales, leaving unclear the overall robustness of such relationship and its major determinants. Here, we present a flora-wide dataset of newly sampled, georeferenced ploidy occurrence data for ca. 42,000 samples of angiosperms collected along 101 elevational transects across the Eastern European Alps. Based on these data, we find that on a regional level polyploid frequency decreases with elevation, in contrast to expectations derived from global latitudinal distribution patterns. Moreover, polyploid frequency increases with distance from glacial refugia for samples below the timberline, particularly for plants with limited dispersal abilities. These results suggest that range dynamics associated with Pleistocene climatic fluctuations rather than current temperature may have played a predominant role for the current distribution of polyploids in temperate mountain ranges. In sum, our systematic fine-scale survey identified a complex interplay between historical processes and current environments on polyploid distribution that have remained undetected at the global scale.",
-      "published": "2026-09-12",
-      "doi": "10.1038/s41467-026-77752-1",
-      "url": "https://doi.org/10.1038/s41467-026-77752-1",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
       "title": "Nonlinear\nResponses of Anaerobic Methane Oxidation\nto Water Table Drawdown in Peatlands",
@@ -718,11 +752,11 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "Mechanistic\nInsights\ninto Synergistic VFA and NH3 Recovery Using a Hybrid BPMED–HFMC\nSystem",
-      "abstract": "Abstract Volatile fatty acids (VFAs) and ammonia are valuable intermediate compounds generated during anaerobic digestion and are attractive targets for circular carbon and nitrogen management. Selective separation from ion-rich waste streams remains challenging because of the complexity of the waste-based mixture. Here, we develop a hybrid bipolar membrane electrodialysis–hollow fiber membrane contactor (BPMED–HFMC) system that enables simultaneous recovery and electrochemically controlled fractionation of VFAs while corecovering ammonia without the need for costly external acid or base inputs. In BPMED, electromigration separates charged VFA carboxylates and ammonium. The bipolar membrane (BPM) then generates acid and base in situ, which converts the concentrated VFA carboxylates and ammonium into volatile neutral forms. In parallel, HFMC units then recover VFAs and ammonia as distinct product streams via membrane-mediated gas–liquid transport. We demonstrate that the anion exchange membrane selectivity is in the order acetate &gt; propionate &gt; butyrate &gt; valerate, which correlated strongly with the hydrodynamic radius of the VFAs (R2 = 0.96–0.99). During treatment of synthetic anaerobic digestate in the BPMED–HFMC system, acetate selectivity over chloride increased to ∼10 and resulting in a VFA product stream &gt;600 mM (∼71% acetate) at 60 A m–2. The specific energy consumption was 0.19–0.21 kWh mol–1 (VFA + NH3) across current densities of 20–60 A m–2, ∼50% lower than an HFMC-only control, with electricity and chemical costs of ∼1.6 cents mol–1.",
+      "title": "Comparative Assessment\nof Personal Exposures to Environmental\nContaminants Using Silicone Wristbands and Fresh Air Wristbands",
+      "abstract": "Abstract Wearable passive samplers are practical tools for personal exposure assessment, yet how sampler design and analysis methods shape the resulting measurements remains poorly characterized. We compared two widely used samplers, silicone and Fresh Air wristbands, worn simultaneously by 30 adults in Durham County, North Carolina, USA over 5 days with paired urine collection. All samples were analyzed using gas chromatography high-resolution mass spectrometry, covering a broad chemical space (m/z 53.4–1050), using five analytical approaches to separate the influence of sampler design from that of analytical workflow. Targeted analysis of 15 chemicals showed systematically different concentrations that were correlated between designs for several compounds: silicone wristbands had 33- to 189-fold higher levels of less volatile compounds, while Fresh Air wristbands captured 9- to 80-fold higher levels of more volatile compounds. The magnitude of these differences increased with the log KOA. Suspect screening annotated 1330 compounds in silicone wristbands versus 2261 in Fresh Air wristbands, with distinct molecular weight distributions: higher in molecular weight in silicone wristbands (80% at 100–300 MW) compared to Fresh Air wristbands (93% at 50–200 MW). Measurement of the flame-retardant TCPP from both wristbands correlated with its urinary metabolite. Sampler design and analytical methods each influenced measured exposures, underscoring the need for harmonization and well-documented methods to enable cross-study comparison.",
       "published": "2026-09-12",
-      "doi": "10.1021/acs.est.6c05370",
-      "url": "https://doi.org/10.1021/acs.est.6c05370",
+      "doi": "10.1021/acs.est.6c09387",
+      "url": "https://doi.org/10.1021/acs.est.6c09387",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -734,11 +768,11 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "Comparative Assessment\nof Personal Exposures to Environmental\nContaminants Using Silicone Wristbands and Fresh Air Wristbands",
-      "abstract": "Abstract Wearable passive samplers are practical tools for personal exposure assessment, yet how sampler design and analysis methods shape the resulting measurements remains poorly characterized. We compared two widely used samplers, silicone and Fresh Air wristbands, worn simultaneously by 30 adults in Durham County, North Carolina, USA over 5 days with paired urine collection. All samples were analyzed using gas chromatography high-resolution mass spectrometry, covering a broad chemical space (m/z 53.4–1050), using five analytical approaches to separate the influence of sampler design from that of analytical workflow. Targeted analysis of 15 chemicals showed systematically different concentrations that were correlated between designs for several compounds: silicone wristbands had 33- to 189-fold higher levels of less volatile compounds, while Fresh Air wristbands captured 9- to 80-fold higher levels of more volatile compounds. The magnitude of these differences increased with the log KOA. Suspect screening annotated 1330 compounds in silicone wristbands versus 2261 in Fresh Air wristbands, with distinct molecular weight distributions: higher in molecular weight in silicone wristbands (80% at 100–300 MW) compared to Fresh Air wristbands (93% at 50–200 MW). Measurement of the flame-retardant TCPP from both wristbands correlated with its urinary metabolite. Sampler design and analytical methods each influenced measured exposures, underscoring the need for harmonization and well-documented methods to enable cross-study comparison.",
+      "title": "Mechanistic\nInsights\ninto Synergistic VFA and NH3 Recovery Using a Hybrid BPMED–HFMC\nSystem",
+      "abstract": "Abstract Volatile fatty acids (VFAs) and ammonia are valuable intermediate compounds generated during anaerobic digestion and are attractive targets for circular carbon and nitrogen management. Selective separation from ion-rich waste streams remains challenging because of the complexity of the waste-based mixture. Here, we develop a hybrid bipolar membrane electrodialysis–hollow fiber membrane contactor (BPMED–HFMC) system that enables simultaneous recovery and electrochemically controlled fractionation of VFAs while corecovering ammonia without the need for costly external acid or base inputs. In BPMED, electromigration separates charged VFA carboxylates and ammonium. The bipolar membrane (BPM) then generates acid and base in situ, which converts the concentrated VFA carboxylates and ammonium into volatile neutral forms. In parallel, HFMC units then recover VFAs and ammonia as distinct product streams via membrane-mediated gas–liquid transport. We demonstrate that the anion exchange membrane selectivity is in the order acetate &gt; propionate &gt; butyrate &gt; valerate, which correlated strongly with the hydrodynamic radius of the VFAs (R2 = 0.96–0.99). During treatment of synthetic anaerobic digestate in the BPMED–HFMC system, acetate selectivity over chloride increased to ∼10 and resulting in a VFA product stream &gt;600 mM (∼71% acetate) at 60 A m–2. The specific energy consumption was 0.19–0.21 kWh mol–1 (VFA + NH3) across current densities of 20–60 A m–2, ∼50% lower than an HFMC-only control, with electricity and chemical costs of ∼1.6 cents mol–1.",
       "published": "2026-09-12",
-      "doi": "10.1021/acs.est.6c09387",
-      "url": "https://doi.org/10.1021/acs.est.6c09387",
+      "doi": "10.1021/acs.est.6c05370",
+      "url": "https://doi.org/10.1021/acs.est.6c05370",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -976,42 +1010,10 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Traceable Measurement\nof Peak Irradiance and Fluence\nRate Enables Accurate Dose Determination of Pulsed Xenon Ultraviolet\nDisinfection",
-      "abstract": "Abstract Pulsed xenon ultraviolet (PX-UV) disinfection delivers UV energy as microsecond-scale pulses with ultrahigh peak irradiation, creating a need for pulse-resolved dose characterization. Under such conditions, conventional UV dose formulation obscures peak exposure and the pulse temporal structure within an integrated dose, while commonly used radiometers and chemical actinometers are limited by saturation, nonlinear response, spectral mismatch, and temporal averaging. In this study, we addressed these limitations by developing a radiation-hard cerium-doped fiber sensor (Ce-FS) and combining it with broadband chemical actinometric calibration to enable traceable measurements of peak irradiance (IR0, for surface disinfection) and fluence rate (FR0, for air disinfection) under PX-UV irradiation. On this basis, we reformulated the dose to explicitly incorporate IR0 or FR0, pulse duration, and frequency. The Ce-FS showed a wide linear range (3.90–4611.66 mW cm–2), was benchmarked against conventional sensors, and showed good agreement with theoretical predictions. We established dose-response curves for Escherichia coli and bacteriophage MS2 and quantified pulse requirements for 2-log10 inactivation. The kinetic transferability of the pulse-resolved dose was demonstrated through a dose-controlled disinfection trial in a hospital intensive care unit. These results provide a solid basis for rigorous dose determination in PX-UV disinfection, thereby supporting performance evaluation, standardization, and dose-controlled disinfection.",
-      "published": "2026-09-10",
-      "doi": "10.1021/acs.est.6c08317",
-      "url": "https://doi.org/10.1021/acs.est.6c08317",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Integrating\nEvolutionary Ecology into Urban Aerobiology:\nTemporal Dynamics and Drivers of Airborne Spore-Pollen Diversity",
-      "abstract": "Abstract Urban airborne spores and pollen serve as valuable bioindicators for assessing biodiversity and ecosystem health. Traditional monitoring approaches predominantly correlate spore-pollen dispersal dynamics with meteorological variables, largely overlooking their intrinsic biological attributes and evolutionary context. This study adopted an evolutionary ecology framework to investigate the temporal dynamics of airborne spores and pollen in Kunming, a subtropical plateau city in China. Integrating one-year gravimetric sampling with eDNA metabarcoding, we analyzed how regional phylogenetic history, local vegetation structure, seasonal climate, and basin topography jointly shape urban spore-pollen spectra, assessed the relative contributions of biotic drivers versus abiotic factors in governing dispersal patterns, and evaluated whether phylogenetic diversity reflects biotic homogenization in airborne spore-pollen communities. Our findings demonstrated that biotic factors, especially spore-pollen grain morphology and floral traits, possessed greater explanatory power for dispersal dynamics than meteorological variables. The airborne spore-pollen assemblage exhibited remarkably high phylogenetic diversity, with a significant phylogenetic signal detected in key functional traits, suggesting limited community similarity and apparent evolutionary constraints. These results challenge the prevailing abiotic-centric perspective, repositioning airborne spores and pollen as evolutionarily constrained biological entities rather than passive atmospheric particles. This framework advances spore-pollen monitoring from descriptive abundance records to process-based evolutionary indicators, offering novel tools for urban biodiversity assessment and for forecasting plant community responses to ongoing climate and land use change.",
-      "published": "2026-09-10",
-      "doi": "10.1021/acs.est.6c05715",
-      "url": "https://doi.org/10.1021/acs.est.6c05715",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     }
   ],
   "digest": {
-    "pollutant_count": 15,
+    "pollutant_count": 16,
     "microplastic_count": 2,
     "pollutant_articles": [
       {
@@ -1129,6 +1131,17 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143423"
       },
       {
+        "doi": "10.1038/s41467-026-77793-6",
+        "title_zh": "",
+        "journal": "NC",
+        "published": "2026-09-14",
+        "pollutant_categories": [
+          "重金属与放射性"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1038/s41467-026-77793-6"
+      },
+      {
         "doi": "10.1038/s41467-026-77687-7",
         "title_zh": "",
         "journal": "NC",
@@ -1185,13 +1198,13 @@
       }
     ],
     "writing_brief": {
-      "date": "2026-09-13",
-      "overview": "本周共整理 15 篇新污染物相关文献（微塑料 2 篇）。当前最热方向为「药物与个人护理品」，可结合本土案例或政策语境展开评论。",
+      "date": "2026-09-14",
+      "overview": "本周共整理 16 篇新污染物相关文献（微塑料 2 篇）。当前最热方向为「药物与个人护理品」，可结合本土案例或政策语境展开评论。",
       "stats": {
-        "total_pollutant": 15,
+        "total_pollutant": 16,
         "microplastic": 2,
         "categories": {
-          "重金属与放射性": 3,
+          "重金属与放射性": 4,
           "微塑料": 2,
           "纳米材料": 1,
           "药物与个人护理品": 5,
@@ -1217,6 +1230,21 @@
           "writing_angles": [
             "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 5 篇相关论文，话题热度较高）",
             "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
+          ]
+        },
+        {
+          "theme": "重金属与放射性",
+          "category": "重金属与放射性",
+          "article_count": 4,
+          "heat_level": "高",
+          "sample_titles": [
+            "Construction of brick-wall-like topological olefin-linked covalent organic frame",
+            "Site-specific associations between soil methylmercury accumulation and plant, so",
+            "Interpretable machine learning predictions reveal climate-driven escalation of a"
+          ],
+          "writing_angles": [
+            "新污染物周报：重金属与放射性 为何成为近期研究焦点？（本周已有 4 篇相关论文，话题热度较高）",
+            "跨期刊观察：JHM 最新论文传递了怎样的研究风向？"
           ]
         },
         {
@@ -1246,21 +1274,6 @@
             "从源头与控制切入：最新研究揭示了哪些容易被忽视的风险？",
             "对比JHM最新成果：源头与控制研究正在发生哪些范式转变？",
             "写给非专业读者：retention到底意味着什么，我们该如何理解？"
-          ]
-        },
-        {
-          "theme": "重金属与放射性",
-          "category": "重金属与放射性",
-          "article_count": 3,
-          "heat_level": "中",
-          "sample_titles": [
-            "Construction of brick-wall-like topological olefin-linked covalent organic frame",
-            "Site-specific associations between soil methylmercury accumulation and plant, so",
-            "Interpretable machine learning predictions reveal climate-driven escalation of a"
-          ],
-          "writing_angles": [
-            "新污染物周报：重金属与放射性 为何成为近期研究焦点？（本周已有 3 篇相关论文，话题热度较高）",
-            "跨期刊观察：JHM 最新论文传递了怎样的研究风向？"
           ]
         },
         {
