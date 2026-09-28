@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T13:32:57Z",
+  "updated_at": "2026-09-28T06:38:15Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -187,6 +187,22 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
+      "title": "A contaminant-adaptive evidence chain for source attribution in multi-operator contaminated land",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143722",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143722",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
       "title": "Multi-omics integration uncovers mechanisms of chromium tolerance in Cosmos sulphureus",
       "abstract": "",
       "published": "2026-10-01",
@@ -331,24 +347,86 @@
       "relevance_score": 1
     },
     {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Polylactic acid microplastics enhance copper bioavailability and host–microbiome toxicity during black soldier fly bioconversion of food waste: Mechanisms and multi-level impacts",
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Building-block synthesis as a determinant of antibiotic persistence",
       "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143654",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143654",
+      "published": "2026-09-28",
+      "doi": "10.1038/s41467-026-78277-3",
+      "url": "https://doi.org/10.1038/s41467-026-78277-3",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [
-        "微塑料"
+        "药物与个人护理品"
       ],
-      "is_microplastic": true,
+      "is_microplastic": false,
       "is_emerging_pollutant": true,
-      "microplastic_themes": [
-        "毒性与健康风险"
-      ],
-      "relevance_score": 2
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "mRNA-1273 SARS-CoV-2 vaccination in people with HIV: an immune correlates analysis of CD4 + T cell responses in the multicenter CoVPN 3008 observational study",
+      "abstract": "",
+      "published": "2026-09-28",
+      "doi": "10.1038/s41467-026-77995-y",
+      "url": "https://doi.org/10.1038/s41467-026-77995-y",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Structural basis of stepwise G protein activation by the viral chemokine receptor US28",
+      "abstract": "Abstract G protein-coupled receptors (GPCRs) govern diverse cellular responses and are crucial drug targets. However, the sequence of structural events from G protein recognition to GDP release has remained elusive. Here, we leveraged the viral chemokine GPCR US28 to capture multiple activation states of the US28-G q complex. Using cryo-electron microscopy and an engineered chemokine superagonist, we determined three distinct complex structures, capturing a GDP-bound Encounter state, the nucleotide-free Canonical state, and a putative intermediate bridging the two states, the Transition-to-Canonical state. These structures, along with simulations and functional data, provide high-resolution snapshots of a plausible G protein activation trajectory and support a stepwise conformational model for G protein activation. This activation cascade closely parallels mechanisms proposed for human GPCRs, suggesting a conserved GPCR signaling mechanism.",
+      "published": "2026-09-28",
+      "doi": "10.1038/s41467-026-78122-7",
+      "url": "https://doi.org/10.1038/s41467-026-78122-7",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Metal cofactor-level chassis engineering enables aerobic expression of tungsten formate dehydrogenases in Escherichia coli",
+      "abstract": "",
+      "published": "2026-09-28",
+      "doi": "10.1038/s41467-026-78159-8",
+      "url": "https://doi.org/10.1038/s41467-026-78159-8",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "mHolmes improves cross anatomical cadaveric microbiome forecasting for postmortem interval estimation",
+      "abstract": "",
+      "published": "2026-09-28",
+      "doi": "10.1038/s41467-026-77510-3",
+      "url": "https://doi.org/10.1038/s41467-026-77510-3",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
     },
     {
       "journal": "NC",
@@ -529,22 +607,6 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Evidence of an acetone carboxylation pathway in photoheterotrophic bacteria from the Arctic Ocean",
-      "abstract": "",
-      "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-78082-y",
-      "url": "https://doi.org/10.1038/s41467-026-78082-y",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
       "title": "Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
       "abstract": "",
       "published": "2026-09-26",
@@ -561,11 +623,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Age-dependent alterations in human striatum identify a PPP1R15B-miR-196a node as a modifier of Huntington’s disease",
+      "title": "Evidence of an acetone carboxylation pathway in photoheterotrophic bacteria from the Arctic Ocean",
       "abstract": "",
       "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-78010-0",
-      "url": "https://doi.org/10.1038/s41467-026-78010-0",
+      "doi": "10.1038/s41467-026-78082-y",
+      "url": "https://doi.org/10.1038/s41467-026-78082-y",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -593,77 +655,13 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "PARP10 condensation inhibits viral replication via targeting NAD+ homeostasis",
+      "title": "Age-dependent alterations in human striatum identify a PPP1R15B-miR-196a node as a modifier of Huntington’s disease",
       "abstract": "",
       "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-78058-y",
-      "url": "https://doi.org/10.1038/s41467-026-78058-y",
+      "doi": "10.1038/s41467-026-78010-0",
+      "url": "https://doi.org/10.1038/s41467-026-78010-0",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Efficient transport kinetics of indirect excitons in van der Waals heterostructure",
-      "abstract": "Abstract Exciton transport is fundamental for understanding transport phenomena in bosonic systems and for exploring excitation energy transfer in materials. Spatially indirect excitons (IXs) have long lifetimes allowing them to form quantum bosonic states and travel long distances. Van der Waals heterostructures form a new materials platform for exploring IX transport. Disordered in-plane potentials suppress IX transport due to IX localization and scattering. In this work, we found the efficient IX transport kinetics characterized by anomalously high IX mobility. The efficient IX transport kinetics is observed in the presence of substantial in-plane disorder. The anomalously high IX mobility, its disappearance with increasing temperature, and its non-monotonic dependence on density are qualitatively consistent with theoretical predictions of IX superfluidity.",
-      "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-77967-2",
-      "url": "https://doi.org/10.1038/s41467-026-77967-2",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Multifunctional Aerogel Fiber Radiative Cooling Fabric for Outdoor Personal Thermal Management",
-      "abstract": "",
-      "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-77997-w",
-      "url": "https://doi.org/10.1038/s41467-026-77997-w",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Emergent charge crystallization and frustration in a particle anti-spin ice",
-      "abstract": "",
-      "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-77905-2",
-      "url": "https://doi.org/10.1038/s41467-026-77905-2",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Puzzling isotonic odd-even staggering of charge-radii in deformed rare earth nuclei",
-      "abstract": "Abstract Isotonic (constant neutron number) systematics in the deformed rare-earth region have long suggested that nuclei with odd numbers of protons are more compact than their even-proton neighbors—except for Lu, whose recommended nuclear charge radius appeared anomalously large relative to Yb and Hf. We report a high-precision determination of the natural-abundance-averaged Lu-Yb charge-radius difference using extreme-ultraviolet spectroscopy of highly charged Na- and Mg-like ions, supported by high-accuracy relativistic atomic-structure calculations—a recently introduced method with the unique ability to measure inter-element charge-radius differences. Combined with muonic-atom and optical isotope-shift data, our results reestablish a pronounced odd-even staggering along the isotonic chain with neutron number N = 94 . Nuclear density functional theory calculations, including quantified uncertainties, fail to reproduce the large stagger, while successfully reproducing the charge-radii staggering along isotopic chains and in semi-magic nuclei. In this work, we resolve the Lu inversion anomaly and provide new constraints for experimental and theoretical studies of nuclear size.",
-      "published": "2026-09-26",
-      "doi": "10.1038/s41467-026-77471-7",
-      "url": "https://doi.org/10.1038/s41467-026-77471-7",
-      "title_zh": "",
-      "abstract_zh": "",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -1007,7 +1005,7 @@
   ],
   "digest": {
     "pollutant_count": 8,
-    "microplastic_count": 3,
+    "microplastic_count": 2,
     "pollutant_articles": [
       {
         "doi": "10.1016/j.jhazmat.2026.143543",
@@ -1057,17 +1055,15 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143466"
       },
       {
-        "doi": "10.1016/j.jhazmat.2026.143654",
+        "doi": "10.1038/s41467-026-78277-3",
         "title_zh": "",
-        "journal": "JHM",
-        "published": "2026-10-01",
+        "journal": "NC",
+        "published": "2026-09-28",
         "pollutant_categories": [
-          "微塑料"
+          "药物与个人护理品"
         ],
-        "microplastic_themes": [
-          "毒性与健康风险"
-        ],
-        "url": "https://doi.org/10.1016/j.jhazmat.2026.143654"
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1038/s41467-026-78277-3"
       },
       {
         "doi": "10.1021/acs.est.6c04255",
@@ -1112,23 +1108,23 @@
       }
     ],
     "writing_brief": {
-      "date": "2026-09-27",
-      "overview": "本周共整理 8 篇新污染物相关文献，其中微塑料 3 篇。研究热点集中在「源头与控制」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
+      "date": "2026-09-28",
+      "overview": "本周共整理 8 篇新污染物相关文献（微塑料 2 篇）。当前最热方向为「重金属与放射性」，可结合本土案例或政策语境展开评论。",
       "stats": {
         "total_pollutant": 8,
-        "microplastic": 3,
+        "microplastic": 2,
         "categories": {
-          "药物与个人护理品": 1,
+          "药物与个人护理品": 2,
           "重金属与放射性": 5,
-          "微塑料": 3,
+          "微塑料": 2,
           "纳米材料": 1
         },
         "microplastic_themes": {
           "源头与控制": 2,
-          "毒性与健康风险": 2,
           "检测与表征": 1,
           "环境行为与迁移": 1,
           "老化与界面过程": 1,
+          "毒性与健康风险": 1,
           "生态效应": 1
         }
       },
@@ -1164,18 +1160,17 @@
           ]
         },
         {
-          "theme": "微塑料 · 毒性与健康风险",
-          "category": "微塑料",
+          "theme": "药物与个人护理品",
+          "category": "药物与个人护理品",
           "article_count": 2,
           "heat_level": "高",
           "sample_titles": [
-            "Polylactic acid microplastics enhance copper bioavailability and host–microbiome",
-            "Microplastics\nas\na Modulator of Mercury Biogeochemistry:\nTransport, Transformati"
+            "Redistribution and increased effluent occurrence of phage-associated antibiotic ",
+            "Building-block synthesis as a determinant of antibiotic persistence"
           ],
           "writing_angles": [
-            "从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？",
-            "对比JHM最新成果：毒性与健康风险研究正在发生哪些范式转变？",
-            "写给非专业读者：toxicity到底意味着什么，我们该如何理解？"
+            "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
+            "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
           ]
         },
         {
@@ -1221,16 +1216,17 @@
           ]
         },
         {
-          "theme": "药物与个人护理品",
-          "category": "药物与个人护理品",
+          "theme": "微塑料 · 毒性与健康风险",
+          "category": "微塑料",
           "article_count": 1,
-          "heat_level": "中",
+          "heat_level": "高",
           "sample_titles": [
-            "Redistribution and increased effluent occurrence of phage-associated antibiotic "
+            "Microplastics\nas\na Modulator of Mercury Biogeochemistry:\nTransport, Transformati"
           ],
           "writing_angles": [
-            "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
-            "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
+            "从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？",
+            "对比EST最新成果：毒性与健康风险研究正在发生哪些范式转变？",
+            "写给非专业读者：risk到底意味着什么，我们该如何理解？"
           ]
         },
         {
@@ -1248,14 +1244,10 @@
         }
       ],
       "microplastic_summary": {
-        "count": 3,
+        "count": 2,
         "top_themes": [
           {
             "theme": "源头与控制",
-            "count": 2
-          },
-          {
-            "theme": "毒性与健康风险",
             "count": 2
           },
           {
@@ -1269,15 +1261,18 @@
           {
             "theme": "老化与界面过程",
             "count": 1
+          },
+          {
+            "theme": "毒性与健康风险",
+            "count": 1
           }
         ],
         "key_findings": [
           "【源头与控制】Polystyrene nanoplastics induce transient microglial activat",
-          "【毒性与健康风险】Polylactic acid microplastics enhance copper bioavailability",
           "【检测与表征、环境行为与迁移、老化与界面过程、毒性与健康风险、源头与控制、生态效应】Microplastics\nas\na Modulator of Mercury Biogeochemistry:\nTra"
         ],
         "recommended_angles": [
-          "从源头与控制切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 3 篇相关论文，话题热度较高）",
+          "从源头与控制切入：最新研究揭示了哪些容易被忽视的风险？",
           "对比JHM最新成果：源头与控制研究正在发生哪些范式转变？",
           "写给非专业读者：retention到底意味着什么，我们该如何理解？"
         ]
@@ -1319,20 +1314,6 @@
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143485"
         },
         {
-          "title_zh": "Polylactic acid microplastics enhance copper bioavailability and host–microbiome toxicity during black soldier fly bioconversion of food waste: Mechanisms and multi-level impacts",
-          "journal": "JHM",
-          "published": "2026-10-01",
-          "categories": [
-            "微塑料"
-          ],
-          "microplastic_themes": [
-            "毒性与健康风险"
-          ],
-          "why_write": "命中微塑料热点（微塑料/毒性与健康风险），具备科普/评论写作价值",
-          "suggested_angle": "从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？",
-          "url": "https://doi.org/10.1016/j.jhazmat.2026.143654"
-        },
-        {
           "title_zh": "Redistribution and increased effluent occurrence of phage-associated antibiotic resistance genes during progressive membrane fouling in lab-scale membrane bioreactors",
           "journal": "JHM",
           "published": "2026-10-01",
@@ -1355,6 +1336,18 @@
           "why_write": "命中新污染物热点（重金属与放射性），具备科普/评论写作价值",
           "suggested_angle": "新污染物周报：重金属与放射性 为何成为近期研究焦点？",
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143493"
+        },
+        {
+          "title_zh": "Site-specific associations between soil methylmercury accumulation and plant, soil, and hgcA-associated microbial modules across Chinese coastal wetlands",
+          "journal": "JHM",
+          "published": "2026-10-01",
+          "categories": [
+            "重金属与放射性"
+          ],
+          "microplastic_themes": [],
+          "why_write": "命中新污染物热点（重金属与放射性），具备科普/评论写作价值",
+          "suggested_angle": "新污染物周报：重金属与放射性 为何成为近期研究焦点？",
+          "url": "https://doi.org/10.1016/j.jhazmat.2026.143466"
         }
       ]
     }
