@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T13:42:14Z",
+  "updated_at": "2026-10-05T06:49:33Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -15,6 +15,40 @@
     }
   },
   "articles": [
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Reconfiguring interfacial hydrogen-bond networks to enhance anodic oxidation for efficient wastewater treatment",
+      "abstract": "Abstract Anodic oxidation is a pivotally electrochemical technology for wastewater treatment containing emerging contaminants such as isothiazolinone antimicrobials, but sluggish interfacial water-splitting kinetics for hydroxyl radical (•OH) formation and a limited oxidation range, constrain its industrial scalability. This study leverages Fe 3+ to strengthen interfacial water hydrogen bond, accelerating •OH formation and high-valent iron production, thus enhancing oxidation kinetics and scope. [Fe(OH)(H 2 O) 5 ] 2+ enhances the hydrogen-bond (H-bond) population at the electrode surface—particularly 4-HB-H 2 O motifs increase from 21% to 37% and weakens O–H bonds, due to its strong hydration and polarization ability. This reconfigured interfacial water H-bond structure markedly enhances water dissociation, leading to a 7-fold increase in the •OH concentration. Ultimately, Fe 3+ -mediated precise tuning of the H-bond network of water molecules enables non-selective degradation of diverse emerging contaminants, delivering stable long-term flow operation of 500 hours with ~95% removal efficiency maintained for contaminant. The system achieves a 44.3% cost reduction relative to conventional boron-doped diamond electrodes, establishing a convenient approach for industrial-scale electrochemical water treatment.",
+      "published": "2026-10-05",
+      "doi": "10.1038/s41467-026-78208-2",
+      "url": "https://doi.org/10.1038/s41467-026-78208-2",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [
+        "新污染物综合"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Transmembrane PhoxID: photoproximity labelling across the plasma membrane in vivo",
+      "abstract": "",
+      "published": "2026-10-05",
+      "doi": "10.1038/s41467-026-78135-2",
+      "url": "https://doi.org/10.1038/s41467-026-78135-2",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
@@ -55,6 +89,22 @@
       "published": "2026-10-04",
       "doi": "10.1038/s41467-026-78452-6",
       "url": "https://doi.org/10.1038/s41467-026-78452-6",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Scalable and Interpretable\nChemical Neurotoxicity\nPrediction via Multi-Modal Gated Fusion and ChemBERTa",
+      "abstract": "Abstract Chemical exposure causes adverse neurological outcomes, highlighting the need for high-throughput screening of chemical neurotoxicity. However, existing computational methods rely on single-modality inputs and lack complementary molecular information to sufficiently enhance the accuracy and efficiency of neurotoxicity risk assessment. Here, we present NeuroToxPredictor, a scalable and interpretable multimodal framework built on a curated chemical neurotoxicity dataset for accurate and efficient chemical neurotoxicity prediction. It integrates graph attention networks and molecular fingerprints with ChemBERTa, a pretrained chemical language model that provides contextual encoding of SMILES. A gated fusion module adaptively weights these complementary representations according to their predictive relevance to enhance modality-specific weight allocation through a gating fusion mechanism. NeuroToxPredictor achieved competitive performance across five independent training seeds (AUC = 0.919 ± 0.004; accuracy = 0.845 ± 0.014; F1-score = 0.861 ± 0.011; recall = 0.884 ± 0.013; precision = 0.839 ± 0.024; MCC = 0.688 ± 0.028), outperforming both single-modality and reduced-modality baselines. It demonstrates strong generalizability with an AUC of 0.861, as externally validated on an independent set of 279 compounds. NeuroToxPredictor is deployed on a publicly platform (https://www.ai4environ.cn/NeuroToxPredictor), enabling an end-to-end intelligent workflow from chemical retrieval, neurotoxicity prediction, applicability-domain assessment, and large language model-assisted result interpretation.",
+      "published": "2026-10-04",
+      "doi": "10.1021/acs.est.6c10122",
+      "url": "https://doi.org/10.1021/acs.est.6c10122",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -114,22 +164,6 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "The structural dynamics and molecular coupling in the slow inactivation of a prokaryotic voltage-gated sodium channel",
-      "abstract": "",
-      "published": "2026-10-03",
-      "doi": "10.1038/s41467-026-78235-z",
-      "url": "https://doi.org/10.1038/s41467-026-78235-z",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
       "title": "Top-down semantic predictions align phonetic neuronal dynamics in human superior temporal gyrus",
       "abstract": "Abstract Speech processing involves a hierarchy of cognitive layers from low-level phonetic to high-level semantic representations. However, interactions are not only feed-forward; feedback mechanisms are crucial for real-time, accurate speech recognition. Yet how distant levels interface during speech processing remains unclear. Here, we analyzed intracortical recordings from 624 neurons across three human participants implanted with microelectrode arrays in the anterior superior temporal gyrus during an auditory semantic categorization task and natural speech perception. We identified distinct neural subspaces, or manifolds, for lexico-semantic and phonetic features, with a functional separation of the corresponding low-dimensional dynamics. We contrasted a bottom-up cumulative and a top-down semantic hypothesis on phonetic-semantic temporal alignment, and found phonetic alignment to word-level semantic representations, signaling top-down prediction. These effects were consistent across participants at the spiking level, and remained undetected in adjacent ECoG recordings. These findings demonstrate the reorganization of neuronal population dynamics supporting phonetic representations during semantic prediction.",
       "published": "2026-10-03",
@@ -178,11 +212,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Universal random matrix behavior of a Fermionic quantum gas",
+      "title": "The structural dynamics and molecular coupling in the slow inactivation of a prokaryotic voltage-gated sodium channel",
       "abstract": "",
       "published": "2026-10-03",
-      "doi": "10.1038/s41467-026-77088-w",
-      "url": "https://doi.org/10.1038/s41467-026-77088-w",
+      "doi": "10.1038/s41467-026-78235-z",
+      "url": "https://doi.org/10.1038/s41467-026-78235-z",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -201,6 +235,22 @@
       "url": "https://doi.org/10.1038/s41467-026-78050-6",
       "title_zh": "",
       "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Universal random matrix behavior of a Fermionic quantum gas",
+      "abstract": "",
+      "published": "2026-10-03",
+      "doi": "10.1038/s41467-026-77088-w",
+      "url": "https://doi.org/10.1038/s41467-026-77088-w",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -297,38 +347,6 @@
       "published": "2026-10-03",
       "doi": "10.1038/s41467-026-78299-x",
       "url": "https://doi.org/10.1038/s41467-026-78299-x",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Global climate impact of land-surface change driven by radiative effects",
-      "abstract": "Abstract A robust proportionality between radiative forcing and global-mean temperature has been established for most climate drivers. However, land-surface changes are considered an exception due to their potential to alter surface hydrology, introducing non-radiative effects that may rival those from surface albedo changes. Here, comparing Earth-system-model simulations with large-scale perturbations of surface albedo and water availability, we find that the spatially integrated biophysical climate impact is similarly dominated by radiative processes and scales approximately linearly with the resulting shifts in planetary albedo, implying a ~ 0.4 K surface temperature response per W m −2 change in top-of-atmosphere net short-wave radiation. Thus, while non-radiative effects strongly influence local temperatures, their net contribution to the global-mean signal is negligible. The planetary-albedo response is primarily governed by regional cloud-cover characteristics, resulting in a substantially stronger temperature response to land-surface change in mid- and high-latitude regions than in the tropics and subtropics.",
-      "published": "2026-10-03",
-      "doi": "10.1038/s41467-026-77834-0",
-      "url": "https://doi.org/10.1038/s41467-026-77834-0",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Sustainability cost of defect engineering in color centers for quantum communications",
-      "abstract": "",
-      "published": "2026-10-03",
-      "doi": "10.1038/s41467-026-78261-x",
-      "url": "https://doi.org/10.1038/s41467-026-78261-x",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -648,24 +666,6 @@
       "relevance_score": 0
     },
     {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Insight\nfrom Carbon and Nitrogen Isotope Fractionation\nof Sulfamethoxazole during Oxidative vs Reductive Transformation",
-      "abstract": "Abstract The antibiotic sulfamethoxazole (SMX) is frequently detected in aquatic systems, raising environmental concerns. Therefore, it is necessary to investigate its transformation pathways under diverse environmental conditions. Here, we explored information from stable isotope fractionation during reductive transformation of SMX with Fe(II)-amended goethite suspensions vs oxidative transformation with MnO2. Transformation of SMX by surface-bound Fe(II) showed significant carbon isotope fractionation (εC = −3.6‰ ± 0.1‰ and εC = −2.9‰ ± 0.2‰, with and without buffer, respectively), pronounced nitrogen isotope fractionation (εN = −12.8‰ ± 0.6‰ and εN = −13.0‰ ± 0.2‰, with and without buffer, respectively), and evidence of transformation products that are consistent with initial reductive N–O bond cleavage. In contrast, reaction with MnO2 caused normal carbon but inverse nitrogen isotope fractionation (εC = −1.7‰ ± 0.1‰ and εC = −2.7‰ ± 0.2‰, with and without buffer, respectively, εN = +1.9‰ ± 0.2‰ without buffer) indicative of an initial oxidative electron transfer. Oxidation products were not easily identified by high-resolution mass spectrometry, emphasizing the importance of compound-specific isotope analysis (CSIA) as an alternative for detecting ongoing transformation. Our study thus highlights the potential of CSIA to detect transformation in settings where concentration and product analysis would be inconclusive and to distinguish between reductive and oxidative transformation pathways of SMX in the environment.",
-      "published": "2026-10-01",
-      "doi": "10.1021/acs.est.6c07718",
-      "url": "https://doi.org/10.1021/acs.est.6c07718",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "药物与个人护理品"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
       "title": "Self-sustaining microbial reductive debromination of brominated flame retardants driven by sewage sludge-derived endogenous organics amid competing electron acceptors",
@@ -684,40 +684,6 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Study on the removal of condensable particulate matter from flue gas using string-of-beads liquid",
-      "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143505",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143505",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Construction of brick-wall-like topological olefin-linked covalent organic frameworks via a steric-hindrance-mediated strategy for efficient uranium capture",
-      "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143493",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143493",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "重金属与放射性"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
       "title": "Redistribution and increased effluent occurrence of phage-associated antibiotic resistance genes during progressive membrane fouling in lab-scale membrane bioreactors",
       "abstract": "",
       "published": "2026-10-01",
@@ -732,38 +698,6 @@
       "is_emerging_pollutant": true,
       "microplastic_themes": [],
       "relevance_score": 1
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Adsorption-oxidation controls on Sb(III) isotope fractionation at Mn oxide-water interfaces",
-      "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143533",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143533",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Radioactive Iodine-131 aerosols induce rat pulmonary fibrosis via miR-34c-5p/ARHGAP1 axis-mediated fibroblast activation",
-      "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143615",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143615",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     },
     {
       "journal": "JHM",
@@ -810,6 +744,72 @@
       "published": "2026-10-01",
       "doi": "10.1016/j.jhazmat.2026.143601",
       "url": "https://doi.org/10.1016/j.jhazmat.2026.143601",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Radioactive Iodine-131 aerosols induce rat pulmonary fibrosis via miR-34c-5p/ARHGAP1 axis-mediated fibroblast activation",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143615",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143615",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Study on the removal of condensable particulate matter from flue gas using string-of-beads liquid",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143505",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143505",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Construction of brick-wall-like topological olefin-linked covalent organic frameworks via a steric-hindrance-mediated strategy for efficient uranium capture",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143493",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143493",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [
+        "重金属与放射性"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Adsorption-oxidation controls on Sb(III) isotope fractionation at Mn oxide-water interfaces",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143533",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143533",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -871,27 +871,11 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Droplet-driven self-powered Pb2 + extraction from industrial wastewater",
+      "title": "Multi-omics integration uncovers mechanisms of chromium tolerance in Cosmos sulphureus",
       "abstract": "",
       "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143513",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143513",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Structural insights into sulfonamide degradation by a two-component flavin-dependent monooxygenase",
-      "abstract": "",
-      "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143643",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143643",
+      "doi": "10.1016/j.jhazmat.2026.143478",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143478",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -935,11 +919,27 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Multi-omics integration uncovers mechanisms of chromium tolerance in Cosmos sulphureus",
+      "title": "Droplet-driven self-powered Pb2 + extraction from industrial wastewater",
       "abstract": "",
       "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143478",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143478",
+      "doi": "10.1016/j.jhazmat.2026.143513",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143513",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "From regionalization to homogenization: Nationwide metagenomic assessment of priority pathogens and the resistome in Polish hospital wastewater",
+      "abstract": "",
+      "published": "2026-10-01",
+      "doi": "10.1016/j.jhazmat.2026.143526",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143526",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -967,11 +967,11 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "From regionalization to homogenization: Nationwide metagenomic assessment of priority pathogens and the resistome in Polish hospital wastewater",
+      "title": "Structural insights into sulfonamide degradation by a two-component flavin-dependent monooxygenase",
       "abstract": "",
       "published": "2026-10-01",
-      "doi": "10.1016/j.jhazmat.2026.143526",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143526",
+      "doi": "10.1016/j.jhazmat.2026.143643",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143643",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -1001,6 +1001,17 @@
     "pollutant_count": 9,
     "microplastic_count": 2,
     "pollutant_articles": [
+      {
+        "doi": "10.1038/s41467-026-78208-2",
+        "title_zh": "",
+        "journal": "NC",
+        "published": "2026-10-05",
+        "pollutant_categories": [
+          "新污染物综合"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1038/s41467-026-78208-2"
+      },
       {
         "doi": "10.1038/s41467-026-77973-4",
         "title_zh": "",
@@ -1046,28 +1057,6 @@
         "url": "https://doi.org/10.1021/acs.est.6c06696"
       },
       {
-        "doi": "10.1021/acs.est.6c07718",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-01",
-        "pollutant_categories": [
-          "药物与个人护理品"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c07718"
-      },
-      {
-        "doi": "10.1016/j.jhazmat.2026.143493",
-        "title_zh": "",
-        "journal": "JHM",
-        "published": "2026-10-01",
-        "pollutant_categories": [
-          "重金属与放射性"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1016/j.jhazmat.2026.143493"
-      },
-      {
         "doi": "10.1016/j.jhazmat.2026.143543",
         "title_zh": "",
         "journal": "JHM",
@@ -1093,6 +1082,17 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143485"
       },
       {
+        "doi": "10.1016/j.jhazmat.2026.143493",
+        "title_zh": "",
+        "journal": "JHM",
+        "published": "2026-10-01",
+        "pollutant_categories": [
+          "重金属与放射性"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1016/j.jhazmat.2026.143493"
+      },
+      {
         "doi": "10.1016/j.jhazmat.2026.143724",
         "title_zh": "",
         "journal": "JHM",
@@ -1105,17 +1105,17 @@
       }
     ],
     "writing_brief": {
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "overview": "本周共整理 9 篇新污染物相关文献（微塑料 2 篇）。当前最热方向为「药物与个人护理品」，可结合本土案例或政策语境展开评论。",
       "stats": {
         "total_pollutant": 9,
         "microplastic": 2,
         "categories": {
+          "新污染物综合": 2,
           "纳米材料": 2,
-          "药物与个人护理品": 4,
-          "新污染物综合": 1,
-          "重金属与放射性": 1,
-          "微塑料": 2
+          "药物与个人护理品": 3,
+          "微塑料": 2,
+          "重金属与放射性": 1
         },
         "microplastic_themes": {
           "源头与控制": 1
@@ -1125,15 +1125,15 @@
         {
           "theme": "药物与个人护理品",
           "category": "药物与个人护理品",
-          "article_count": 4,
+          "article_count": 3,
           "heat_level": "高",
           "sample_titles": [
             "Niche Divergence-Based\nIdentification of Microbial\nIndicators Tracking Cyanobact",
             "Predicting\nChemical\nStressor Effects on Conjugative\nPlasmid Transfer Rates Using",
-            "Insight\nfrom Carbon and Nitrogen Isotope Fractionation\nof Sulfamethoxazole durin"
+            "Redistribution and increased effluent occurrence of phage-associated antibiotic "
           ],
           "writing_angles": [
-            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 4 篇相关论文，话题热度较高）",
+            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 3 篇相关论文，话题热度较高）",
             "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
           ]
         },
@@ -1152,6 +1152,20 @@
           ]
         },
         {
+          "theme": "新污染物综合",
+          "category": "新污染物综合",
+          "article_count": 2,
+          "heat_level": "中",
+          "sample_titles": [
+            "Reconfiguring interfacial hydrogen-bond networks to enhance anodic oxidation for",
+            "Toxicokinetics Reveal\nStructure-Related Differences\nin Developmental Toxicity am"
+          ],
+          "writing_angles": [
+            "新污染物周报：新污染物综合 为何成为近期研究焦点？",
+            "跨期刊观察：NC 最新论文传递了怎样的研究风向？"
+          ]
+        },
+        {
           "theme": "纳米材料",
           "category": "纳米材料",
           "article_count": 2,
@@ -1163,19 +1177,6 @@
           "writing_angles": [
             "新污染物周报：纳米材料 为何成为近期研究焦点？",
             "跨期刊观察：NC 最新论文传递了怎样的研究风向？"
-          ]
-        },
-        {
-          "theme": "新污染物综合",
-          "category": "新污染物综合",
-          "article_count": 1,
-          "heat_level": "低",
-          "sample_titles": [
-            "Toxicokinetics Reveal\nStructure-Related Differences\nin Developmental Toxicity am"
-          ],
-          "writing_angles": [
-            "新污染物周报：新污染物综合 为何成为近期研究焦点？",
-            "跨期刊观察：EST 最新论文传递了怎样的研究风向？"
           ]
         },
         {
@@ -1239,6 +1240,18 @@
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143724"
         },
         {
+          "title_zh": "Reconfiguring interfacial hydrogen-bond networks to enhance anodic oxidation for efficient wastewater treatment",
+          "journal": "NC",
+          "published": "2026-10-05",
+          "categories": [
+            "新污染物综合"
+          ],
+          "microplastic_themes": [],
+          "why_write": "命中新污染物热点（新污染物综合），具备科普/评论写作价值",
+          "suggested_angle": "新污染物周报：新污染物综合 为何成为近期研究焦点？",
+          "url": "https://doi.org/10.1038/s41467-026-78208-2"
+        },
+        {
           "title_zh": "Thermally programmed disassembly and reconstruction of 2D polymer platelets via melting-governed crystallization-driven self-assembly",
           "journal": "NC",
           "published": "2026-10-03",
@@ -1261,18 +1274,6 @@
           "why_write": "命中新污染物热点（药物与个人护理品），具备科普/评论写作价值",
           "suggested_angle": "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
           "url": "https://doi.org/10.1021/acs.est.6c04563"
-        },
-        {
-          "title_zh": "Predicting\nChemical\nStressor Effects on Conjugative\nPlasmid Transfer Rates Using Machine Learning",
-          "journal": "EST",
-          "published": "2026-10-02",
-          "categories": [
-            "药物与个人护理品"
-          ],
-          "microplastic_themes": [],
-          "why_write": "命中新污染物热点（药物与个人护理品），具备科普/评论写作价值",
-          "suggested_angle": "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
-          "url": "https://doi.org/10.1021/acs.est.6c02828"
         }
       ]
     }
