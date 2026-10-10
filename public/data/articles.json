@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T14:58:56Z",
+  "updated_at": "2026-10-10T14:14:02Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -15,6 +15,22 @@
     }
   },
   "articles": [
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Twisted superconducting quantum diodes for high fidelity anharmonic qubits",
+      "abstract": "Abstract In superconducting circuits, bidirectional signal propagation can cause back-reflections and back-action that couple environmental noise back to coherent elements, degrading fidelity. Nonreciprocal superconducting diodes provide an intrinsic route to suppress such back-scattering at the circuit level. However, their diode efficiency and quantum integration remain limited. Here, we realize a quantum diode in twisted NbSe 2 under in-plane and out-of-plane magnetic fields. A mere 1 ∘ twist yields an efficiency enhancement over pristine devices, reaching 27.6%. Quantum simulations reveal that this intermediate efficiency, well below 100% ideal, is both experimentally practical and optimal for preserving qubit anharmonicity and stabilizing two-level systems. These findings show that maximal rectification is not always beneficial for quantum information, establishing a new principle for designing the fundamental properties of twisted superconductors towards low-power, high-fidelity quantum circuits.",
+      "published": "2026-10-10",
+      "doi": "10.1038/s41467-026-78376-1",
+      "url": "https://doi.org/10.1038/s41467-026-78376-1",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
@@ -52,6 +68,22 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
+      "title": "De novo design of miniprotein inhibitors of bacterial adhesins",
+      "abstract": "",
+      "published": "2026-10-09",
+      "doi": "10.1038/s41467-026-78123-6",
+      "url": "https://doi.org/10.1038/s41467-026-78123-6",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
       "title": "Multi-model collaborative early warning for battery systems with integrated fiber optic sensors",
       "abstract": "Abstract The safety assessment of battery systems is constrained by sparse temperature measurements and monolithic diagnostic frameworks in conventional battery management systems (BMS). To address this, we propose a multi-model collaborative thermal-runaway early-warning framework using distributed temperature sensing. An integrated sensing scheme increases temperature sensing points within the battery pack from 32 to 540 with minimal wiring complexity and is validated in real-world vehicle operation. We establish a functional relationship between temperature Shannon entropy (SE) and average temperature variation to derive a dynamic warning boundary incorporating error tolerance. Integrating this boundary with thresholds for temperature, temperature change rate, and SE change rate enables collaborative early warning. Compared with conventional BMS warning benchmarks, the framework provides maximum warning lead times of 706 s in laboratory modules and 554 s in real-world vehicle operation. These findings demonstrate the potential of distributed sensing and collaborative diagnostics for proactive thermal-runaway risk identification.",
       "published": "2026-10-09",
@@ -66,22 +98,6 @@
       "is_emerging_pollutant": true,
       "microplastic_themes": [],
       "relevance_score": 1
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "De novo design of miniprotein inhibitors of bacterial adhesins",
-      "abstract": "",
-      "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-78123-6",
-      "url": "https://doi.org/10.1038/s41467-026-78123-6",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     },
     {
       "journal": "NC",
@@ -200,6 +216,22 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
+      "title": "Author Correction: Cell cycle and p53 gate the direct conversion of human fibroblasts to dopaminergic neurons",
+      "abstract": "",
+      "published": "2026-10-09",
+      "doi": "10.1038/s41467-026-77919-w",
+      "url": "https://doi.org/10.1038/s41467-026-77919-w",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
       "title": "P450-catalyzed enantiodivergent kinetic oxidation to access chiral haloalcohols",
       "abstract": "",
       "published": "2026-10-09",
@@ -232,22 +264,6 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial",
-      "abstract": "",
-      "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-77358-7",
-      "url": "https://doi.org/10.1038/s41467-026-77358-7",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
       "title": "A co-evolved peptide-GPCR system senses host entry to drive fungal infection",
       "abstract": "Abstract A successful infection requires pathogens to recognize the specific host environment in order to reprogram their physiology accordingly. One major way in which eukaryotic cells sense their surroundings is via G-Protein Coupled Receptors (GPCRs), which share a seven-transmembrane architecture and G-protein-mediated downstream signaling. While mammalian GPCRs are well-characterized and represent important drug targets, their fungal counterparts remain poorly understood. Here we uncover a GPCR-based mechanism that allows the corn pathogen Ustilago maydis to sense whether it has entered plant tissue. During infection, the fungus secretes the protein Pit2, which is cleaved by host apoplastic cysteine proteases, releasing a peptide ligand ‘hidden’ within the protein core. This ligand activates the fungal GPCR Gpe1, thus promoting fungal proliferation after initial host penetration. We elucidate the crystal structure of Pit2 and model the complex formed by Gpe1 and the Pit2-derived peptide. Structure-guided mutational analysis supports that disrupting this interaction reduces fungal virulence. The Gpe1/Pit2 system is conserved in related fungal species, with co-evolutionary signatures apparently preserving receptor-ligand specificity. Furthermore, this system shows mechanistic similarities to mammalian receptors, suggesting an evolutionary link between fungal and mammalian GPCRs.",
       "published": "2026-10-09",
@@ -264,11 +280,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Consecutive waves of NODAL inhibition are required for epiblast patterning",
-      "abstract": "Abstract The mouse genome encodes two Lefty genes that antagonize NODAL signaling to break symmetry during gastrulation. Despite their central regulatory role, accurately describing and comparing their embryonic function remains unclear. Here, we generated high replicate powered single-cell transcriptional atlases of Lefty1 and Lefty2 mutant embryogenesis to evaluate the effects of perturbed NODAL signaling during gastrulation. We find that both mutants exhibit phenotypes beginning with the earliest primitive streak derivatives, suggesting a sequential shift from anterior Lefty1 to posterior Lefty2-based control that prevents spurious differentiation into extraembryonic and axial mesoendoderm at the cost of embryonic mesoderm and, in the case of Lefty1, rostral forebrain specification. By phasing bulk SMAD2/3 ChIP-seq data into single-cell-resolved descriptions of signal transduction, we identify distinct NODAL-responsive modules that track the context-specific use of this morphogen over gastrulation time. Collectively, our work highlights the potential of single-cell assays to decode how complex differentiation processes resolve morphogen signals in space and time.",
+      "title": "A cryptic binding pocket regulates the metal-dependent activity of Cas9",
+      "abstract": "Abstract Cas9 is a metal-dependent nuclease used for genome editing across diverse cells and organisms exhibiting distinct ionic environments, yet how metal ions regulate its catalytic function, and consequently its editing efficiency remains unclear. Here, molecular simulations, Markov state models, and mixed quantum–classical approaches reveal that divalent metals promote activation of the catalytic HNH domain through formation of a divalent metal-binding pocket (DBP) at the HNH–RuvC interface. This cryptic pocket emerges dynamically during HNH activation and is supported by NMR measurements revealing metal-dependent structural perturbations within the HNH–L2 region. Mutations targeting the DBP disrupt HNH activation and impair the coupled catalytic activity of both nucleases, identifying the pocket as a key regulator of Cas9’s metal-dependent activity. Together with quantum–classical simulations revealing distinct catalytic behaviours among divalent metals, these findings uncover an ion-dependent regulatory mechanism in Cas9 with insights for genome editing across diverse biological environments.",
       "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-78248-8",
-      "url": "https://doi.org/10.1038/s41467-026-78248-8",
+      "doi": "10.1038/s41467-026-78458-0",
+      "url": "https://doi.org/10.1038/s41467-026-78458-0",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -280,11 +296,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Precise polymerization of phenolic pollutants by a nanoconfined reactor with Fe-Mo dual-site",
+      "title": "The conformation-selective PI3Kδ inhibitor roginolisib in patients with advanced or metastatic cancer, including metastatic uveal melanoma: first-in-human clinical trial",
       "abstract": "",
       "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-78258-6",
-      "url": "https://doi.org/10.1038/s41467-026-78258-6",
+      "doi": "10.1038/s41467-026-77358-7",
+      "url": "https://doi.org/10.1038/s41467-026-77358-7",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -296,47 +312,27 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Resistance indicators in sewage microbiota mirror clinical antibiotic use with temporal lag linked to host",
+      "title": "FtmOx1-catalyzed diverse C(sp3)-H oxyfunctionalization enables versatile late-stage diversification of phenethylamines and tetrahydroisoquinolines",
       "abstract": "",
       "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-78142-3",
-      "url": "https://doi.org/10.1038/s41467-026-78142-3",
+      "doi": "10.1038/s41467-026-78405-z",
+      "url": "https://doi.org/10.1038/s41467-026-78405-z",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "药物与个人护理品"
-      ],
+      "pollutant_categories": [],
       "is_microplastic": false,
-      "is_emerging_pollutant": true,
+      "is_emerging_pollutant": false,
       "microplastic_themes": [],
-      "relevance_score": 1
+      "relevance_score": 0
     },
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Non-sewered sanitation systems reshape microplastics into chemically complex and reactive contaminants",
+      "title": "Spinons, solitons and random-singlet-like behaviours in the spin-chain compound copper benzoate",
       "abstract": "",
       "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-78391-2",
-      "url": "https://doi.org/10.1038/s41467-026-78391-2",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "微塑料"
-      ],
-      "is_microplastic": true,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Genome architecture drives antifungal resistance in Candida auris",
-      "abstract": "",
-      "published": "2026-10-09",
-      "doi": "10.1038/s41467-026-78280-8",
-      "url": "https://doi.org/10.1038/s41467-026-78280-8",
+      "doi": "10.1038/s41467-026-77134-7",
+      "url": "https://doi.org/10.1038/s41467-026-77134-7",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -362,6 +358,22 @@
       "is_emerging_pollutant": true,
       "microplastic_themes": [],
       "relevance_score": 1
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Soil\nProtists Consume Viruses to Drive Microbial Nutrient\nCycling: Overlooked Trophic Pathways in Soil Food Web",
+      "abstract": "Abstract Soil viruses are traditional top-down regulators that redistribute organic matter through host lysis and the viral shunt, implicitly positioning them as terminal sinks rather than active trophic components. Here, we show, for the first time, that soil viruses can also be direct prey for protists, establishing an overlooked pathway for the transfer of viral-derived nutrients and energy within soil food webs. In controlled cocultures, the ciliate Tetrahymena pyriformis actively ingested the soil bacteriophage HRZ04p, with viral abundance declining by 0.66-log within 24 h at a virus-to-protist ratio of 5:1. Under high viral availability (104:1), viral consumption enhanced protist population growth by 2.24-fold relative to virus-free controls. Viral grazing altered nutrient dynamics, characterized by ammonium peaking at 1,206 μg L–1 (a 92% increase compared with protists alone) and coordinated shifts in nitrogen-metabolizing enzymes. Untargeted metabolomics revealed extensive metabolic reprogramming, with amino acid catabolic pathways upregulated. In contrast, amino acid biosynthesis and aminoacyl-tRNA biosynthesis were simultaneously activated, reflecting recycling of viral-derived substrates into new protein synthesis. These findings confirm the existence of a soil “viral consumption” pathway, reposition viruses as active nodes within microbial food webs, and provide a mechanistic and conceptual foundation for incorporating virus-mediated nutrient fluxes into soil biogeochemical models.",
+      "published": "2026-10-09",
+      "doi": "10.1021/acs.est.6c06384",
+      "url": "https://doi.org/10.1021/acs.est.6c06384",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
     },
     {
       "journal": "EST",
@@ -655,27 +667,11 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Global Supply Chains\nReduce the Cost of Achieving\nParis Agreement Solar PV Targets by More Than Previously Estimated",
-      "abstract": "Abstract Global supply chains (GSCs) reduce solar photovoltaic (PV) module costs and accelerate deployment for Paris Agreement targets. Using production, trade, price data, and learning curve modeling across regions, we estimate that GSCs could enable 4085 million tonnes of CO2 emission reductions from 2018–2030 through production scale-up. Relative to a counterfactual without GSCs, cost savings represent 15.85–17.95% of the cumulative module costs required for the 1.5 °C target. Validation against 2022–2025 data, however, reveals that these estimates are conservative: recalibrated learning rates and trade growth yield 77–99% higher savings by 2030. Stricter trade policies could erode savings by ∼8%, but learning gains far outweigh potential losses. Maintaining open supply chains is essential for capturing the full cost-reduction potential of solar PV.",
-      "published": "2026-10-07",
-      "doi": "10.1021/acs.est.6c09393",
-      "url": "https://doi.org/10.1021/acs.est.6c09393",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     }
   ],
   "digest": {
-    "pollutant_count": 7,
-    "microplastic_count": 2,
+    "pollutant_count": 5,
+    "microplastic_count": 1,
     "pollutant_articles": [
       {
         "doi": "10.1038/s41467-026-78433-9",
@@ -711,28 +707,6 @@
         "url": "https://doi.org/10.1038/s41467-026-78215-3"
       },
       {
-        "doi": "10.1038/s41467-026-78142-3",
-        "title_zh": "",
-        "journal": "NC",
-        "published": "2026-10-09",
-        "pollutant_categories": [
-          "药物与个人护理品"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1038/s41467-026-78142-3"
-      },
-      {
-        "doi": "10.1038/s41467-026-78391-2",
-        "title_zh": "",
-        "journal": "NC",
-        "published": "2026-10-09",
-        "pollutant_categories": [
-          "微塑料"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1038/s41467-026-78391-2"
-      },
-      {
         "doi": "10.1021/acs.est.6c03454",
         "title_zh": "",
         "journal": "EST",
@@ -759,17 +733,17 @@
       }
     ],
     "writing_brief": {
-      "date": "2026-10-09",
-      "overview": "本周共整理 7 篇新污染物相关文献（微塑料 2 篇）。当前最热方向为「药物与个人护理品」，可结合本土案例或政策语境展开评论。",
+      "date": "2026-10-10",
+      "overview": "本周共整理 5 篇新污染物相关文献（微塑料 1 篇）。当前最热方向为「纳米材料」，可结合本土案例或政策语境展开评论。",
       "stats": {
-        "total_pollutant": 7,
-        "microplastic": 2,
+        "total_pollutant": 5,
+        "microplastic": 1,
         "categories": {
           "纳米材料": 1,
           "重金属与放射性": 1,
           "PFAS": 1,
-          "药物与个人护理品": 2,
-          "微塑料": 2
+          "药物与个人护理品": 1,
+          "微塑料": 1
         },
         "microplastic_themes": {
           "老化与界面过程": 1,
@@ -777,20 +751,6 @@
         }
       },
       "hot_themes": [
-        {
-          "theme": "药物与个人护理品",
-          "category": "药物与个人护理品",
-          "article_count": 2,
-          "heat_level": "高",
-          "sample_titles": [
-            "Resistance indicators in sewage microbiota mirror clinical antibiotic use with t",
-            "Combined Residues\nof Frequently Detected Herbicides\nare Stronger Predictors of S"
-          ],
-          "writing_angles": [
-            "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
-            "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
-          ]
-        },
         {
           "theme": "微塑料 · 老化与界面过程",
           "category": "微塑料",
@@ -857,10 +817,23 @@
             "PFAS 研究新进展：PFAS——公众最需要知道什么？",
             "从实验室到现实：最新 PFAS 毒性/归趋研究如何影响治理逻辑？"
           ]
+        },
+        {
+          "theme": "药物与个人护理品",
+          "category": "药物与个人护理品",
+          "article_count": 1,
+          "heat_level": "中",
+          "sample_titles": [
+            "Combined Residues\nof Frequently Detected Herbicides\nare Stronger Predictors of S"
+          ],
+          "writing_angles": [
+            "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
+            "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
+          ]
         }
       ],
       "microplastic_summary": {
-        "count": 2,
+        "count": 1,
         "top_themes": [
           {
             "theme": "老化与界面过程",
@@ -872,13 +845,12 @@
           }
         ],
         "key_findings": [
-          "【综合】Non-sewered sanitation systems reshape microplastics into ch",
           "【老化与界面过程、生态效应】Phage Lysis Associated\nwith Biodegradable Microplastics\nMedi"
         ],
         "recommended_angles": [
           "从老化与界面过程切入：最新研究揭示了哪些容易被忽视的风险？",
-          "对比NC最新成果：老化与界面过程研究正在发生哪些范式转变？",
-          "写给非专业读者：微塑料到底意味着什么，我们该如何理解？"
+          "对比EST最新成果：老化与界面过程研究正在发生哪些范式转变？",
+          "写给非专业读者：degradation到底意味着什么，我们该如何理解？"
         ]
       },
       "daily_picks": [
@@ -896,18 +868,6 @@
           "why_write": "命中微塑料热点（微塑料/老化与界面过程、生态效应），具备科普/评论写作价值",
           "suggested_angle": "从老化与界面过程切入：最新研究揭示了哪些容易被忽视的风险？",
           "url": "https://doi.org/10.1021/acs.est.6c06022"
-        },
-        {
-          "title_zh": "Non-sewered sanitation systems reshape microplastics into chemically complex and reactive contaminants",
-          "journal": "NC",
-          "published": "2026-10-09",
-          "categories": [
-            "微塑料"
-          ],
-          "microplastic_themes": [],
-          "why_write": "命中微塑料热点（微塑料/），具备科普/评论写作价值",
-          "suggested_angle": "从微塑料切入：最新研究揭示了哪些容易被忽视的风险？",
-          "url": "https://doi.org/10.1038/s41467-026-78391-2"
         },
         {
           "title_zh": "Environmentally Relevant Concentrations of Nanomaterials Drive Photochemical Production of Reactive Species and Pollutant Degradation in Surface Waters",
@@ -944,6 +904,18 @@
           "why_write": "命中新污染物热点（PFAS），具备科普/评论写作价值",
           "suggested_angle": "PFAS 研究新进展：PFAS——公众最需要知道什么？",
           "url": "https://doi.org/10.1038/s41467-026-78215-3"
+        },
+        {
+          "title_zh": "Combined Residues\nof Frequently Detected Herbicides\nare Stronger Predictors of Soil Resistome and Virulence Potential\nthan Single Residues",
+          "journal": "EST",
+          "published": "2026-10-09",
+          "categories": [
+            "药物与个人护理品"
+          ],
+          "microplastic_themes": [],
+          "why_write": "命中新污染物热点（药物与个人护理品），具备科普/评论写作价值",
+          "suggested_angle": "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
+          "url": "https://doi.org/10.1021/acs.est.6c03454"
         }
       ]
     }
