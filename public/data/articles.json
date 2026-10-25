@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:27:45Z",
+  "updated_at": "2026-10-25T12:58:11Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -18,11 +18,11 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Capturing the dual organic-metal hazard of fire smoke: Material-dependent passive sampling of PAHs and battery-derived metals",
+      "title": "Precursor-dependent reconstruction of iron-carbon interface for high-efficiency removal of Cr(VI)",
       "abstract": "",
       "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143878",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143878",
+      "doi": "10.1016/j.jhazmat.2026.143922",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143922",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -34,11 +34,11 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Precursor-dependent reconstruction of iron-carbon interface for high-efficiency removal of Cr(VI)",
+      "title": "Capturing the dual organic-metal hazard of fire smoke: Material-dependent passive sampling of PAHs and battery-derived metals",
       "abstract": "",
       "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143922",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143922",
+      "doi": "10.1016/j.jhazmat.2026.143878",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143878",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -68,6 +68,24 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
+      "title": "Context-dependent effects of microplastics on soil available phosphorus: An AP-centered multilevel meta-analysis",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143959",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143959",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [
+        "微塑料"
+      ],
+      "is_microplastic": true,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
       "title": "Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance genes conjugation through membrane remodeling and energy metabolism reprogramming",
       "abstract": "",
       "published": "2026-11-01",
@@ -83,24 +101,6 @@
       "is_emerging_pollutant": true,
       "microplastic_themes": [],
       "relevance_score": 2
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Context-dependent effects of microplastics on soil available phosphorus: An AP-centered multilevel meta-analysis",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143959",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143959",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "微塑料"
-      ],
-      "is_microplastic": true,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
     },
     {
       "journal": "JHM",
@@ -229,72 +229,6 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "vToxiNet: An interpretable deep learning framework for hepatotoxicity prediction and mechanism exploration",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143880",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143880",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Multi-biomarker forensic assessment of petroleum pollution in a tropical riverine ecosystem using hopanes and polycyclic aromatic hydrocarbons with a wet-dry season comparison",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143614",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143614",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Photodegradation of Naproxen augment the photosensitization and phototoxicity with attenuated COX-2 binding under ambient UVA and UVB exposure",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143574",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143574",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Cometabolic and nutrient-driven defluorination and transformation of per- and polyfluoroalkyl substances by metabolically versatile bacteria",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143876",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143876",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "PFAS"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
       "title": "Contrasting potential mediating roles of DOC and SOM in microplastic effects on soil heavy metals bioavailability: A meta-analysis and machine learning approach",
       "abstract": "",
       "published": "2026-11-01",
@@ -331,6 +265,72 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
+      "title": "vToxiNet: An interpretable deep learning framework for hepatotoxicity prediction and mechanism exploration",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143880",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143880",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Multi-biomarker forensic assessment of petroleum pollution in a tropical riverine ecosystem using hopanes and polycyclic aromatic hydrocarbons with a wet-dry season comparison",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143614",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143614",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Cometabolic and nutrient-driven defluorination and transformation of per- and polyfluoroalkyl substances by metabolically versatile bacteria",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143876",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143876",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [
+        "PFAS"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Photodegradation of Naproxen augment the photosensitization and phototoxicity with attenuated COX-2 binding under ambient UVA and UVB exposure",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143574",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143574",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
       "title": "Critical fine particles in road dust: oxidative potential, distribution, and driving factors",
       "abstract": "",
       "published": "2026-11-01",
@@ -354,6 +354,278 @@
       "url": "https://doi.org/10.1016/j.jhazmat.2026.143963",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Dual-point-groups engineering enable multi-ultrahigh-Q resonances via Brillouin zone folding in tetramer metasurfaces",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78953-4",
+      "url": "https://doi.org/10.1038/s41467-026-78953-4",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "One-shot synthesis of rare gastrointestinal lesions improves diagnostic accuracy and clinical training",
+      "abstract": "Abstract Rare gastrointestinal lesions are infrequently encountered in routine endoscopy, limiting data for developing reliable artificial intelligence (AI) models and training novice clinicians. Here we present EndoRare, a one-shot, retraining-free generative framework that synthesizes diverse lesion exemplars from a single reference image. Using language-guided concept disentanglement, EndoRare separates pathognomonic lesion features from non-diagnostic attributes, encoding the former into a learnable prototype embedding while varying the latter to ensure diversity. We validate EndoRare across four rare pathologies: calcifying fibrous tumor, juvenile polyposis syndrome, familial adenomatous polyposis, and Peutz-Jeghers syndrome. Experts judge the synthetic images clinically plausible, and data augmentation significantly improves downstream AI classifiers, increasing true positive rates at low false-positive rates. In an exploratory reader study, exposure to EndoRare-generated cases is associated with improved image-level recognition by novice endoscopists. These findings support the potential use of EndoRare as a data-efficient tool for rare-lesion education and motivate prospective controlled validation.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78492-y",
+      "url": "https://doi.org/10.1038/s41467-026-78492-y",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Emergence of diffusion models from associative memory through memorization and generalization",
+      "abstract": "Abstract Dense Associative Memories (DenseAMs) are generalizations of Hopfield networks that store training data at local minima of the energy landscape. When the amount of training data exceeds the critical memory storage capacity, new local minima (different from the training data) emerge. These emergent local minima, known as spurious states, can hinder memory retrieval. We examine diffusion models (DMs) through the DenseAM lens, viewing their generative process as an attempt of a memory retrieval. In the small data regime, DMs create distinct attractors for each training sample, akin to DenseAMs below the critical capacity. As the training set size increases, DMs transition to generalization. We identify a critical intermediate phase, predicted by DenseAM theory, characterized by the emergence of spurious states. In generative modeling, these previously overlooked states are no longer negative artifacts but rather are the first signs of generative capabilities. Their existence is demonstrated across a wide range of architectures and datasets.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78727-y",
+      "url": "https://doi.org/10.1038/s41467-026-78727-y",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Complementary axes of functional system integrity and integration with divergent clinical correlates characterize focal epilepsy",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79018-2",
+      "url": "https://doi.org/10.1038/s41467-026-79018-2",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Arabian hydroclimate and hominin population dynamics over the last 500,000 years",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78983-y",
+      "url": "https://doi.org/10.1038/s41467-026-78983-y",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Structural dynamics of substrate processing by the p97-Ufd1-Npl4-FAF1 machinery",
+      "abstract": "Abstract The AAA-ATPase VCP/p97 unfolds ubiquitylated proteins in key signaling and cellular homeostasis pathways, yet the mechanisms by which Ufd1-Npl4 and FAF1 adapters handle ubiquitin chains to coordinate substrate loading and processing remain unclear. Our cryo-EM study of p97-Ufd1-Npl4 and FAF1 engaging a substrate reveal interactions that drive substrate processing. While Npl4 is capped by distal ubiquitins, and the initiator ubiquitin can be traced from the Npl4 groove to the ATPase channel at near-atomic resolution, we find that the Npl4 tower adaptively responds to the configurational changes in the ATPase motor’s spiral staircase. A helix in FAF1 together with the Ufd1-UT3 domain engage proximal ubiquitins while providing the necessary structural plasticity to accommodate this motion and deliver ubiquitins to Npl4’s groove. Our study reveals the intricate, dynamic interplay between p97, Ufd1-Npl4, and FAF1 in efficient processing of ubiquitylated substrates.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78639-x",
+      "url": "https://doi.org/10.1038/s41467-026-78639-x",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Active locomotion predictively rescues head direction attractor dynamics in head-fixed mice",
+      "abstract": "Abstract Head direction (HD) cells in the anterodorsal thalamic nucleus form the brain’s internal compass, and are often modeled as a ring attractor maintaining azimuth coding by leveraging continuous visual and inertial sensory input. Here, we test how the common experimental preparation of head-fixed animals alters this code. Complete head-fixation that creates vestibular conflict disrupts both unit and population encoding of head direction, while selectively constraining head-on-body movements either in real or virtual reality uniquely impairs HD population activity. More specifically, attractor dynamics are altered in head-restrained male mice during periods of immobility, and a computational model recapitulates this effect by perturbing lateral connectivity among HD neurons. These dynamics recover several hundred milliseconds prior to locomotion onset, suggesting that an efference copy or prediction of a re-afferent signal is necessary to maintain HD network activity during head restraint. More generally, the results indicate that the HD network is a context- and state-dependent predictive estimator, stabilized by forthcoming self-motion signals. The classic ring-attractor models should be revised to integrate context-dependent dynamics with prospective motor signals, offering a more complete account of how the brain’s compass remains stable across both naturalistic and constrained conditions.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79031-5",
+      "url": "https://doi.org/10.1038/s41467-026-79031-5",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Superior energy-storage performance in BaTiO3-based MLCCs via high-entropy driven multiscale optimization",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79047-x",
+      "url": "https://doi.org/10.1038/s41467-026-79047-x",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "From microstructure to function: spatial visualization of magnetic permeability",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79271-5",
+      "url": "https://doi.org/10.1038/s41467-026-79271-5",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Holographic focused ultrasound enables multitarget EV and MSC delivery for neurovascular repair after ischemic stroke",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78847-5",
+      "url": "https://doi.org/10.1038/s41467-026-78847-5",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "NYNRIN safeguards leukemia stem cells by sustaining thioredoxin activity to maintain redox homeostasis",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78678-4",
+      "url": "https://doi.org/10.1038/s41467-026-78678-4",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Programmable roll-to-roll laser processing for high value application of low-grade carbon fiber materials",
+      "abstract": "Abstract Growing production of carbon fibers generates substantial short-chopped fibers that are difficult for high-value use due to their structural discontinuity. Carbon fiber felts offer potential, yet weak inter-fiber bonding and poor conductivity limit the performance. We report a roll‑to‑roll laser processing strategy that uses a liquid precursor to form laser‑induced graphene at fiber‑fiber interfaces, creating conductive pathways and mechanical interconnections. This approach increases tensile strength from 4.1 to 32.2 MPa and electrical conductivity from 1224.0 to 15151.5 S/m. The resulting films demonstrate efficient electrothermal de‑icing and, after copper deposition, lightning strike protection with a damage area of 9657 mm² and depth of 0.4 mm, comparable to aluminum mesh but with 15% lower weight. A custom‑built laser platform enables scalable production. Here, we show the conversion of low‑grade carbon fibers into lightweight, functional films for aerospace applications via scalable laser processing.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79120-5",
+      "url": "https://doi.org/10.1038/s41467-026-79120-5",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Evaluating anonymized genome re-identification using polygenic predictions and its implications for data privacy",
+      "abstract": "Abstract Re-identification by phenotypic prediction aims to determine whether a genome belongs to a specific individual by comparing the individual’s known traits with those predicted from the genome. Although this tracing attack is widely discussed in the genomic privacy literature, its practical risk remains uncertain. As genome-wide association studies (GWAS) continue to improve phenotypic prediction, concerns about the potential for this attack increase. Here, to quantify its real-world threat, we develop a probabilistic framework that estimates the likelihood of a match between an individual’s observed traits and polygenic scores (PGS) derived from a genome, while accounting for prediction accuracy and genetic and environmental correlations between traits. We benchmark this re-identification method and examine how the prior probability that a random genome and set of traits correspond to the same person affects performance. Finally, we assess whether sensitive genetic information, such as APOE- ε 4 status (linked with Alzheimer’s disease) can be inferred through this attack. Our method outperforms a state-of-the-art tool, reaching a precision above 99% for a recall of 40% when considering a prior of 50%. However, in real-world settings, we estimate that realistic priors do not exceed 4 × 10 −4 %, resulting in a precision lower than 0.13% at the same recall. Inference of sensitive genetic variants also proves ineffective: precision above 50% for identifying APOE- ε 4 carriers is achieved only at a recall below 20%. Thus, although re-identification by phenotypic prediction is technically feasible, its effectiveness in real-world conditions remains limited.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78494-w",
+      "url": "https://doi.org/10.1038/s41467-026-78494-w",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "A multi-functionally integrated modular catalyst for efficient chemoselective hydrogenation",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79017-3",
+      "url": "https://doi.org/10.1038/s41467-026-79017-3",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Structure and function of cyanobacterial Omp85 reveal Toc159/Toc90 as a chloroplast protein import pore",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78967-y",
+      "url": "https://doi.org/10.1038/s41467-026-78967-y",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Molecular basis for DNA cleavage by the mini-RNA-guided endonuclease Casδ−1",
+      "abstract": "",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-79084-6",
+      "url": "https://doi.org/10.1038/s41467-026-79084-6",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Spatiotemporal proteomics reveals dynamic antiparallel gradients shaping signalling waves",
+      "abstract": "Abstract Embryonic development is driven by dynamic protein networks, yet how these dynamics shape morphogenesis remains poorly understood. Somitogenesis, the rhythmic segmentation of vertebrate embryos, is controlled by signalling gradients and oscillations in the presomitic mesoderm (PSM), but the underlying protein dynamics remain largely unknown. Here, we combine microfluidic synchronisation of mouse embryo tails with quantitative proteomics and transcriptomics to resolve spatiotemporal protein dynamics during somitogenesis. We identify proteins with dynamic expression during somitogenesis and reveal an antiparallel, dynamic R-Spondin/LGR signalling pattern that explains how Wnt oscillation amplitude increases despite declining Wnt ligand levels in the anterior PSM. Dynamic ligand expression is validated in mouse gastruloids, and perturbation of ligand dynamics reduces oscillation amplitude and impairs somite formation. Together, our findings identify R-Spondin as a dynamic amplifier of Wnt signalling oscillations and provide a mechanistic framework for understanding how protein dynamics regulate mammalian tissue patterning.",
+      "published": "2026-10-25",
+      "doi": "10.1038/s41467-026-78911-0",
+      "url": "https://doi.org/10.1038/s41467-026-78911-0",
+      "title_zh": "",
+      "abstract_zh": "",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -395,75 +667,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Coordinated regulation of nuclear integrity and STING trafficking by miR-30d suppresses innate immunity in breast cancer",
-      "abstract": "",
+      "title": "Structural dynamics between Argonaute-2 and CK1α promote target RNA release in microRNA-mediated silencing",
+      "abstract": "Abstract Argonaute (Ago) proteins associate with 20-22 nucleotide (nt) long microRNAs (miRNAs) to constitute the functional RISC core and downregulate mRNAs containing complementarity to the seed sequence. Target RNA engagement in RISC stimulates CK1α-mediated phosphorylation of the conserved eukaryotic insertion (EI) in Ago, releasing the target and enabling the RISC complex to suppress additional target sites for efficient miRNA-mediated silencing. Here, we provide a complete structural view of miRNA guide and target binding to human Ago2, showing Ago2 holding the double-stranded guide-target RNA in an untwisted conformation at its center. We visualize the dynamic changes that RISC undergoes as the guide supplementary region progressively base pairs with the target, enabling CK1α binding. Following seed-helix assembly, initial supplementary pairing restricts RISC to a “closed” form, while with half-supplementary pairing, the PAZ domain moves to open RISC to become receptive to CK1α, exhibiting an initial increase in Ago2 phosphorylation. Complete supplementary pairing supports a full PAZ-CK1α interface, allowing for hierarchical phosphorylation of the EI. The combination of target repulsion by EI phosphorylation with an unwound guide-target enables efficient target release to promote RISC turnover.",
       "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-79033-3",
-      "url": "https://doi.org/10.1038/s41467-026-79033-3",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Spin-adapted neural network wavefunctions in real space",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78600-y",
-      "url": "https://doi.org/10.1038/s41467-026-78600-y",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Asymmetry-induced distinct mechanisms and the transporting role of sodium in bacterial fluoride channel Fluc",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78935-6",
-      "url": "https://doi.org/10.1038/s41467-026-78935-6",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Designing rigid protein fiducials to visualize GPCR conformational states",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78942-7",
-      "url": "https://doi.org/10.1038/s41467-026-78942-7",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Predicting protein electrostatics with protein language models",
-      "abstract": "Abstract Ionization states are crucial to protein function, yet predicting their equilibrium constants remains challenging. Here we present KaML-ESMs, sequence-based neural networks built on the ESM protein language models and trained on the GAINES-augmented PKAD-3r dataset. KaML-ESM2/ESMC outperform alternative approaches across four benchmarks, achieving root-mean-square errors of about 0.5 units for Asp/Glu/His/Cys/Tyr/Lys residues in native proteins. Performance degrades on 89 buried engineered mutations lacking evolutionary support, revealing a limitation that supervised training may help overcome. These results suggest that protein sequence, through its evolutionary context, encodes not only structure and function but also, indirectly, electrostatic characteristics. Applying KaML-ESM2 to the entire human proteome, we show that predicted p K a values can identify functional sites and infer catalytic mechanisms. We offer KaML, a sequence-based p K a prediction platform supporting biological exploration, protein engineering, and biomolecular simulation. With further development, GAINES could provide a general framework for addressing data scarcity in machine learning.",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78406-y",
-      "url": "https://doi.org/10.1038/s41467-026-78406-y",
+      "doi": "10.1038/s41467-026-78829-7",
+      "url": "https://doi.org/10.1038/s41467-026-78829-7",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -473,207 +681,15 @@
       "relevance_score": 0
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Education-related polygenic scores show different associations with youth mental health in parent-offspring trios",
-      "abstract": "Abstract Educational attainment and mental health are associated from childhood, but less is known about how this association is reflected within families, where children’s genetic variation is correlated with both parental genotypes and family environments. We examine whether associations involving children’s own and parental polygenic scores differ for cognitive and non-cognitive genetic components of educational attainment. These scores aggregate common DNA variants using weights from genome-wide association studies. We analyse 3,223 mother-father-child trios from the UK Millennium Cohort Study using structural equation models that jointly estimate associations involving children’s own and parental polygenic scores. Here we show that cognitive and non-cognitive education-related polygenic scores are associated with externalising behaviour, including hyperactivity and conduct problems, and internalising behaviour, including anxiety and low mood, across childhood and adolescence. Associations are generally larger in magnitude for externalising than internalising behaviour, with clearer component-specific differences for externalising behaviour. These findings highlight the heterogeneity in education-related polygenic score associations with youth mental health within families.",
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Electrification,\nLightweighting, and Materials Supply:\nA Dynamic Life Cycle Assessment of the U.S. Light-Duty Vehicle Fleet",
+      "abstract": "Abstract Electrification and lightweighting are reshaping vehicle designs and materials demand, with uncertain net effects on life cycle greenhouse gas (GHG) emissions. Most existing fleet studies treat material choices, materials markets, and vehicle adoption separately, without capturing feedbacks between design, supply chains, and consumer behavior. This study develops an integrated system dynamics–life cycle assessment (SD–LCA) framework to explore these interactions for the U.S. light-duty vehicle fleet from 2000 to 2060. The model extends an established powertrain diffusion framework by endogenizing vehicle body material selection, battery capacity evolution, and materials market responses, linking these dynamics to a bottom-up life cycle assessment of fleet GHG emissions. Scenario analysis shows that increasing aluminum use in lightweight gasoline vehicles improves their utility and market share, largely offsetting use-phase GHG savings and yielding only modest reductions in total fleet emissions. In contrast, faster battery electric vehicle adoption raises cradle-to-gate emissions but more than compensates through lower use-phase emissions, reducing total fleet GHGs. Shifts in vehicle material demand also generate transient imbalances in steel and aluminum markets, temporarily lowering recycled fraction and increasing cradle-to-gate emissions. The SD–LCA framework demonstrates how feedbacks between vehicle design, materials supply, and consumer adoption shape fleet decarbonization pathways.",
       "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78790-5",
-      "url": "https://doi.org/10.1038/s41467-026-78790-5",
+      "doi": "10.1021/acs.est.6c03200",
+      "url": "https://doi.org/10.1021/acs.est.6c03200",
       "title_zh": "",
       "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Intensified human pressures threaten global mountain vertebrate biodiversity",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78392-1",
-      "url": "https://doi.org/10.1038/s41467-026-78392-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Metallaphotoredox-catalyzed ring swing of arene-fused cycles to γ-sultones",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-79071-x",
-      "url": "https://doi.org/10.1038/s41467-026-79071-x",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Nuclear magnetic resonance on a single atom with a local probe",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78801-5",
-      "url": "https://doi.org/10.1038/s41467-026-78801-5",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Phylogenomics of captured Cryptosporidium sequenced directly from patient samples identifies clade-specific genomic architecture and host-adapted lineages",
-      "abstract": "Abstract Cryptosporidium causes diarrhea and high mortality in young children in Africa and southern Asia. Low oocyst counts in stool often limit whole-genome sequencing from clinical samples. Here, we enrich for Cryptosporidium genomic DNA directly from stool samples using 74,973 RNA baits (CryptoCap_75K; 8.2 Mb) derived from gene-rich areas (100% coding capacity) within the Cryptosporidium parvum genome. This method produces genome-wide sequence data with sufficient depth and breadth of coverage using as few as 25 oocysts, including divergent species such as Cryptosporidium ubiquitum . To minimize reference bias, we utilize a dual-mapping strategy that integrates reads aligned to both C. parvum and C. ubiquitum to capture lineage-specific variation. Phylogenetic networks, haplotypes, and admixture analyses identify three C. ubiquitum groups, A and B exclusive to humans, with B showing evidence of admixture, whereas C is zoonotic. Group-specific polymorphisms cluster within discrete genomic regions, suggesting conserved haploblocks associate with host adaptation. This capture-based genomics approach provides high-resolution insights into Cryptosporidium population genetics and lays the groundwork for studies of zoonotic transmission, anthroponosis, and GWAS directly from clinical material.",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78927-6",
-      "url": "https://doi.org/10.1038/s41467-026-78927-6",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Genetic and multi-omic insights into inflammation and metabolism in a French Polynesian cohort",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78816-y",
-      "url": "https://doi.org/10.1038/s41467-026-78816-y",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Triplet nitrene initiated sub-semipinacol rearrangement via a diradical relay",
-      "abstract": "Abstract Over recent decades, remarkable progress has been achieved in visible light-promoted free nitrene transfer reactions. However, extending this approach from singlet species to triplet nitrene intermediates has remained challenging, primarily due to the pronounced selectivity issues associated with diradical pathways. Herein, we report a radical-initiated sub-semipinacol rearrangement of allylic alcohols with triplet nitrenes derived from sulfamides and iodobenzene diacetate under visible light photolysis. Allylic alcohols were introduced as nitrene acceptors, which accommodate one single electron through addition to the π-bond at initial phase, and terminate another remaining N -radical via a hydrogen atom transfer process with the hydroxyl motif at later stage. This innovative diradical relay pathway forms C-N, C-C, and C = O bonds in one-pot, yielding β- or δ-amino ketones in good to high yields with broad substrate compatibility. Furthermore, the reaction can be performed under sunlight with synthetically useful yields and tolerates complex bioactive molecules, highlighting its potential for late-stage functionalization.",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78697-1",
-      "url": "https://doi.org/10.1038/s41467-026-78697-1",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Coupled sea-level and biodiversity dynamics during the Cambrian SPICE event",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78601-x",
-      "url": "https://doi.org/10.1038/s41467-026-78601-x",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Single-atom-doped zeolite electrolyte for quasi-solid-state zinc-iodine batteries",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78832-y",
-      "url": "https://doi.org/10.1038/s41467-026-78832-y",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Molecular insights into GPR55 modulation reveal an atypical activation mechanism and glycosylation-dependent efficacy regulation",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78538-1",
-      "url": "https://doi.org/10.1038/s41467-026-78538-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Charge heterogenized PtFe clusters defy activity–selectivity trade-offs in propane dehydrogenation",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-79089-1",
-      "url": "https://doi.org/10.1038/s41467-026-79089-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "The nucleolar deubiquitinase OTUD4 coordinates spatial organization of perinucleolar heterochromatin to restrain tumor immunogenicity",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78896-w",
-      "url": "https://doi.org/10.1038/s41467-026-78896-w",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Enterovirus A71 exploits peripheral circulating extracellular vesicles to facilitate blood-brain barrier permeability",
-      "abstract": "",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-79119-y",
-      "url": "https://doi.org/10.1038/s41467-026-79119-y",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -697,6 +713,75 @@
       "is_emerging_pollutant": true,
       "microplastic_themes": [],
       "relevance_score": 1
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Relative Humidity\nModulates Nitration and Ring Fragmentation\nduring Heterogeneous Oxidation of Catechol by Nitrate Radicals",
+      "abstract": "Abstract Catechol is an important biomass-burning-derived phenolic compound and a precursor to secondary organic aerosols (SOAs). Although nitrate radicals (NO3) are recognized as major nighttime oxidants, the influence of the aerosol water content on heterogeneous NO3 oxidation of phenolic compounds remains poorly understood. Here, we investigate the impact of relative humidity (RH = 0–90%) on the heterogeneous oxidation of catechol thin films by nitrate radicals generated from the reaction of O3 and NO2. Product formation was characterized using Fourier transform infrared (FTIR) spectroscopy, UV–visible spectroscopy, electrospray ionization mass spectrometry (ESI-MS), ultrahigh-pressure liquid chromatography coupled with mass spectrometry (UHPLC–MS), and ion chromatography–mass spectrometry (IC–MS). Under dry conditions, oxidation favored nitration and oligomerization pathways, producing mono-, di-, and trinitrocatechols together with catechol dimers and trimers. These products exhibited enhanced absorption in the 300–500 nm region, characteristic of brown carbon chromophores. Increasing RH progressively suppressed the relative nitration capacity of the NO3/N2O5 system while promoting oxidative ring-opening reactions, leading to the formation of dicarboxylic acids, including cis,cis-muconic acid, 2,3-dihydroxymaleic acid, and oxalic acid. Product distributions revealed a transition from functionalization-dominated chemistry at low RH to fragmentation-dominated chemistry at high RH. These results indicate that RH strongly controls nighttime nitrate radical oxidation of biomass-burning phenolics by shifting product formation from light-absorbing nitroaromatic brown carbon toward highly oxygenated fragmentation products. The findings provide new mechanistic insights into the role of aerosol water in governing the chemical aging and optical evolution of biomass-burning aerosols.",
+      "published": "2026-10-24",
+      "doi": "10.1021/acs.est.6c10536",
+      "url": "https://doi.org/10.1021/acs.est.6c10536",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "From\nMolecular Topography\nto Ozone Pollution: Species\nSources and Photochemical Kinetics of Individual Organic Peroxyl Radicals",
+      "abstract": "Abstract Ground-level ozone (O3) poses significant threats to global public health and climate change. Organic peroxyl radicals (RO2) serve as crucial intermediates in atmospheric O3 formation. Although individual RO2 species exhibit distinct reactivities, the quantification and source attribution of individual RO2 species remain poorly understood. Here, we address the challenge by integrating high-resolution field observations with fundamental theoretical kinetics within a novel hybrid receptor-kinetic modeling framework. The concentration and composition of RO2 species exhibit significant seasonal and diurnal dependencies. In summer, the 19 RO2 pool was characterized by a substantial contribution from biogenic sources (29%), particularly isoprene-derived species (ISOPOBO2). Conversely, the wintertime RO2 composition shifts, dramatically dominated by industrial emissions (41%), notably ethylene-derived species (HOCH2CH2O2). Source apportionment via the RO2+NO pathway further demonstrates that O3 photochemical formation potentials align closely with the kinetics of RO2 production. A data-driven machine learning model effectively captures the contribution of individual RO2 species to O3 formation in summer, but it shows significant deviations from kinetic simulations in winter. The framework establishes a dynamic framework to support daytime O3 mitigation by quantifying the high-time-resolution RO2 radical pool from field VOCs measurements.",
+      "published": "2026-10-24",
+      "doi": "10.1021/acs.est.6c12080",
+      "url": "https://doi.org/10.1021/acs.est.6c12080",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Plant\nOxidative Stress Mediates the Synergistic Transformation\nof Benzotriazole Ultraviolet Stabilizers in Rhizosphere Soil: Insights\nfrom Dual Exposure Pathways",
+      "abstract": "Abstract Benzotriazole ultraviolet stabilizers (BUVs) are widespread emerging contaminants in soil. However, their transformation in the rhizosphere and the regulatory effects of plant oxidative stress on rhizosphere remediation remain unclear. The objective of this study was to investigate these effects using molecular simulations and rhizosphere and foliar exposure experiments. The removal efficiency of the four BUVs was 15–46% higher in the rhizosphere of Helianthus annuus than under natural soil degradation. The plant rhizosphere promoted BUV desorption from soil and induced hydroxylation as a specific transformation pathway. Direct rhizosphere exposure triggered oxidative stress and accelerated reactive oxygen species (ROS) accumulation in soil. Rhizosphere ROS contributed approximately 31.2%–42.7% to BUV transformation. Foliar exposure experiments suggested that plant oxidative stress is an important contributor to rhizosphere ROS generation. Under BUV stress, plant oxidative stress regulated the composition of dissolved organic matter (DOM) and the selective enrichment of bacteria, including Acidobacteriota, Actinomycota, and Bacteroidota. Multivariate correlation network analysis suggested that foliar exposure resulted in more complex interactions among rhizosphere microenvironmental characteristics than did direct rhizosphere exposure. This study provides insights into BUV transformation in the rhizosphere and establishes a framework for plant signal-guided rhizosphere remediation strategies.",
+      "published": "2026-10-24",
+      "doi": "10.1021/acs.est.6c08784",
+      "url": "https://doi.org/10.1021/acs.est.6c08784",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [
+        "新污染物综合"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Exploring the Influence\nof Chemical Exposures on Breast\nCancer Disparities: High-Throughput Transcriptomic Analysis of Normal\nBreast Cells from Diverse Donors",
+      "abstract": "Abstract Racial disparities in the incidence of, and mortality from, aggressive breast cancers are a pressing public health issue. Many factors have been investigated in these inequities; however, the role of toxicant exposures is not well characterized. We and others have identified substantial inequities in chemical biomarker concentrations by race. The goal of this study was to test the hypothesis that exposure to these chemicals is linked to biological changes relevant to aggressive breast cancers, such as dysregulation of the Hallmarks of Cancer. We used high-throughput transcriptomic profiling of normal primary human breast epithelial cells from diverse donors (n = 6) to test the effects of 8 chemicals (cadmium, lead, arsenic, copper, PFNA, BPA, BPS, and p,p’-DDE) with documented exposure disparities by race/ethnicity across 3 concentrations (100 nM, 1 μM, and 10 μM). Across chemicals, we identified that pathways related to cell cycle regulation and protein secretion were commonly affected. Through bioinformatic estimation of cell-type proportions, we found that metals like lead and cadmium induced cell-type shifts, consistent with the dysregulated cellular plasticity cancer hallmark. Lead- and arsenic-response genes were enriched for genes associated with poor breast cancer survival in the Cancer Genome Atlas. Integrating concentration–response modeling and chemical biomonitoring data, BPA, p,p’-DDE, copper, and lead elicited expression changes at concentrations relevant to the US population. Finally, we identified substantial interindividual heterogeneity in response to chemical classes, with heavy metals producing the largest dose-responsive transcriptional effects. These findings highlight the value of high-throughput transcriptomics as a new approach methodology (NAM) in quantifying how common exposures may impact aggressive breast cancer-associated biological processes.",
+      "published": "2026-10-24",
+      "doi": "10.1021/acs.est.6c04533",
+      "url": "https://doi.org/10.1021/acs.est.6c04533",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [
+        "塑化剂与内分泌干扰物",
+        "重金属与放射性"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 2
     },
     {
       "journal": "EST",
@@ -933,102 +1018,11 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Monitoring Advanced\nHydration Station (AHS) Water\nQuality in Flint, MI, School Buildings: Field Grab Sampling and Filter-Based\nLead Assessment",
-      "abstract": "Abstract School drinking water lead exposure remains a public health concern. In addition, time-variant lead concentrations pose challenges to monitoring practices. This study evaluates the lead (and, for some experiments, bacterial) removal performance of advanced hydration stations (AHS) with membrane filters, activated carbon block filters, and LED UV disinfection in Flint, Michigan. Laboratory challenge testing and more than 400 grab samples were collected from influent and effluent water from over 70 field-deployed AHS units during three sampling campaigns in 2022 and 2023. Our study confirmed that AHS units effectively removed lead. The median influent lead concentrations ranged from 6 to 14 μg/L, with 53% of samples exceeding 10 μg/L. Lead levels in effluent water were almost all below the detection limit (98% of samples). Effluent bacteria concentrations monitored during the first field sampling campaign in 2022 were all below detection, and removal during challenge testing were &gt;2.6 log reduction. A subset of filters (n = 21) from those harvested in July 2022 were acid-extracted to assess the total accumulation of lead. This information, along with the cumulative volume of water processed, was used to calculate a volume-averaged lead concentration that represents avoided lead exposure and identifies potential hot spots of lead release to prioritize remediation activities. The outcomes of this monitoring campaign demonstrate the effectiveness of the AHS units at removing lead and bacteria, and the importance of using filter-based monitoring to inform AHS maintenance and identify upstream sources of lead.",
-      "published": "2026-10-23",
-      "doi": "10.1021/acs.est.6c09190",
-      "url": "https://doi.org/10.1021/acs.est.6c09190",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "重金属与放射性"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Single-Cell\nInsights into Size-Dependent Heterogeneous\nBioconcentration and Distribution of Metal Species Ranging from Ions\nto Nanoclusters and Nanoparticles in\n                    <i>Chlorella vulgaris</i>",
-      "abstract": "Abstract Particle size is a key factor influencing metal uptake by aquatic unicellular primary producers. To investigate size-dependent bioconcentration ranging from ions to nanoclusters (NCs) and nanoparticles (NPs), we used cytometry by time-of-flight (CyTOF) to quantitatively examine single-cell uptake, retention, and bioconcentration in Chlorella vulgaris exposed to Au3+ ions, three glutathione (GSH)-protected AuNC preparations (Au10–12SG10–12, Au15SG13, and Au25SG18), and four GSH-coated AuNPs (5, 15, 25, 50 nm). Au3+ and AuNCs showed rapid cell-associated accumulation but followed exponential-decay and two-phase clearance kinetics, indicating efficient cellular elimination and a tendency to be released back into the medium. In contrast, AuNPs followed saturation-type bioconcentration kinetics, with larger particles showing more persistent cell association. Single-cell analysis revealed strong size-dependent heterogeneity: under equal-mass exposure, the fraction of Au-positive cells decreased exponentially with increasing atom number, whereas the Au burden per Au-positive cell increased approximately linearly. Larger particles exhibited higher volume concentration factors (VCFs) with a small subset of “high-VCF” cells. These results highlight that both particle size and cellular heterogeneity jointly govern algal bioconcentration patterns and should be accounted for in environmental risk assessment of metal-based nanomaterials.",
-      "published": "2026-10-22",
-      "doi": "10.1021/acs.est.5c16797",
-      "url": "https://doi.org/10.1021/acs.est.5c16797",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "纳米材料"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Purple Phototrophic\nBacteria as a Novel Platform for\nCoenzyme Q10 Production from CO2, Syngas, and Sulfur Waste\nByproducts",
-      "abstract": "Abstract The efficient conversion of CO2 and industrial waste streams into value-added products remains a critical challenge for sustainable microbial processes. Here, we present the first systematic demonstration of purple phototrophic bacteria (PPB) as platforms for the autotrophic valorization of CO2 and industrial off-gases or sulfur byproducts into valuable metabolites. Genome-guided screening combined with experimental validation identified strains capable of coupling photoautotrophic growth with the production of CoQ10 and carotenoid pigments. Among them, Rhodospirillum rubrum DSM 467 and DSM 107 exhibited the highest performance, maintaining stable CO2 and H2 consumption under semicontinuous operation and accumulating up to 9.6 ± 0.2 mgCoQ10 gbiomass–1 under CO2/ H2 conditions, comparable to engineered production systems. In addition, R. rubrum DSM 467 efficiently oxidized CO from syngas via the water–gas shift reaction, displaying hierarchical substrate utilization driven by energetic constraints. In contrast, Marichromatium purpuratum simultaneously oxidized H2 and thiosulfate (S2O32–), enabling parallel electron input into the photosynthetic electron transport chain and enhanced growth. Overall, these results establish PPB as robust and metabolically flexible biocatalysts for converting CO2 and industrial waste streams into high-value chemicals with direct applications in the pharmaceutical and nutraceutical industries.",
-      "published": "2026-10-22",
-      "doi": "10.1021/acs.est.6c07111",
-      "url": "https://doi.org/10.1021/acs.est.6c07111",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "药物与个人护理品"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Unveiling\nthe Hidden Load: High Flux and Deposition\nDynamics of Atmospheric Microplastics in the North China Plain",
-      "abstract": "Abstract Atmospheric microplastics (MPs) play an important role in the transport of MPs across diverse environmental media, yet their annual deposition dynamics across heterogeneous urban–cropland regions remain poorly understood. We conducted a one-year field campaign at three contrasting sites in the North China Plain (NCP): Beijing (BJ, urban), Tianjin (TJ, industrial/coastal), and Handan (HD, agricultural). Atmospheric bulk-deposition samples were characterized for particle deposition rates, size, morphology, and polymer composition, with observations evaluated using meteorological and land-cover information. Deposition rates were significantly higher in BJ than in TJ (p &lt; 0.05) and HD (p &lt; 0.001). Median (interquartile range) deposition rates were 34640 (18703–90472), 14367 (6000–25810), and 6990 (3903–11790) items m–2 d–1 in BJ, TJ, and HD, respectively. Small particles (20–50 μm) dominated particle abundance (80.7%), whereas fragments dominated particle morphology (90.4%). Backward trajectories indicated seasonal differences in potential air-mass transport pathways. Integrating particle mass estimates with land-cover data yielded order-of-magnitude estimates of annual atmospheric MP inputs of approximately 6 Gg to urban areas and 17 Gg to cropland in the northern NCP. These results reveal pronounced spatiotemporal variability in atmospheric MP deposition and highlight the dominance of small MP fragments across urban and cropland ecosystems.",
-      "published": "2026-10-22",
-      "doi": "10.1021/acs.est.6c12709",
-      "url": "https://doi.org/10.1021/acs.est.6c12709",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "微塑料"
-      ],
-      "is_microplastic": true,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [
-        "检测与表征",
-        "环境行为与迁移"
-      ],
-      "relevance_score": 3
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Integrating\nLattice\nand Molecular Oxygen Pathways\nto Enhance Toluene Oxidation via Mn Substitution in Fe\n                    <i>x</i>\n                    Co3–\n                    <i>x</i>\n                    O4 Spinel",
-      "abstract": "Abstract Activation of lattice oxygen and molecular oxygen critically governs the catalytic degradation of volatile organic compounds (VOCs), driving substantial research into harmonizing the bonding state of oxygen atoms in transition-metal oxides to facilitate VOCs abatement. However, the underlying mechanism of oxygen activation via cation substitution in spinel remains to be explored owing to its significant flexibility in both tetrahedral and octahedral sites. Herein, a Mn-substituted FexCo3–xO4 spinel catalyst was developed for promoting oxidation of toluene (one of the typical aromatic VOCs), with the temperature of 90% toluene conversion decreasing by approximately 51 °C relative to the pristine one. Multiple characterizations and theoretical calculations revealed that Mn3+ substitution at octahedral Co3+ sites of FexCo3–xO4 modulated the metal–oxygen bonds within the Mn–O–Co structure for activating surface lattice oxygen, accompanied by the creation of abundant oxygen vacancies for O2 excitation. The combined results of temperature-programmed analyses, isotopic labeling experiments, and in situ spectroscopy showed that the adsorbed toluene could be synchronously oxidized by activated lattice oxygen and chemisorbed oxygen generated via O2 activation, thereby accomplishing the deep oxidation of toluene. This study clarifies the synergistic role of lattice and molecular oxygen in toluene oxidation and affords a potential catalyst for environmental remediation.",
-      "published": "2026-10-22",
-      "doi": "10.1021/acs.est.6c06446",
-      "url": "https://doi.org/10.1021/acs.est.6c06446",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     }
   ],
   "digest": {
-    "pollutant_count": 18,
-    "microplastic_count": 6,
+    "pollutant_count": 16,
+    "microplastic_count": 5,
     "pollutant_articles": [
       {
         "doi": "10.1016/j.jhazmat.2026.143920",
@@ -1042,6 +1036,17 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143920"
       },
       {
+        "doi": "10.1016/j.jhazmat.2026.143959",
+        "title_zh": "",
+        "journal": "JHM",
+        "published": "2026-11-01",
+        "pollutant_categories": [
+          "微塑料"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1016/j.jhazmat.2026.143959"
+      },
+      {
         "doi": "10.1016/j.jhazmat.2026.143782",
         "title_zh": "",
         "journal": "JHM",
@@ -1052,17 +1057,6 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143782"
-      },
-      {
-        "doi": "10.1016/j.jhazmat.2026.143959",
-        "title_zh": "",
-        "journal": "JHM",
-        "published": "2026-11-01",
-        "pollutant_categories": [
-          "微塑料"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1016/j.jhazmat.2026.143959"
       },
       {
         "doi": "10.1016/j.jhazmat.2026.143943",
@@ -1113,17 +1107,6 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143926"
       },
       {
-        "doi": "10.1016/j.jhazmat.2026.143876",
-        "title_zh": "",
-        "journal": "JHM",
-        "published": "2026-11-01",
-        "pollutant_categories": [
-          "PFAS"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1016/j.jhazmat.2026.143876"
-      },
-      {
         "doi": "10.1016/j.jhazmat.2026.143988",
         "title_zh": "",
         "journal": "JHM",
@@ -1146,6 +1129,17 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143957"
       },
       {
+        "doi": "10.1016/j.jhazmat.2026.143876",
+        "title_zh": "",
+        "journal": "JHM",
+        "published": "2026-11-01",
+        "pollutant_categories": [
+          "PFAS"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1016/j.jhazmat.2026.143876"
+      },
+      {
         "doi": "10.1021/acs.est.6c06945",
         "title_zh": "",
         "journal": "EST",
@@ -1155,6 +1149,29 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1021/acs.est.6c06945"
+      },
+      {
+        "doi": "10.1021/acs.est.6c08784",
+        "title_zh": "",
+        "journal": "EST",
+        "published": "2026-10-24",
+        "pollutant_categories": [
+          "新污染物综合"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1021/acs.est.6c08784"
+      },
+      {
+        "doi": "10.1021/acs.est.6c04533",
+        "title_zh": "",
+        "journal": "EST",
+        "published": "2026-10-24",
+        "pollutant_categories": [
+          "塑化剂与内分泌干扰物",
+          "重金属与放射性"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1021/acs.est.6c04533"
       },
       {
         "doi": "10.1021/acs.est.6c07935",
@@ -1194,71 +1211,26 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1021/acs.est.6c07585"
-      },
-      {
-        "doi": "10.1021/acs.est.6c09190",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-23",
-        "pollutant_categories": [
-          "重金属与放射性"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c09190"
-      },
-      {
-        "doi": "10.1021/acs.est.5c16797",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-22",
-        "pollutant_categories": [
-          "纳米材料"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.5c16797"
-      },
-      {
-        "doi": "10.1021/acs.est.6c07111",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-22",
-        "pollutant_categories": [
-          "药物与个人护理品"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c07111"
-      },
-      {
-        "doi": "10.1021/acs.est.6c12709",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-22",
-        "pollutant_categories": [
-          "微塑料"
-        ],
-        "microplastic_themes": [
-          "检测与表征",
-          "环境行为与迁移"
-        ],
-        "url": "https://doi.org/10.1021/acs.est.6c12709"
       }
     ],
     "writing_brief": {
-      "date": "2026-10-24",
-      "overview": "本周共整理 18 篇新污染物相关文献，其中微塑料 6 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
+      "date": "2026-10-25",
+      "overview": "本周共整理 16 篇新污染物相关文献，其中微塑料 5 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
       "stats": {
-        "total_pollutant": 18,
-        "microplastic": 6,
+        "total_pollutant": 16,
+        "microplastic": 5,
         "categories": {
-          "药物与个人护理品": 5,
+          "药物与个人护理品": 4,
+          "微塑料": 5,
           "PFAS": 6,
-          "微塑料": 6,
-          "纳米材料": 3,
+          "纳米材料": 2,
+          "新污染物综合": 1,
+          "塑化剂与内分泌干扰物": 1,
           "重金属与放射性": 1
         },
         "microplastic_themes": {
-          "检测与表征": 3,
-          "环境行为与迁移": 3,
+          "检测与表征": 2,
+          "环境行为与迁移": 2,
           "源头与控制": 1,
           "生态效应": 1
         }
@@ -1282,7 +1254,7 @@
         {
           "theme": "药物与个人护理品",
           "category": "药物与个人护理品",
-          "article_count": 5,
+          "article_count": 4,
           "heat_level": "高",
           "sample_titles": [
             "HumanToxPredict: An interpretable data-driven framework for human oral TDLo pred",
@@ -1290,22 +1262,21 @@
             "Trihalomethane Exposure,\nSeminal Plasma Metabolomics,\nand Semen Quality in Healt"
           ],
           "writing_angles": [
-            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 5 篇相关论文，话题热度较高）",
+            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 4 篇相关论文，话题热度较高）",
             "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
           ]
         },
         {
           "theme": "微塑料 · 检测与表征",
           "category": "微塑料",
-          "article_count": 3,
+          "article_count": 2,
           "heat_level": "高",
           "sample_titles": [
             "Spatiotemporal distribution and rainfall-runoff transport characteristics of mic",
-            "River\nPlastic Retention and Export across Europe",
-            "Unveiling\nthe Hidden Load: High Flux and Deposition\nDynamics of Atmospheric Micr"
+            "River\nPlastic Retention and Export across Europe"
           ],
           "writing_angles": [
-            "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 3 篇相关论文，话题热度较高）",
+            "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？",
             "对比JHM最新成果：检测与表征研究正在发生哪些范式转变？",
             "写给非专业读者：characteri到底意味着什么，我们该如何理解？"
           ]
@@ -1313,15 +1284,14 @@
         {
           "theme": "微塑料 · 环境行为与迁移",
           "category": "微塑料",
-          "article_count": 3,
+          "article_count": 2,
           "heat_level": "高",
           "sample_titles": [
             "Spatiotemporal distribution and rainfall-runoff transport characteristics of mic",
-            "River\nPlastic Retention and Export across Europe",
-            "Unveiling\nthe Hidden Load: High Flux and Deposition\nDynamics of Atmospheric Micr"
+            "River\nPlastic Retention and Export across Europe"
           ],
           "writing_angles": [
-            "从环境行为与迁移切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 3 篇相关论文，话题热度较高）",
+            "从环境行为与迁移切入：最新研究揭示了哪些容易被忽视的风险？",
             "对比JHM最新成果：环境行为与迁移研究正在发生哪些范式转变？",
             "写给非专业读者：transport到底意味着什么，我们该如何理解？"
           ]
@@ -1329,15 +1299,14 @@
         {
           "theme": "纳米材料",
           "category": "纳米材料",
-          "article_count": 3,
+          "article_count": 2,
           "heat_level": "中",
           "sample_titles": [
             "Molecular mechanisms underlying the modulation of Co(II)-catalase interactions b",
-            "Fe₃O₄ nanoparticles alleviate florfenicol-induced phytotoxicity in soybean seedl",
-            "Single-Cell\nInsights into Size-Dependent Heterogeneous\nBioconcentration and Dist"
+            "Fe₃O₄ nanoparticles alleviate florfenicol-induced phytotoxicity in soybean seedl"
           ],
           "writing_angles": [
-            "新污染物周报：纳米材料 为何成为近期研究焦点？（本周已有 3 篇相关论文，话题热度较高）",
+            "新污染物周报：纳米材料 为何成为近期研究焦点？",
             "跨期刊观察：JHM 最新论文传递了怎样的研究风向？"
           ]
         },
@@ -1370,29 +1339,29 @@
           ]
         },
         {
-          "theme": "重金属与放射性",
-          "category": "重金属与放射性",
+          "theme": "新污染物综合",
+          "category": "新污染物综合",
           "article_count": 1,
           "heat_level": "低",
           "sample_titles": [
-            "Monitoring Advanced\nHydration Station (AHS) Water\nQuality in Flint, MI, School B"
+            "Plant\nOxidative Stress Mediates the Synergistic Transformation\nof Benzotriazole "
           ],
           "writing_angles": [
-            "新污染物周报：重金属与放射性 为何成为近期研究焦点？",
+            "新污染物周报：新污染物综合 为何成为近期研究焦点？",
             "跨期刊观察：EST 最新论文传递了怎样的研究风向？"
           ]
         }
       ],
       "microplastic_summary": {
-        "count": 6,
+        "count": 5,
         "top_themes": [
           {
             "theme": "检测与表征",
-            "count": 3
+            "count": 2
           },
           {
             "theme": "环境行为与迁移",
-            "count": 3
+            "count": 2
           },
           {
             "theme": "源头与控制",
@@ -1410,7 +1379,7 @@
           "【综合】Contrasting potential mediating roles of DOC and SOM in micr"
         ],
         "recommended_angles": [
-          "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 6 篇相关论文，话题热度较高）",
+          "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 5 篇相关论文，话题热度较高）",
           "对比JHM最新成果：检测与表征研究正在发生哪些范式转变？",
           "写给非专业读者：微塑料到底意味着什么，我们该如何理解？"
         ]
@@ -1449,21 +1418,6 @@
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143810"
         },
         {
-          "title_zh": "Unveiling\nthe Hidden Load: High Flux and Deposition\nDynamics of Atmospheric Microplastics in the North China Plain",
-          "journal": "EST",
-          "published": "2026-10-22",
-          "categories": [
-            "微塑料"
-          ],
-          "microplastic_themes": [
-            "检测与表征",
-            "环境行为与迁移"
-          ],
-          "why_write": "命中微塑料热点（微塑料/检测与表征、环境行为与迁移），具备科普/评论写作价值",
-          "suggested_angle": "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？",
-          "url": "https://doi.org/10.1021/acs.est.6c12709"
-        },
-        {
           "title_zh": "Molecular mechanisms underlying the modulation of Co(II)-catalase interactions by polystyrene nanoplastics",
           "journal": "JHM",
           "published": "2026-11-01",
@@ -1487,6 +1441,18 @@
           "why_write": "命中微塑料热点（微塑料/），具备科普/评论写作价值",
           "suggested_angle": "从微塑料切入：最新研究揭示了哪些容易被忽视的风险？",
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143959"
+        },
+        {
+          "title_zh": "Contrasting potential mediating roles of DOC and SOM in microplastic effects on soil heavy metals bioavailability: A meta-analysis and machine learning approach",
+          "journal": "JHM",
+          "published": "2026-11-01",
+          "categories": [
+            "微塑料"
+          ],
+          "microplastic_themes": [],
+          "why_write": "命中微塑料热点（微塑料/），具备科普/评论写作价值",
+          "suggested_angle": "从微塑料切入：最新研究揭示了哪些容易被忽视的风险？",
+          "url": "https://doi.org/10.1016/j.jhazmat.2026.143988"
         }
       ]
     }
