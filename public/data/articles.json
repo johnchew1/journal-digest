@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:58:11Z",
+  "updated_at": "2026-10-26T05:58:19Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -347,13 +347,63 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Divergent evolution of trace elements in groundwater-dependent lakes: Insights from multi-isotopic tracers, DOM molecular characteristics, and microbial evidence",
+      "title": "PFAS removal from drinking water and semiconductor wastewater by microbubble foam fractionation",
       "abstract": "",
       "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143963",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143963",
+      "doi": "10.1016/j.jhazmat.2026.143901",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143901",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [
+        "PFAS"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Trace H2O2-triggered Fenton-like reaction by secondary coordination sphere in iron-based metal-organic frameworks",
+      "abstract": "",
+      "published": "2026-10-26",
+      "doi": "10.1038/s41467-026-79095-3",
+      "url": "https://doi.org/10.1038/s41467-026-79095-3",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Ureterovesical junction: a stem cell niche for ureteral urothelial renewal and bladder urothelial injury repair",
+      "abstract": "",
+      "published": "2026-10-26",
+      "doi": "10.1038/s41467-026-78820-2",
+      "url": "https://doi.org/10.1038/s41467-026-78820-2",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Neural limits of temporal feature binding in human visual cortex",
+      "abstract": "Abstract Humans are able to track the change of color and orientation (CO) of an object at a stunning rate. However, spatially separating those features slows this rate by an order of magnitude – a temporal limit of feature binding that is little understood. Here, we investigate the underlying mechanisms using high-temporal resolution cortical source localization of the magnetic field response elicited by CO-pairs alternating at different frequencies in color and orientation. We show that (1) binding requires a rapid recurrent modulation (~120 ms) of activity in V1/V2, whose latency is independent of the alternation rate. (2) Performance drops to chance when the alternation rate becomes too high to accommodate the recurrent process within a single alternation. (3) CO binding itself is mediated by color-based attention, which gradually biases re-occurring CO combinations containing the attended color. These observations together demonstrate that CO-binding across space depends on rapid recurrent processing in early visual cortex, with its temporal limit being set by the time this process takes to be completed. Binding ultimately results from a slower and gradual attentional bias of the recurrent process instantiating a form of stroboscopic stationarity in the stream of alternations for unambiguous discrimination of the correct feature-combination.",
+      "published": "2026-10-26",
+      "doi": "10.1038/s41467-026-78974-z",
+      "url": "https://doi.org/10.1038/s41467-026-78974-z",
+      "title_zh": "",
+      "abstract_zh": "",
       "pollutant_categories": [],
       "is_microplastic": false,
       "is_emerging_pollutant": false,
@@ -633,52 +683,42 @@
       "relevance_score": 0
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "The extracellular turret as a structural hub for voltage sensor-pore coupling in HCN channels",
-      "abstract": "Abstract Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels are essential for rhythmic electrical activity in cardiac and neuronal cells, and their dysfunction underlies disorders such as arrhythmia and epilepsy. Although HCN channels share a conserved six-transmembrane architecture with voltage-gated K⁺ (Kv) channels, how voltage-sensing domains (VSDs) are coupled to pore opening remains incompletely understood. Here, we identify an extracellular pathway that couples voltage-sensor movement to pore opening via the extracellular turret helix, which acts as a critical determinant of voltage-dependent gating in HCN channels. Alanine-scanning mutagenesis of HCN4 revealed six turret residues whose substitution abolished hyperpolarization-evoked currents. Voltage-clamp fluorometry showed that these mutations preserved S4 activation while selectively disrupting turret conformational changes, thereby uncoupling VSD movement from pore opening. Structural and functional analyses further identified an extracellular interaction network linking the turret to the S1, S5, and S6 segments that is essential for hyperpolarization-dependent gating. Collectively, these findings identify the extracellular turret as an active gating hub that coordinates concerted extracellular rearrangements to transmit voltage-sensor displacement to the pore. On the basis of these results, we propose a hand-in-hand coupling model, in which turret rearrangements act as a key downstream relay in the voltage-dependent opening of HCN channels.",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78969-w",
-      "url": "https://doi.org/10.1038/s41467-026-78969-w",
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "A Perspective on\nthe Development of Novel In Situ\nRemediation of Contaminated Sediments Using Black Carbon",
+      "abstract": "Abstract The field of contaminated sediment remediation was disrupted two decades ago by the emergence of a new way to reduce risk in situ through the amendment of black carbon sorbents─activated carbon and specialized biochars. This required a paradigm shift from a focus on reducing pollutant mass to reducing exposure through bioavailability control. Sorbent amendment technology has advanced from laboratory and pilot field demonstrations to full-scale applications at many sites and has recently been incorporated in USEPA records of decision at Superfund sites. This perspective summarizes critical points in advancing the new technology: 1) accurate problem definition recognizing that sediment pollutant mass reduction does not necessarily lead to risk reduction, 2) breakthroughs in bioavailability science and unraveling the role of native black carbon in sediments, 3) demonstration of pollutant bioavailability reduction with strong sorption, 4) quantitative descriptions of the process, 5) addressing the challenges of mercury, 6) understanding unintended consequences, and 7) development of freely dissolved concentrations as a key bioavailability metric with regulatory and stakeholder engagement. The lessons learned in this journey from early science through technological maturity can help inform other technologies that are in development to address evolving threats to the environment.",
+      "published": "2026-10-25",
+      "doi": "10.1021/acs.est.6c07341",
+      "url": "https://doi.org/10.1021/acs.est.6c07341",
       "title_zh": "",
       "abstract_zh": "",
-      "pollutant_categories": [],
+      "pollutant_categories": [
+        "重金属与放射性"
+      ],
       "is_microplastic": false,
-      "is_emerging_pollutant": false,
+      "is_emerging_pollutant": true,
       "microplastic_themes": [],
-      "relevance_score": 0
+      "relevance_score": 1
     },
     {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Unconventional DNA architecture in a dopamine–bound aptamer complex",
-      "abstract": "Abstract Aptamers are oligonucleotides that have been selected to bind a particular target. Despite the growing popularity of functional DNA aptamers, there remains limited knowledge of their binding mechanisms, as few have been characterized at the atomic level. Here, we use NMR spectroscopy to obtain structural details of RKEC1, a shortened version of a DNA aptamer previously reported to bind dopamine. We find that RKEC1 forms a compact structure upon ligand binding that lacks any Watson-Crick duplex regions or G-quadruplex core, in stark contrast to nearly all predicted and observed DNA aptamer folds. The atomic details explain dopamine specificity amongst structurally similar compounds, and the determined DNA fold was used to guide biosensor design. The aptamer structure further suggests that DNA folding can access an extensive conformational landscape reminiscent of RNA, thus expanding the diversity traditionally captured by predictive algorithms.",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78792-3",
-      "url": "https://doi.org/10.1038/s41467-026-78792-3",
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Environmentally\nPersistent Free Radicals on Aged Polyamide\nMicroplastics Drive Neurotoxicity in\n                    <i>Eisenia fetida</i>\n                    via a Glutamate-Centered Cascade",
+      "abstract": "Abstract Nitrogen-containing microplastics (N-MPs) are widespread in soil and often exhibit distinct environmental behaviors and effects owing to their unique elemental composition and molecular structure. However, their toxicity to soil organisms remains poorly understood. To address this knowledge gap, the toxicity of pristine and aged polyamides (PA) was evaluated in earthworms (Eisenia fetida), a representative soil invertebrate. At 0.01% (w/w), aged PA increased the magnitude of body-weight loss, MDA levels, and AChE activity by 24.4%, 11.6%, and 24.1%, respectively, relative to pristine PA-MPs. Greater accumulation of aged PA-MPs was accompanied by enhanced oxidative damage and neurotoxicity. Integrated multiomics, quantitative real-time PCR, and biomarker analyses revealed that oxidative stress-mediated membrane damage promoted glutamate accumulation, receptor overactivation, Ca2+ overload, synaptic injury, and ultimately neurotoxicity. Pharmacological interventions and transmission electron microscopy of the ventral nerve cord provided functional and morphological support for this cascade. Radical quenching and comparative leachate bioassays further supported the important contribution of environmentally persistent free radicals in aged PA-MPs to neuronal damage. These findings define a mechanistic pathway for aged microplastic-induced neurotoxicity and provide a basis for assessing the ecological risks of aged N-MPs in soils.",
+      "published": "2026-10-25",
+      "doi": "10.1021/acs.est.6c13861",
+      "url": "https://doi.org/10.1021/acs.est.6c13861",
       "title_zh": "",
       "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Structural dynamics between Argonaute-2 and CK1α promote target RNA release in microRNA-mediated silencing",
-      "abstract": "Abstract Argonaute (Ago) proteins associate with 20-22 nucleotide (nt) long microRNAs (miRNAs) to constitute the functional RISC core and downregulate mRNAs containing complementarity to the seed sequence. Target RNA engagement in RISC stimulates CK1α-mediated phosphorylation of the conserved eukaryotic insertion (EI) in Ago, releasing the target and enabling the RISC complex to suppress additional target sites for efficient miRNA-mediated silencing. Here, we provide a complete structural view of miRNA guide and target binding to human Ago2, showing Ago2 holding the double-stranded guide-target RNA in an untwisted conformation at its center. We visualize the dynamic changes that RISC undergoes as the guide supplementary region progressively base pairs with the target, enabling CK1α binding. Following seed-helix assembly, initial supplementary pairing restricts RISC to a “closed” form, while with half-supplementary pairing, the PAZ domain moves to open RISC to become receptive to CK1α, exhibiting an initial increase in Ago2 phosphorylation. Complete supplementary pairing supports a full PAZ-CK1α interface, allowing for hierarchical phosphorylation of the EI. The combination of target repulsion by EI phosphorylation with an unwound guide-target enables efficient target release to promote RISC turnover.",
-      "published": "2026-10-24",
-      "doi": "10.1038/s41467-026-78829-7",
-      "url": "https://doi.org/10.1038/s41467-026-78829-7",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
+      "pollutant_categories": [
+        "微塑料"
+      ],
+      "is_microplastic": true,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [
+        "毒性与健康风险"
+      ],
+      "relevance_score": 2
     },
     {
       "journal": "EST",
@@ -910,11 +950,11 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "Chasing Bubbles:\nToward a Standardized Approach for\nQuantifying Methane Ebullition Using Bubble Traps in Streams and Rivers",
-      "abstract": "Abstract Ebullition transports large quantities of the potent greenhouse gas methane (CH4) from stream sediments into the atmosphere. However, the use of different sampling designs complicates comparisons of CH4 emissions estimates between studies. Here, we present the first systematic review of sampling designs used in the past for assessing fluvial CH4 ebullition rates. In addition, we conducted field experiments to estimate the optimal number of bubble traps and the length of the sampling period, and to assess uncertainties in determining CH4 content in the emitted bubbles. Our results demonstrate considerable spatial variability in bubble fluxes (0–4.8 L m–2 d–1) and CH4 content in the bubbles (0.01–67%), necessitating a larger number of bubble traps than typically deployed in streams. Using fewer traps leads to greater deviations in CH4 ebullition estimates than shorter deployment times. Therefore, the robust sampling design should account for strong small-scale heterogeneity in streams through an adequate number of bubble traps and link bubble fluxes to trap-specific gas content. It should also consider the risk of CH4 concentration decreases in accumulated bubbles over a few days, primarily due to redissolution, followed by oxidation and leakage.",
+      "title": "Evaluating\nEmergency\nEmission Controls During an Unprecedented\nRegional Haze Event Using Causal Machine Learning",
+      "abstract": "Abstract Emergency emission controls are widely implemented to mitigate severe haze, yet their effectiveness is difficult to disentangle from meteorological variability and concurrent changes in activities. Here, we develop a three-step evaluation approach integrating air quality meteorological normalization, augmented synthetic control, and machine-learning prediction to causally quantify intervention-attributable changes in local emission strength and ambient pollutant concentrations. Applied to Shijiazhuang’s unprecedented 45-day “Sharp Sword to Cut Haze” campaign in 2016, the approach revealed that local emission strengths of PM2.5, PM10, SO2, NO2, and CO were reduced by 4.3%, 4.8%, 15.8%, 5.8%, and 15.3%, respectively. Corresponding concentrations fell by 42.1 (14.8%), 47.4 (12.4%), 13.8 (16.6%), 15.8 (15.5%) μg·m–3, and 0.9 mg·m–3 (19.6%). Observation-based PM2.5 source apportionment results independently supported these estimates: contributions from vehicle emissions, steelmaking, and coal combustion were 4.1%, 11.0%, and 21.7% lower, respectively, than during the corresponding period in 2017. Despite stringent controls, PM2.5 averaged 243.2 μg·m–3 during the intervention period. Thus, stringent local controls substantially reduced emissions, but regional transport and unfavorable meteorology partly offset the resulting air quality benefits, highlighting the need for coordinated regional mitigation.",
       "published": "2026-10-23",
-      "doi": "10.1021/acs.est.6c13075",
-      "url": "https://doi.org/10.1021/acs.est.6c13075",
+      "doi": "10.1021/acs.est.6c12991",
+      "url": "https://doi.org/10.1021/acs.est.6c12991",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -926,11 +966,11 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "Evaluating\nEmergency\nEmission Controls During an Unprecedented\nRegional Haze Event Using Causal Machine Learning",
-      "abstract": "Abstract Emergency emission controls are widely implemented to mitigate severe haze, yet their effectiveness is difficult to disentangle from meteorological variability and concurrent changes in activities. Here, we develop a three-step evaluation approach integrating air quality meteorological normalization, augmented synthetic control, and machine-learning prediction to causally quantify intervention-attributable changes in local emission strength and ambient pollutant concentrations. Applied to Shijiazhuang’s unprecedented 45-day “Sharp Sword to Cut Haze” campaign in 2016, the approach revealed that local emission strengths of PM2.5, PM10, SO2, NO2, and CO were reduced by 4.3%, 4.8%, 15.8%, 5.8%, and 15.3%, respectively. Corresponding concentrations fell by 42.1 (14.8%), 47.4 (12.4%), 13.8 (16.6%), 15.8 (15.5%) μg·m–3, and 0.9 mg·m–3 (19.6%). Observation-based PM2.5 source apportionment results independently supported these estimates: contributions from vehicle emissions, steelmaking, and coal combustion were 4.1%, 11.0%, and 21.7% lower, respectively, than during the corresponding period in 2017. Despite stringent controls, PM2.5 averaged 243.2 μg·m–3 during the intervention period. Thus, stringent local controls substantially reduced emissions, but regional transport and unfavorable meteorology partly offset the resulting air quality benefits, highlighting the need for coordinated regional mitigation.",
+      "title": "Chasing Bubbles:\nToward a Standardized Approach for\nQuantifying Methane Ebullition Using Bubble Traps in Streams and Rivers",
+      "abstract": "Abstract Ebullition transports large quantities of the potent greenhouse gas methane (CH4) from stream sediments into the atmosphere. However, the use of different sampling designs complicates comparisons of CH4 emissions estimates between studies. Here, we present the first systematic review of sampling designs used in the past for assessing fluvial CH4 ebullition rates. In addition, we conducted field experiments to estimate the optimal number of bubble traps and the length of the sampling period, and to assess uncertainties in determining CH4 content in the emitted bubbles. Our results demonstrate considerable spatial variability in bubble fluxes (0–4.8 L m–2 d–1) and CH4 content in the bubbles (0.01–67%), necessitating a larger number of bubble traps than typically deployed in streams. Using fewer traps leads to greater deviations in CH4 ebullition estimates than shorter deployment times. Therefore, the robust sampling design should account for strong small-scale heterogeneity in streams through an adequate number of bubble traps and link bubble fluxes to trap-specific gas content. It should also consider the risk of CH4 concentration decreases in accumulated bubbles over a few days, primarily due to redissolution, followed by oxidation and leakage.",
       "published": "2026-10-23",
-      "doi": "10.1021/acs.est.6c12991",
-      "url": "https://doi.org/10.1021/acs.est.6c12991",
+      "doi": "10.1021/acs.est.6c13075",
+      "url": "https://doi.org/10.1021/acs.est.6c13075",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -986,43 +1026,11 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Convergent Biogenic\nMagnetite Formation from Diverse\nIron (Oxyhydr)oxide Precursors Drives Cr(VI) Reduction via an Environmental\nBattery Mechanism",
-      "abstract": "Abstract Iron (oxyhydr)oxides mediate electron flux across coupled biogeochemical cycles in anoxic environments, yet whether their biogenic transformation feeds back to reshape interfacial electron transfer efficiency remains unresolved. Here, five structurally distinct iron (oxyhydr)oxide precursors (ferrihydrite, goethite, magnetite, wüstite, and hematite) were exposed to anaerobic sulfur-oxidizing bioreactors under Cr(VI) stress, and their transformation trajectories were tracked using synchrotron EXAFS spectroscopy, electrochemical impedance spectroscopy, DFT calculations, and metagenomic profiling. Mineral bioavailability decreased in the order ferrihydrite &gt; goethite &gt; magnetite &gt; wüstite &gt; hematite, a hierarchy governed by lattice iron-leaching energetics quantified via DFT (Efev from −8.96 eV for ferrihydrite to 5.76 eV for hematite). Despite this wide disparity in precursor lability, all biotransformation trajectories converged on magnetite as the thermodynamically stable end point. In the ferrihydrite system, biogenic magnetite reached 60% of the final solid phase and operated as an in situ “environmental battery” (storing and releasing electrons through reversible Fe(II)/Fe(III) lattice cycling), lowering interfacial charge transfer resistance and producing a 4.77-fold higher pseudo-first-order Cr(VI) reduction rate constant than the mineral-free biotic control (C-S). Metagenomic analysis revealed mineral-specific restructuring of the microbial community toward a tightly coupled sulfur–iron redox network. These results reframe precursor mineralogy from a determinant of intrinsic reactivity to a kinetic regulator of biogenic electron-buffer formation, providing a mechanistic basis for mineral-informed bioremediation design.",
-      "published": "2026-10-23",
-      "doi": "10.1021/acs.est.6c05850",
-      "url": "https://doi.org/10.1021/acs.est.6c05850",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Post-Regulation\nof Nitrogen Configurations in Nitrogen-Doped\nCarbon Electrodes for Enhanced Capacitive Deionization",
-      "abstract": "Abstract Nitrogen doping is widely used to enhance the electrochemical performance of carbon materials, yet its effectiveness is often limited by electrochemically inactive or inaccessible nitrogen configurations. Here, we develop a coupling-agent-mediated amidation strategy to postregulate nitrogen-doped carbon, selectively enriching amino nitrogen while tailoring the distribution of pyridinic, pyrrolic, and graphitic nitrogen. The introduced −NH2 groups elevate the surface charge density, which is favorable for ion adsorption and diffusion. Density functional theory calculations, together with electrochemical kinetic analyses, reveal that edge-type nitrogen, particularly the lone electron pairs on amino nitrogen, can strongly interact with salt ions, resulting in effective electrical-double-layer compression and shortened ion diffusion distance. Consequently, the optimized electrode achieves a specific adsorption capacity of 70.3 mgNaCl g–1 and a time-averaged adsorption rate of 2.3 mgNaCl g–1 min–1 in 1000 mg L–1 NaCl solution at a cell voltage of 1.6 V. Its electrosorption behavior toward monovalent and divalent cations is also systematically evaluated in synthetic brines and actual industrial recirculating cooling water. This study provides a facile, powerful strategy to rationally design carbon electrodes for high-performance electrochemical ion storage and separation applications.",
-      "published": "2026-10-23",
-      "doi": "10.1021/acs.est.6c13420",
-      "url": "https://doi.org/10.1021/acs.est.6c13420",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     }
   ],
   "digest": {
-    "pollutant_count": 16,
-    "microplastic_count": 5,
+    "pollutant_count": 19,
+    "microplastic_count": 6,
     "pollutant_articles": [
       {
         "doi": "10.1016/j.jhazmat.2026.143920",
@@ -1140,6 +1148,41 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143876"
       },
       {
+        "doi": "10.1016/j.jhazmat.2026.143901",
+        "title_zh": "",
+        "journal": "JHM",
+        "published": "2026-11-01",
+        "pollutant_categories": [
+          "PFAS"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1016/j.jhazmat.2026.143901"
+      },
+      {
+        "doi": "10.1021/acs.est.6c07341",
+        "title_zh": "",
+        "journal": "EST",
+        "published": "2026-10-25",
+        "pollutant_categories": [
+          "重金属与放射性"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1021/acs.est.6c07341"
+      },
+      {
+        "doi": "10.1021/acs.est.6c13861",
+        "title_zh": "",
+        "journal": "EST",
+        "published": "2026-10-25",
+        "pollutant_categories": [
+          "微塑料"
+        ],
+        "microplastic_themes": [
+          "毒性与健康风险"
+        ],
+        "url": "https://doi.org/10.1021/acs.est.6c13861"
+      },
+      {
         "doi": "10.1021/acs.est.6c06945",
         "title_zh": "",
         "journal": "EST",
@@ -1214,23 +1257,24 @@
       }
     ],
     "writing_brief": {
-      "date": "2026-10-25",
-      "overview": "本周共整理 16 篇新污染物相关文献，其中微塑料 5 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
+      "date": "2026-10-26",
+      "overview": "本周共整理 19 篇新污染物相关文献，其中微塑料 6 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
       "stats": {
-        "total_pollutant": 16,
-        "microplastic": 5,
+        "total_pollutant": 19,
+        "microplastic": 6,
         "categories": {
           "药物与个人护理品": 4,
-          "微塑料": 5,
-          "PFAS": 6,
+          "微塑料": 6,
+          "PFAS": 7,
           "纳米材料": 2,
+          "重金属与放射性": 2,
           "新污染物综合": 1,
-          "塑化剂与内分泌干扰物": 1,
-          "重金属与放射性": 1
+          "塑化剂与内分泌干扰物": 1
         },
         "microplastic_themes": {
           "检测与表征": 2,
           "环境行为与迁移": 2,
+          "毒性与健康风险": 1,
           "源头与控制": 1,
           "生态效应": 1
         }
@@ -1239,7 +1283,7 @@
         {
           "theme": "PFAS",
           "category": "PFAS",
-          "article_count": 6,
+          "article_count": 7,
           "heat_level": "高",
           "sample_titles": [
             "Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance",
@@ -1247,7 +1291,7 @@
             "Interpretable QSPR modeling of PFAS endpoints via transformer-driven SMILES-to-m"
           ],
           "writing_angles": [
-            "PFAS 研究新进展：PFAS——公众最需要知道什么？（本周已有 6 篇相关论文，话题热度较高）",
+            "PFAS 研究新进展：PFAS——公众最需要知道什么？（本周已有 7 篇相关论文，话题热度较高）",
             "从实验室到现实：最新 PFAS 毒性/归趋研究如何影响治理逻辑？"
           ]
         },
@@ -1311,6 +1355,34 @@
           ]
         },
         {
+          "theme": "重金属与放射性",
+          "category": "重金属与放射性",
+          "article_count": 2,
+          "heat_level": "中",
+          "sample_titles": [
+            "A Perspective on\nthe Development of Novel In Situ\nRemediation of Contaminated Se",
+            "Exploring the Influence\nof Chemical Exposures on Breast\nCancer Disparities: High"
+          ],
+          "writing_angles": [
+            "新污染物周报：重金属与放射性 为何成为近期研究焦点？",
+            "跨期刊观察：EST 最新论文传递了怎样的研究风向？"
+          ]
+        },
+        {
+          "theme": "微塑料 · 毒性与健康风险",
+          "category": "微塑料",
+          "article_count": 1,
+          "heat_level": "中",
+          "sample_titles": [
+            "Environmentally\nPersistent Free Radicals on Aged Polyamide\nMicroplastics Drive N"
+          ],
+          "writing_angles": [
+            "从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？",
+            "对比EST最新成果：毒性与健康风险研究正在发生哪些范式转变？",
+            "写给非专业读者：toxicity到底意味着什么，我们该如何理解？"
+          ]
+        },
+        {
           "theme": "微塑料 · 源头与控制",
           "category": "微塑料",
           "article_count": 1,
@@ -1323,37 +1395,10 @@
             "对比EST最新成果：源头与控制研究正在发生哪些范式转变？",
             "写给非专业读者：mitigation到底意味着什么，我们该如何理解？"
           ]
-        },
-        {
-          "theme": "微塑料 · 生态效应",
-          "category": "微塑料",
-          "article_count": 1,
-          "heat_level": "中",
-          "sample_titles": [
-            "River\nPlastic Retention and Export across Europe"
-          ],
-          "writing_angles": [
-            "从生态效应切入：最新研究揭示了哪些容易被忽视的风险？",
-            "对比EST最新成果：生态效应研究正在发生哪些范式转变？",
-            "写给非专业读者：arg到底意味着什么，我们该如何理解？"
-          ]
-        },
-        {
-          "theme": "新污染物综合",
-          "category": "新污染物综合",
-          "article_count": 1,
-          "heat_level": "低",
-          "sample_titles": [
-            "Plant\nOxidative Stress Mediates the Synergistic Transformation\nof Benzotriazole "
-          ],
-          "writing_angles": [
-            "新污染物周报：新污染物综合 为何成为近期研究焦点？",
-            "跨期刊观察：EST 最新论文传递了怎样的研究风向？"
-          ]
         }
       ],
       "microplastic_summary": {
-        "count": 5,
+        "count": 6,
         "top_themes": [
           {
             "theme": "检测与表征",
@@ -1362,6 +1407,10 @@
           {
             "theme": "环境行为与迁移",
             "count": 2
+          },
+          {
+            "theme": "毒性与健康风险",
+            "count": 1
           },
           {
             "theme": "源头与控制",
@@ -1379,7 +1428,7 @@
           "【综合】Contrasting potential mediating roles of DOC and SOM in micr"
         ],
         "recommended_angles": [
-          "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 5 篇相关论文，话题热度较高）",
+          "从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？（本周已有 6 篇相关论文，话题热度较高）",
           "对比JHM最新成果：检测与表征研究正在发生哪些范式转变？",
           "写给非专业读者：微塑料到底意味着什么，我们该如何理解？"
         ]
@@ -1431,6 +1480,20 @@
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143943"
         },
         {
+          "title_zh": "Environmentally\nPersistent Free Radicals on Aged Polyamide\nMicroplastics Drive Neurotoxicity in\n                    <i>Eisenia fetida</i>\n                    via a Glutamate-Centered Cascade",
+          "journal": "EST",
+          "published": "2026-10-25",
+          "categories": [
+            "微塑料"
+          ],
+          "microplastic_themes": [
+            "毒性与健康风险"
+          ],
+          "why_write": "命中微塑料热点（微塑料/毒性与健康风险），具备科普/评论写作价值",
+          "suggested_angle": "从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？",
+          "url": "https://doi.org/10.1021/acs.est.6c13861"
+        },
+        {
           "title_zh": "Context-dependent effects of microplastics on soil available phosphorus: An AP-centered multilevel meta-analysis",
           "journal": "JHM",
           "published": "2026-11-01",
@@ -1441,18 +1504,6 @@
           "why_write": "命中微塑料热点（微塑料/），具备科普/评论写作价值",
           "suggested_angle": "从微塑料切入：最新研究揭示了哪些容易被忽视的风险？",
           "url": "https://doi.org/10.1016/j.jhazmat.2026.143959"
-        },
-        {
-          "title_zh": "Contrasting potential mediating roles of DOC and SOM in microplastic effects on soil heavy metals bioavailability: A meta-analysis and machine learning approach",
-          "journal": "JHM",
-          "published": "2026-11-01",
-          "categories": [
-            "微塑料"
-          ],
-          "microplastic_themes": [],
-          "why_write": "命中微塑料热点（微塑料/），具备科普/评论写作价值",
-          "suggested_angle": "从微塑料切入：最新研究揭示了哪些容易被忽视的风险？",
-          "url": "https://doi.org/10.1016/j.jhazmat.2026.143988"
         }
       ]
     }

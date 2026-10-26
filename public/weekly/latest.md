@@ -1,10 +1,10 @@
 ## 📬 期刊速递 · 每周写作风向
-**2026-10-12 ~ 2026-10-19** · NC / EST / JHM
+**2026-10-19 ~ 2026-10-26** · NC / EST / JHM
 
-本周共整理 15 篇新污染物相关文献，其中微塑料 3 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。
+本周共整理 19 篇新污染物相关文献，其中微塑料 6 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。
 
-- 新污染物：**15** 篇
-- 微塑料：**3** 篇
+- 新污染物：**19** 篇
+- 微塑料：**6** 篇
 - [查看完整网站](https://johnchew1.github.io/journal-digest/)
 
 ---
@@ -15,6 +15,10 @@
 - PFAS 研究新进展：PFAS——公众最需要知道什么？（本周已有 7 篇相关论文，话题热度较高）
 - 从实验室到现实：最新 PFAS 毒性/归趋研究如何影响治理逻辑？
 
+#### 药物与个人护理品（高热度 · 4篇）
+- 水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 4 篇相关论文，话题热度较高）
+- 消毒副产物 + 新污染物：管网末端正在发生什么化学反应？
+
 #### 微塑料 · 检测与表征（高热度 · 2篇）
 - 从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？
 - 对比JHM最新成果：检测与表征研究正在发生哪些范式转变？
@@ -23,58 +27,58 @@
 - 从环境行为与迁移切入：最新研究揭示了哪些容易被忽视的风险？
 - 对比JHM最新成果：环境行为与迁移研究正在发生哪些范式转变？
 
-#### 微塑料 · 老化与界面过程（高热度 · 2篇）
-- 从老化与界面过程切入：最新研究揭示了哪些容易被忽视的风险？
-- 对比EST最新成果：老化与界面过程研究正在发生哪些范式转变？
+#### 纳米材料（中热度 · 2篇）
+- 新污染物周报：纳米材料 为何成为近期研究焦点？
+- 跨期刊观察：JHM 最新论文传递了怎样的研究风向？
 
-#### 微塑料 · 源头与控制（高热度 · 2篇）
-- 从源头与控制切入：最新研究揭示了哪些容易被忽视的风险？
-- 对比EST最新成果：源头与控制研究正在发生哪些范式转变？
-
-#### 微塑料 · 生态效应（高热度 · 1篇）
-- 从生态效应切入：最新研究揭示了哪些容易被忽视的风险？
-- 对比EST最新成果：生态效应研究正在发生哪些范式转变？
+#### 重金属与放射性（中热度 · 2篇）
+- 新污染物周报：重金属与放射性 为何成为近期研究焦点？
+- 跨期刊观察：EST 最新论文传递了怎样的研究风向？
 
 ---
 
 ### ✍️ 推荐写作选题
 
-**1. Nanoplastic Size
-Governs the Decoupling of Microbial
-Survival from Antibiotic Degradation**
+**1. River
+Plastic Retention and Export across Europe**
 - 期刊：EST · 命中微塑料热点（微塑料/检测与表征、环境行为与迁移），具备科普/评论写作价值
 - 💡 从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？
-- [阅读原文](https://doi.org/10.1021/acs.est.6c05431)
+- [阅读原文](https://doi.org/10.1021/acs.est.6c03752)
 
-**2. Gas–Liquid
-Interface Enhanced Selective Adsorption
-of Long-Chain PFAS by Novel Floating Macroporous Resins**
-- 期刊：EST · 命中微塑料热点（微塑料/老化与界面过程、源头与控制），具备科普/评论写作价值
-- 💡 从老化与界面过程切入：最新研究揭示了哪些容易被忽视的风险？
-- [阅读原文](https://doi.org/10.1021/acs.est.6c12390)
-
-**3. Spatiotemporal distribution and rainfall-runoff transport characteristics of microplastics in a typical agricultural watershed**
+**2. Spatiotemporal distribution and rainfall-runoff transport characteristics of microplastics in a typical agricultural watershed**
 - 期刊：JHM · 命中微塑料热点（微塑料/检测与表征、环境行为与迁移），具备科普/评论写作价值
 - 💡 从检测与表征切入：最新研究揭示了哪些容易被忽视的风险？
 - [阅读原文](https://doi.org/10.1016/j.jhazmat.2026.143810)
 
-**4. Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance genes conjugation through membrane remodeling and energy metabolism reprogramming**
-- 期刊：JHM · 命中新污染物热点（PFAS、药物与个人护理品），具备科普/评论写作价值
-- 💡 PFAS 研究新进展：PFAS——公众最需要知道什么？
-- [阅读原文](https://doi.org/10.1016/j.jhazmat.2026.143782)
+**3. Molecular mechanisms underlying the modulation of Co(II)-catalase interactions by polystyrene nanoplastics**
+- 期刊：JHM · 命中微塑料热点（微塑料/），具备科普/评论写作价值
+- 💡 从微塑料切入：最新研究揭示了哪些容易被忽视的风险？
+- [阅读原文](https://doi.org/10.1016/j.jhazmat.2026.143943)
 
-**5. Fluorine mass balance, precursor transformability, and screening-level inhalation prioritization of PFAS-containing firefighting foam concentrates**
-- 期刊：JHM · 命中新污染物热点（PFAS），具备科普/评论写作价值
-- 💡 PFAS 研究新进展：PFAS——公众最需要知道什么？
-- [阅读原文](https://doi.org/10.1016/j.jhazmat.2026.143807)
+**4. Environmentally
+Persistent Free Radicals on Aged Polyamide
+Microplastics Drive Neurotoxicity in
+                    <i>Eisenia fetida</i>
+                    via a Glutamate-Centered Cascade**
+- 期刊：EST · 命中微塑料热点（微塑料/毒性与健康风险），具备科普/评论写作价值
+- 💡 从毒性与健康风险切入：最新研究揭示了哪些容易被忽视的风险？
+- [阅读原文](https://doi.org/10.1021/acs.est.6c13861)
+
+**5. Context-dependent effects of microplastics on soil available phosphorus: An AP-centered multilevel meta-analysis**
+- 期刊：JHM · 命中微塑料热点（微塑料/），具备科普/评论写作价值
+- 💡 从微塑料切入：最新研究揭示了哪些容易被忽视的风险？
+- [阅读原文](https://doi.org/10.1016/j.jhazmat.2026.143959)
 
 ---
 
 ### 🔬 微塑料文献精选
 
+- **[综合]**  ([原文](https://doi.org/10.1016/j.jhazmat.2026.143959))
+- **[综合]**  ([原文](https://doi.org/10.1016/j.jhazmat.2026.143943))
 - **[检测与表征、环境行为与迁移]**  ([原文](https://doi.org/10.1016/j.jhazmat.2026.143810))
-- **[检测与表征、环境行为与迁移]**  ([原文](https://doi.org/10.1021/acs.est.6c05431))
-- **[老化与界面过程、源头与控制]**  ([原文](https://doi.org/10.1021/acs.est.6c12390))
+- **[综合]**  ([原文](https://doi.org/10.1016/j.jhazmat.2026.143988))
+- **[毒性与健康风险]**  ([原文](https://doi.org/10.1021/acs.est.6c13861))
+- **[检测与表征、环境行为与迁移]**  ([原文](https://doi.org/10.1021/acs.est.6c03752))
 
 ---
 
