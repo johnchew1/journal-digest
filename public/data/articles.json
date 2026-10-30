@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T14:57:36Z",
+  "updated_at": "2026-10-30T14:50:54Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -171,6 +171,22 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
+      "title": "pH dependence of zinc and copper chemical forms in waste incineration fly ash treated with sulfuric acid",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143950",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143950",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
       "title": "Context-dependent effects of microplastics on soil available phosphorus: An AP-centered multilevel meta-analysis",
       "abstract": "",
       "published": "2026-11-01",
@@ -204,22 +220,6 @@
       "is_emerging_pollutant": true,
       "microplastic_themes": [],
       "relevance_score": 2
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "pH dependence of zinc and copper chemical forms in waste incineration fly ash treated with sulfuric acid",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143950",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143950",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     },
     {
       "journal": "JHM",
@@ -297,38 +297,6 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Photodegradation of Naproxen augment the photosensitization and phototoxicity with attenuated COX-2 binding under ambient UVA and UVB exposure",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143574",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143574",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
-      "title": "Crude oil addition enhanced greenhouse gas production and altered microbial communities in tidal flat sediments under tidal cycling",
-      "abstract": "",
-      "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143953",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143953",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "JHM",
-      "journal_name": "Journal of Hazardous Materials",
       "title": "vToxiNet: An interpretable deep learning framework for hepatotoxicity prediction and mechanism exploration",
       "abstract": "",
       "published": "2026-11-01",
@@ -345,15 +313,31 @@
     {
       "journal": "JHM",
       "journal_name": "Journal of Hazardous Materials",
-      "title": "Cometabolic and nutrient-driven defluorination and transformation of per- and polyfluoroalkyl substances by metabolically versatile bacteria",
+      "title": "Photodegradation of Naproxen augment the photosensitization and phototoxicity with attenuated COX-2 binding under ambient UVA and UVB exposure",
       "abstract": "",
       "published": "2026-11-01",
-      "doi": "10.1016/j.jhazmat.2026.143876",
-      "url": "https://doi.org/10.1016/j.jhazmat.2026.143876",
+      "doi": "10.1016/j.jhazmat.2026.143574",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143574",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Fe₃O₄ nanoparticles alleviate florfenicol-induced phytotoxicity in soybean seedling through multi-level regulation of photosynthesis, carbon metabolism, and nutrient homeostasis",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143957",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143957",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [
-        "PFAS"
+        "纳米材料"
       ],
       "is_microplastic": false,
       "is_emerging_pollutant": true,
@@ -361,13 +345,61 @@
       "relevance_score": 1
     },
     {
+      "journal": "JHM",
+      "journal_name": "Journal of Hazardous Materials",
+      "title": "Geochemical controls on the fate and mobility of coal combustion product-derived elements in a dolomitic aquifer",
+      "abstract": "",
+      "published": "2026-11-01",
+      "doi": "10.1016/j.jhazmat.2026.143847",
+      "url": "https://doi.org/10.1016/j.jhazmat.2026.143847",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Antimicrobial peptides derived from Nemuri induce ribosomal condensation to inhibit translation",
-      "abstract": "Abstract Antibiotic resistance is a global health threat requiring antimicrobials with alternative modes of action. Growing evidence indicates that bacteria organize key intracellular processes through biomolecular condensates and other forms of spatial organization, yet whether such spatial organization can be exploited as an antimicrobial target remains unclear. Here, we identify intrinsically disordered antimicrobial peptides, generated from the Drosophila sleep-inducing protein Nemuri, that inhibit bacterial growth by targeting ribosomal organization. Mechanistically, these peptides enter bacterial cells without overt membrane disruption and accumulate in ribosome-rich regions, where they bind broadly to RNA and ribosomal surfaces through multivalent interactions. This engagement remodels ribosome-rich regions into condensates with reduced ribosomal mobility, thereby suppressing global protein synthesis and distinguishing these peptides from canonical site-specific ribosome-targeting antibiotics. Furthermore, Nemuri-derived peptides exhibit broad-spectrum antimicrobial activity, including activity against drug-resistant pathogens, with low cytotoxicity toward Drosophila and mammalian cells. Together, our findings identify the organization and material dynamics of bacterial ribosomes as a biophysical vulnerability that can be exploited by antimicrobial peptides, revealing how a naturally evolved metazoan host-defense system turns intracellular organization itself into an antibacterial target.",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78960-5",
-      "url": "https://doi.org/10.1038/s41467-026-78960-5",
+      "title": "Synthetic tools to redirect the ubiquitin E3 ligase activity of a plant-specific N-recognin",
+      "abstract": "Abstract The Arg/N-degron pathway regulates important agronomic traits. In plants, the PROTEOLYSIS 1 (PRT1) protein binds to aromatic amino-terminal residues and recruits ubiquitin (Ub) conjugating enzymes to ubiquitinate substrate proteins. Here, we demonstrate that PRT1 recruits the UBC35-UEV1A complex via RING1 of PRT1. This stimulates UBC35 to produce K63-linked Ub chains. To afford chemical control over Ub signalling, we construct a synthetic substrate of PRT1 with an N-terminal calmodulin-binding peptide (CBP). The addition of the CBP sequence to the substrate creates an off switch for PRT1-dependent ubiquitination that is regulated by calcium and calmodulin. Finally, we produce a set of nanobodies that are recognised by PRT1 and induce the ubiquitination of a reporter protein. Altogether, we introduce and biochemically validate several tools to both redirect and chemically control the Arg/N-degron pathway.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78958-z",
+      "url": "https://doi.org/10.1038/s41467-026-78958-z",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Weakened association between sequential phenological events corresponds to interphase extension",
+      "abstract": "",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79161-w",
+      "url": "https://doi.org/10.1038/s41467-026-79161-w",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Sequential protonation and deprotonation reactions govern alternating access in a Major Facilitator Superfamily proton/multidrug antiporter",
+      "abstract": "Abstract Drug/proton antiporters of the Major Facilitator Superfamily are key drivers of antimicrobial resistance. However, the molecular mechanisms underlying proton-coupled drug efflux are inherently complex and remain unresolved. Here, we dissect the timing and mechanism of proton coupling in the multidrug transporter LmrP, a prototypical exporter of clinically relevant antibiotics and toxins. By directly tracking chamber opening in the native plasma membrane, we capture functionally relevant conformational transitions within a lipid environment and map them onto the catalytic carboxylates that govern transport. Our results suggest that earlier DEER distance measurements in detergent solution captured a restricted subset of conformational states, which our pH 8.0 data extend and place into a broader framework. Complementary pH 5.0 measurements reveal additional mechanistic features and, together, these datasets define the transport cycle in a membrane-embedded context. Supported by molecular dynamics simulations, the results reveal a coordinated, transport cycle-dependent mechanism in which paired catalytic carboxylates act sequentially in substrate binding, proton relay, gate control, and transporter resetting.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78611-9",
+      "url": "https://doi.org/10.1038/s41467-026-78611-9",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [
@@ -381,11 +413,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Tree shrew more closely recapitulates primate spermatogenesis than the mouse in cross-species single-cell transcriptomic analyses",
+      "title": "Recruitment of TEX15 by HUSH2 drives repression of multicopy gene families in fertility regulation",
       "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-77781-w",
-      "url": "https://doi.org/10.1038/s41467-026-77781-w",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79016-4",
+      "url": "https://doi.org/10.1038/s41467-026-79016-4",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -397,11 +429,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Darutigenol ameliorates experimental colitis via promoting Akkermansia muciniphila-mediated proline synthesis",
+      "title": "Enzymes can activate and mobilize dense biomolecular condensates across scales",
       "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78308-z",
-      "url": "https://doi.org/10.1038/s41467-026-78308-z",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-77666-y",
+      "url": "https://doi.org/10.1038/s41467-026-77666-y",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -413,203 +445,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Glacial CO2 drawdown by plankton metabolic balance",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78422-y",
-      "url": "https://doi.org/10.1038/s41467-026-78422-y",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Deuteration of arenes in D2O exclusively driven by single-atom Pt sites under visible light",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79132-1",
-      "url": "https://doi.org/10.1038/s41467-026-79132-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Proximity labeling of the Listeria monocytogenes surface reveals pathogen control of a host deubiquitinase",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79162-9",
-      "url": "https://doi.org/10.1038/s41467-026-79162-9",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Probing spin order via magnon transmission across quantum Hall ferromagnet heterojunctions",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79281-3",
-      "url": "https://doi.org/10.1038/s41467-026-79281-3",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Author Correction: Metabolic regulation of telomere silencing by SESAME complex-catalyzed H3T11 phosphorylation",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78172-x",
-      "url": "https://doi.org/10.1038/s41467-026-78172-x",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Author Correction: CBX4 stabilizes NEUROD1 through SUMO-ubiquitin crosstalk to delay β-cell senescence",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79200-6",
-      "url": "https://doi.org/10.1038/s41467-026-79200-6",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Layer-wise Prediction for Interpretation of Hidden Representations in Deep Neural Networks through Evolving Probability Distributions",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78340-z",
-      "url": "https://doi.org/10.1038/s41467-026-78340-z",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Local albumin excess exacerbates Candida albicans-induced inflammasome activation linked with hyperinflammation during vulvovaginal candidiasis",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78761-w",
-      "url": "https://doi.org/10.1038/s41467-026-78761-w",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Viral tRNA-like structure hijacks host ribosomes for poly(A)-independent translation",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78898-8",
-      "url": "https://doi.org/10.1038/s41467-026-78898-8",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "The accuracy-safety trade-off of large reasoning models in clinical diagnostics",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78520-x",
-      "url": "https://doi.org/10.1038/s41467-026-78520-x",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Author Correction: Single nucleotide variants drive evolutionary phage-host arms race in anaerobic carbon dioxide-converting microbiome",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79140-1",
-      "url": "https://doi.org/10.1038/s41467-026-79140-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Stabilization of insulin receptor mRNA by Star-PAP in metabolic homeostasis",
-      "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78465-1",
-      "url": "https://doi.org/10.1038/s41467-026-78465-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "CryoET imaging reveals that mitotic spindles are locally organized by microtubule density and Eg5 activity",
-      "abstract": "Abstract When eukaryotic cells divide, a mitotic spindle, composed of microtubule filaments interacting with molecular motors, self-assembles and is responsible for aligning and segregating chromosomes to the opposite daughter cells. Recent structural studies revealed that spindles are composed of short microtubules that do not span the full pole-to-chromosome distance. It remains unclear how these short, disconnected microtubules collectively assemble a bipolar spindle. Using cryo-electron tomography to map microtubule polarity in human spindles, we find that microtubules organize with consistent 8 nm wall-to-wall spacing. Spacing scales inversely with local microtubule density, consistent with organization by density-driven steric interactions, analogous to liquid crystal ordering. We find that the Eg5 motor establishes local antiparallel overlap independently of spindle bipolarity, while a balance of Eg5 and dynein regulates microtubule density to maintain spindle architecture. Together, these findings reveal the mesoscale principles by which cells build complex, self-healing cellular architectures from nanoscale building blocks.",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78938-3",
-      "url": "https://doi.org/10.1038/s41467-026-78938-3",
+      "title": "CO2 hydrogenation across the pressure gap over Ag/ZnO:Al2O3 catalysts",
+      "abstract": "Abstract The hydrogenation of carbon dioxide to value-added chemicals is a major challenge. Metal-oxide interfaces and surface structures play fundamental roles and govern the selectivity of this reaction; thus, catalysts must be investigated under relevant reaction conditions to identify structure-activity relationships and engineer more efficient materials. This work aims to elucidate mechanisms of carbon dioxide hydrogenation to methanol and side products by using operando characterization techniques within a pressure range of 1 mbar up to 15 bar. Bifunctional Ag/ZnO and Ag/ZnO:Al 2 O 3 catalysts are studied using multiple spectroscopic techniques combined with online product analysis. During catalyst activation in hydrogen, several restructuring processes of the catalyst occur at different pressures. Under carbon dioxide hydrogenation reaction conditions carbonate, formate and CH x surface intermediates show strong pressure-dependent abundances. Combining thermodynamics with in situ and operando investigations of pressure-dependent structures and intermediates allows assessing carbon dioxide hydrogenation through the pressure gap.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79019-1",
+      "url": "https://doi.org/10.1038/s41467-026-79019-1",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -621,11 +461,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Publisher Correction: Extracellular-matrix mediated stresses spatially bias myoblast fusion and myotube growth",
+      "title": "Author Correction: Inactivated vaccine-elicited potent antibodies can broadly neutralize SARS-CoV-2 circulating variants",
       "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79196-z",
-      "url": "https://doi.org/10.1038/s41467-026-79196-z",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79108-1",
+      "url": "https://doi.org/10.1038/s41467-026-79108-1",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -637,11 +477,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Framework desymmetrization enables partial pore space partition in metal-organic frameworks",
-      "abstract": "Abstract The pore-space-partition (PSP) has been recognized as a powerful strategy for boosting the uptake capacity of small gas molecules and has seen wide application in reticular chemistry. However, the most successful PSP platform—the partitioned- acs (pacs) net—has followed only one pattern since its inception over a decade ago: one partition agent per partition site, with a general formula of [M 3 O( L1 ) 3 ]( L2 ). This fully partitioned architecture occupies all metal sites, eliminating open metal sites (OMSs) and compromising selectivity. Herein, we introduce a partial PSP concept accessed through a framework desymmetrization strategy. By replacing traditional high-symmetry D 2h ligands with lower-symmetry C 2h ligands (e.g., fumaric acid), we introduce structural distortions into the acs network, breaking the uniformity of partition sites and allowing partition agents to occupy only a fraction of available positions. This provides access to a PSP mechanism, namely part-pacs (partially partitioned- acs ), with a general formula of [M 3 O( L1 ) 3 ]( L2 ) 1/3 . The part-pacs structures retain high acetylene capacity while exhibiting significantly enhanced selectivity compared to their fully partitioned analogues. Specifically, part-pacs-fum-tpa achieves C 2 H 2 /CO 2 separation productivity nearly twice that of its full-pacs counterpart (1.92 mol kg −1 vs 0.98 mol kg −1 ).",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-79214-0",
-      "url": "https://doi.org/10.1038/s41467-026-79214-0",
+      "title": "Process-dependent shifts in conspecific negative density dependence during boreal forest succession",
+      "abstract": "Abstract Conspecific negative density dependence (CNDD)—the stronger negative effects of conspecific than heterospecific neighbours on plant demographic performance—is a key process proposed to stabilize forest diversity, yet how it changes during succession remains poorly understood. Using a 25-year spatially explicit dataset from 148 post-fire plots in boreal forests, we show that species richness increases with stand age and that CNDD varies in process- and abundance-dependent ways across recruitment, survival, and growth. Plot-level CNDD shows no significant change with stand age in recruitment or survival, but mean relative effects are generally stronger for recruitment, and CNDD shifts from destabilizing to stabilizing for growth as stands mature. Species-level CNDD is strongly associated with species abundance, with rare species consistently experiencing stronger CNDD in recruitment and growth, whereas common species tend toward neutral or destabilizing effects. For survival, by contrast, CNDD is stronger in common than in rare species. These abundance-related differences remain broadly consistent across stand development, except in recruitment, where CNDD intensifies in rare species but remains consistently weak or near-neutral in common species. This shifting balance of density-dependent pressures highlights succession-driven trade-offs as central to species coexistence and increases in diversity in disturbance-driven forests.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79050-2",
+      "url": "https://doi.org/10.1038/s41467-026-79050-2",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -653,11 +493,11 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "Aberrant thymic architecture and enhanced interferon signaling in Down syndrome",
+      "title": "Interfacial reinforcement relieves mechanical mismatch for stable perovskite photovoltaics",
       "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78824-y",
-      "url": "https://doi.org/10.1038/s41467-026-78824-y",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79172-7",
+      "url": "https://doi.org/10.1038/s41467-026-79172-7",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -669,11 +509,253 @@
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
-      "title": "A training-free, domain-extensible LLM-based approach for automated extraction of standardized preparation procedures",
+      "title": "One Health genomic surveillance identifies potential genetic links of antimicrobial-resistant foodborne pathogens across sectors",
       "abstract": "",
-      "published": "2026-10-29",
-      "doi": "10.1038/s41467-026-78605-7",
-      "url": "https://doi.org/10.1038/s41467-026-78605-7",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78530-9",
+      "url": "https://doi.org/10.1038/s41467-026-78530-9",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Video-rate volumetric chemical imaging via mid-infrared photothermal optical diffraction tomography",
+      "abstract": "Abstract Label-free vibrational microscopy provides chemically specific access to cellular structures, yet quantitative volumetric imaging of intracellular dynamics remains challenging on subsecond timescales. Here, we demonstrate video-rate mid-infrared photothermal optical diffraction tomography (MIP-ODT) by combining high photothermal sensitivity with rapid angular scanning. The system achieves 19.2 volumes per second, nearly 400 times faster than previous MIP tomography implementations, with a signal-to-noise ratio exceeding 70 and no temporal averaging. We track lipid droplets in living cells and quantify anomalous diffusion from three-dimensional trajectories, revealing heterogeneous intracellular transport behaviors obscured in two-dimensional measurements. Rapid mid-infrared wavenumber sweeping further enables broadband multi-wavenumber volumetric chemical imaging across a 300 cm⁻¹ spectral window within 1 s. These results establish MIP-ODT as a platform for high-speed, label-free volumetric chemical imaging of single cells and quantitative investigation of dynamic intracellular organization.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78699-z",
+      "url": "https://doi.org/10.1038/s41467-026-78699-z",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "A multilamellar organelle for chemosymbiosis in an aplacophoran mollusc adapted to anoxic cold seep sediment",
+      "abstract": "",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78965-0",
+      "url": "https://doi.org/10.1038/s41467-026-78965-0",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Spatial patterning of hierarchical lamellar-cellular structured hydrogels for programmable deformation-coupled information encryption",
+      "abstract": "",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79008-4",
+      "url": "https://doi.org/10.1038/s41467-026-79008-4",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Ligand hardness as a key feature differentiating base- versus noble-metal mechanisms of nickel-catalyzed Suzuki-Miyaura cross-couplings",
+      "abstract": "Abstract Nickel-catalyzed cross-coupling reactions that engage alkyl electrophiles provide potential routes for synthesis of molecules with high F sp3 . However, development of these reactions remains a challenge since the impact of ligand identity on competing mechanistic pathways is not yet well understood. To address this knowledge gap, we establish structure-reactivity trends across >550 Suzuki-Miyaura cross-coupling reactions with known mechanistic pathways. We evaluate reaction outcome by ligand features including heteroatom identity, hybridization, bite angle, geometry, and buried volume. The most important determinant of reactivity is heteroatom identity: nitrogen-based ligands support open-shell reactions while phosphorus-based ligands support closed-shell reactions. Here we report that experimental and calculated reduction potentials and charge density analysis correlate with catalytic activity and propose a rationale for these observations based on hard-soft acid-base theory.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79154-9",
+      "url": "https://doi.org/10.1038/s41467-026-79154-9",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "A combinatorial genetics approach reveals limits to redundancy within Plasmodium falciparum invasion ligand families",
+      "abstract": "Abstract To maintain infection in the human bloodstream, Plasmodium falciparum parasites undergo repeated cycles of invasion of and multiplication inside red blood cells (RBCs). Two protein families, the Erythrocyte binding-like (EBA) and Reticulocyte binding-like (Rh) proteins, are known to play a key role in invasion, mediating early stages of attachment of the P. falciparum merozoite to the host RBC. There is a degree of redundancy within these families, such that disrupting the function of individual EBA/Rh proteins in vitro is not sufficient to prevent invasion. By employing a novel approach to disrupt multiple EBA and Rh genes in combination, we systematically assess functional interdependency across these families for the first time. This analysis, and further characterisation of mutant parasites, reveals that disruption of some pairs of EBA/Rh ligands significantly impacts P. falciparum invasion, whereas others do not. Disruption of PfEBA175 in combination with either PfRh2b or PfRh4 significantly reduces parasite multiplication in vitro, indicating that the remaining EBA/Rh proteins cannot fully compensate for the absence of these three key invasion ligands. PfEBA175, PfRh2b and PfRh4 may therefore represent a critical nexus of the parasite invasion machinery, and combinatorial approaches that target these specific ligands could be a beneficial therapeutic approach.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78985-w",
+      "url": "https://doi.org/10.1038/s41467-026-78985-w",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Genomic surveillance meets clinical practice: rule-based individualized treatment prediction for gonorrhoea using SensiTyper",
+      "abstract": "Abstract Extensively drug-resistant (XDR) Neisseria gonorrhoeae strains threaten the current empirical gonorrhoea treatment. We designed and analytically validated SensiTyper, a rule-based framework that predicts antimicrobial susceptibility from whole-genome sequencing data and generates susceptibility-guided individualized treatment recommendations. SensiTyper was applied to 13,701 gonococcal genomes from 68 countries in 1928-2024, including cultured isolates and clinical molecular samples, and benchmarked predictions against previous genomic and phenotypic data. Susceptibility predictions for ceftriaxone, ciprofloxacin, spectinomycin, and zoliflodacin had 98.9-100% sensitivity and specificity. Azithromycin susceptibility predictions had 92.5% sensitivity and 97.1% specificity, and gepotidacin susceptibility prediction 100% sensitivity, but 0% specificity, illustrating that low-level phenotypic gepotidacin resistance is not caused by the only known resistance determinants (GyrA A92T plus ParC D86N). The SensiTreat module integrates antimicrobial susceptibility profiles into sequential treatment logic, providing susceptibility-guided individualized treatment recommendations while also enabling alternative stewardship strategies prioritizing, e.g., ciprofloxacin. SensiTyper flags XDR isolates for expert follow-up, test-of-cure and comprehensive contact tracing. In conclusion, SensiTyper is a robust and adaptable approach for gonococcal antimicrobial susceptibility prediction, individualized gonorrhoea treatment and antimicrobial stewardship.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79037-z",
+      "url": "https://doi.org/10.1038/s41467-026-79037-z",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Precise modular engineering of neutral organometallic rectangles from binuclear palladacycles via hierarchical assembly strategy",
+      "abstract": "Abstract Metallosupramolecular assembly provides a powerful strategy for the precise construction of well-defined architectures with diverse topologies and functionalities. However, the construction of neutral organometallic architectures supported by robust metal-carbon bonds remains underdeveloped, largely because kinetic persistence limits the reversible structural correction required for conventional self-assembly. Herein, we employ binuclear palladacycles as intrinsically neutral and geometrically preorganized building blocks and develop a hierarchical assembly strategy that temporally separates geometric programming, scaffold editing, and topology locking. Through a polymerization-cleavage-assembly process, cyclopalladated polymers are converted into discrete binuclear precursors while retaining their programmed geometrical information. Subsequent trans-effect-directed N -heterocyclic carbene ligation affords a series of size-tunable, kinetically robust, and neutral organometallic rectangles. The resulting architectures are fully characterized by spectroscopic methods and single crystal X-ray diffraction analyses. Moreover, single crystal X-ray diffraction identifies guest-mediated breathing-like geometric deformations in the solid state, driven by exo-wall π-π stacking and charge-transfer interactions with both electron-rich and electron-deficient planar guests. This work establishes a hierarchical construction principle for accessing discrete neutral organometallic architectures by separating geometric programming from the final locking of the topology through strong bond formation, while demonstrating that local geometric adaptation can occur without disrupting the framework connectivity established by Pd-C bonds.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-79020-8",
+      "url": "https://doi.org/10.1038/s41467-026-79020-8",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Genome-scale eCLIP mapping of SARS-CoV-2 RNA interactions with NSP8, NSP12, and N reveals regulatory sites",
+      "abstract": "Abstract The global impact of the COVID-19 pandemic highlights the need for a deeper understanding of SARS-CoV-2 replication. Although the essential roles of the RNA-dependent RNA polymerase (NSP12), primase (NSP8), and nucleocapsid (N) proteins are established, their contact points with the full-length viral RNA genome during active infection require further characterization. Here, we used enhanced crosslinking and immunoprecipitation (eCLIP) to map direct interactions of NSP8, NSP12, and N across the SARS-CoV-2 genome during live virus infection at early and late stages of replication. We mapped NSP8 and NSP12 binding to the 5′ and 3′ ends of positive- and negative-sense RNA, consistent with their roles in viral replication, transcription, and translation. We also observed an NSP12 binding site within the conserved Y1 domain of NSP3 that modulates RNA and protein abundance. In addition, N binds the 5′ untranslated region (UTR), supporting a role in translational regulation early in infection, and associates with the frameshift element, where it modulates ribosomal frameshifting. Together, these findings map SARS-CoV-2 RNA–protein interactions across the viral genome and delineate specific regulatory regions for potential antiviral intervention.",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78788-z",
+      "url": "https://doi.org/10.1038/s41467-026-78788-z",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Minimally invasive topological light manipulation with lensless fiber endomicroscope",
+      "abstract": "",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78848-4",
+      "url": "https://doi.org/10.1038/s41467-026-78848-4",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "B7-H4‒directed antibody-drug conjugate AZD8205 (puxitatug samrotecan) in patients with advanced/metastatic solid tumors: the Phase 1/2a (BLUESTAR), first-in-human study",
+      "abstract": "",
+      "published": "2026-10-30",
+      "doi": "10.1038/s41467-026-78925-8",
+      "url": "https://doi.org/10.1038/s41467-026-78925-8",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Fog\nIntensity and Droplet Size-Resolved Aqueous Secondary\nOrganic Aerosol (aqSOA) Formation in Polluted Winter Fog: New Insights\nfrom a Combined Observational and Modeling Study",
+      "abstract": "Abstract Fog is a chemically active aqueous medium in which dissolved organic gases and particles are converted into highly oxidized aqueous secondary organic aerosol (aqSOA). Its magnitude is difficult to constrain, and most published estimates rely on models. We analyzed size-resolved fogwater collected over two winters at Kanpur, India, by offline high-resolution aerosol mass spectrometry and apportioned by positive matrix factorization (PMF). Three highly oxidized factors (O/C 0.95–1.19) were summed as an aqSOA proxy. Combining this proxy with colocated liquid water content and water-soluble organic carbon yielded 3.1–8.4 μg m–3 aqSOA across seven events. The droplet aqSOA accounts for a median of about 7% of ambient SOA and 5% of ambient OA, reaching 13% of SOA in the densest fogs. Fine droplets carried the largest aqSOA share (43–84%), driven by higher concentrations of dissolved Fe and Cu and longer residence times. Ambient OA was less oxidized during dense than light fog (O/C 0.52 versus 0.61). Returning aqSOA after dissipation gave direct-radiative-effect increments of −0.048 W m–2 (dense) and −0.032 W m–2 (light). These size- and intensity-resolved observational constraints quantify fog–aerosol interactions and their air quality consequences in a heavily polluted region.",
+      "published": "2026-10-30",
+      "doi": "10.1021/acs.est.6c09700",
+      "url": "https://doi.org/10.1021/acs.est.6c09700",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Dual-Isotope Tracing\nReveals Substantial Postanthesis\nFoliar and Panicle Contributions to Grain Cadmium Accumulation in\nHydroponically Grown Rice",
+      "abstract": "Abstract Cadmium (Cd) accumulation in rice grains occurs through multiple exposure pathways, yet the relative contributions and associated transport mechanisms remain unclear. Here, we applied dual stable isotope labeling (112Cd/113Cd) in hydroponically grown rice under controlled conditions, with root exposure through nutrient solution as well as foliar and panicle exposure through direct solution spraying. Source apportionment was complemented by sap analysis and triple-quadrupole LA-ICP-MS imaging to examine vascular transport and allocation in the first node under the panicle (node I). Direct Cd contact with aboveground tissues inhibited growth more strongly than root exposure, inducing antioxidant responses and stomatal limitation. Isotopic mass balance revealed that under controlled hydroponic root/foliar exposure, postanthesis Cd inputs contributed 80% and 90% of grain Cd, respectively. Under triple exposure, grain Cd averaged 0.558 mg kg–1, comprising 40% foliar, 24% panicle, and 36% root contributions, demonstrating that aboveground contributions were comparable to root contributions. Transport routes diverged: root uptake elevated xylem sap Cd, whereas foliar-derived Cd showed phloem-associated localization in node I and enrichment in phloem exudates. These results highlight the role of aboveground sources in grain Cd accumulation and suggest that risk assessment in deposition-affected areas should consider both root and aboveground Cd inputs, especially during reproduction.",
+      "published": "2026-10-30",
+      "doi": "10.1021/acs.est.6c03909",
+      "url": "https://doi.org/10.1021/acs.est.6c03909",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [
+        "重金属与放射性"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Unraveling the Differentiated\nRoles of Reactive Chlorine\nin Regulating Atmospheric Oxidation and Secondary Formation",
+      "abstract": "Abstract Reactive chlorine species significantly perturb atmospheric oxidation, yet systematic observations of multiple chlorine species and comprehensive assessments of their distinct photochemical roles remain limited. Here, we present concurrent field measurements of four reactive chlorine species (ClNO2, Cl2, HOCl, and NCl3) in a coastal urban atmosphere. Cl2 photolysis dominated Cl• production (40.2%), whereas HOCl photolysis served as a dual source of Cl• and OH•, a mechanism previously overlooked, and most effectively elevated ROx• levels. Temporally, ClNO2 photolysis enhanced early morning oxidation, Cl2 prevailed around noon, and HOCl dominated the afternoon radical budgets, while NCl3 photolysis contributed minimally throughout the diurnal cycle. Incorporating chlorine-induced volatile organic compounds (VOC) consumption in the box model amplified O3 and PAN production by up to 43.4 and 43.8%, respectively, without altering the VOC-limited regime. Our findings underscored that regulating coastal atmospheric oxidation required a species-specific, time-resolved treatment of chlorine chemistry, with direct implications for air quality management.",
+      "published": "2026-10-30",
+      "doi": "10.1021/acs.est.6c06457",
+      "url": "https://doi.org/10.1021/acs.est.6c06457",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Small\nModular Electrochemical\nContainers for Decarbonization\nof AI Data Centers",
+      "abstract": "Abstract The rapid growth of artificial intelligence (AI) is increasing data-center electricity demand and reinforcing the near-term role of fossil-fuel power generation. Decarbonizing this infrastructure requires carbon capture systems that are efficient, compact, modular, and compatible with space-constrained data centers. Here, we evaluate Small Modular Electrochemical Containers (SMECs) as a deployment-oriented application of a two-stage, membraneless electrochemically mediated amine regeneration (EMAR) process. The design integrates CO2 absorption and electrochemical desorption within one gas-diffusion-electrode cell, eliminating absorber columns and ion-exchange membranes. Single-cell experiments were conducted under simulated natural-gas and coal-derived flue gas. Polarization mapping identified optimized operating conditions, which were then used in a 300-cycle, 50-h accelerated stability test with periodic polarity switching. The cell maintained repeatable voltage and CO2 absorption/desorption profiles, with absorption and desorption efficiencies of ∼90% under optimized conditions. The energetics ranged from 50–85 kJe/molCO2, and GC/IC analyses showed no detectable gaseous or liquid side products. The paper further includes theoretical modeling of SOx and NOx effects on the absorbent. In a case study for a 360 MW data-center power plant, the TEA showed that fewer than 20 SMEC units could achieve near-complete decarbonization, increasing the levelized electricity cost from about \\$58/MWh to \\$74/MWh.",
+      "published": "2026-10-30",
+      "doi": "10.1021/acs.est.6c06512",
+      "url": "https://doi.org/10.1021/acs.est.6c06512",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "The End of Uniformity:\nSpatial, Climatic, and Toxicological\nRedefinitions of Air Quality",
+      "abstract": "",
+      "published": "2026-10-30",
+      "doi": "10.1021/acs.est.6c14170",
+      "url": "https://doi.org/10.1021/acs.est.6c14170",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -713,6 +795,24 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Lipophilic\nRedox\nMediators Reprogram Intracellular\nElectron Flow to Promote Arsenic Methylation in Soil Fermentative\nBacteria",
+      "abstract": "Abstract Anaerobic arsenic (As) methylation by fermentative microorganisms, particularly Clostridium-related populations, controls As speciation, mobility, and volatilization in flooded paddy soils, yet the mechanisms promoting this process remain poorly understood. Here, we reveal that phenazine- and phenoxazine-like redox mediators can enhance anaerobic As methylation via reshaping the intracellular electron allocation in a representative As-methylating fermentative bacterium. We integrated As speciation analysis, metabolite profiling, proteomics, and metabolic-flux modeling to determine how resazurin, as a represenative lipophilic redox mediator, reshapes fermentative metabolism and methylated As (MeAs) formation. The membrane-permeable redox mediator resazurin increased the apparent rate constant of MeAs formation by up to fourfold relative to the hydrophilic mediator anthraquinone-2,6-disulfonic acid (AQDS). Unlike AQDS, resazurin enhanced dimethylarsine formation while establishing a more reducing intracellular environment by diverting electrons from hydrogen evolution, indicating altered intracellular electron disposal. At the proteomic level, resazurin induced coordinated increases in As(III) methyltransferase (ArsM) and proteins involved in S-adenosylmethionine (SAM) biosynthesis, representing the primary molecular responses associated with enhanced As methylation. Proteins involved in amino-acid-fueled energy conservation and redox homeostasis were also enriched, potentially creating favorable cellular conditions for SAM-dependent As methylation. In a paddy-soil-derived fermentative consortium, resazurin likewise enhanced MeAs production and increased transcript levels of Clostridium-associated arsM and the SAM synthetase gene (metK). These findings identify lipophilicity-dependent, redox-compound-mediated intracellular electron flow reprogramming as a previously underappreciated control on anaerobic As methylation and provide a mechanistic basis for predicting MeAs formation in flooded soil environments.",
+      "published": "2026-10-29",
+      "doi": "10.1021/acs.est.6c11234",
+      "url": "https://doi.org/10.1021/acs.est.6c11234",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [
+        "重金属与放射性"
+      ],
+      "is_microplastic": false,
+      "is_emerging_pollutant": true,
+      "microplastic_themes": [],
+      "relevance_score": 1
     },
     {
       "journal": "EST",
@@ -907,113 +1007,10 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Nontargeted\nIdentification and Prioritization of Organic\nContaminants in Biosolid-Amended Soils across the United States",
-      "abstract": "Abstract The widespread use of biosolids as an agricultural soil amendment has raised concerns about the release of organic contaminants into the environment. This study identifies biosolids-associated organic contaminants (BOCs) in soils from municipal biosolid-amended plots across the United States. Soil samples were collected from 18 sites in 15 states, representing biosolids applications from the 1980s to the present. Samples were taken at three depths (30, 90, and 180 cm) from plots with no, low, and high application histories. Samples were extracted using QuEChERS and analyzed by liquid chromatography–high-resolution mass spectrometry (LC-HRMS) using a nontargeted analysis (NTA) approach. A total of 111 BOCs were detected across biosolid-amended plots. BOCs were detected most frequently in surface soils (30 cm), with significantly fewer detections at subsurface depths (p &lt; 0.001). Cumulative loading rate and application frequency were significant predictors of the number of BOCs detected (p = 0.003 and p = 0.017, respectively). Quality-adjusted hazard scores for human health, ecological impact, and environmental fate identified 4-nitrophenol (44%), PFBS (41%), and miconazole (38%), among others as the highest-priority BOCs. This NTA-hazard prioritization workflow provides a strategy for identifying compounds warranting further evaluation for potential environmental and human health risks.",
-      "published": "2026-10-28",
-      "doi": "10.1021/acs.est.6c13101",
-      "url": "https://doi.org/10.1021/acs.est.6c13101",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Influence\nof COVID-19 Lockdown on Atmospheric Nitrate\nSources and Chemistry in the Northeastern US",
-      "abstract": "Abstract The outbreak of COVID-19 and subsequent lockdowns caused widespread restrictions on human activities. This presented a unique opportunity to track atmospheric chemistry changes under rapid emission reductions. Using stable nitrogen (δ15N) and triple oxygen isotopes (δ18O and Δ17O) of particulate nitrate (pNO3) collected from 2019 to 2020 in the northeastern US, combined with 0-D box-model simulations, we investigate the response of atmospheric nitrate chemistry during the COVID-19 lockdown period (March 2020) in the northeastern US. Triple oxygen isotope measurements indicate that emission reductions altered the relative contributions of NOx oxidation pathways, with a shift toward the NO2 + OH pathway and a reduced contribution from N2O5 hydrolysis. This shift was consistent with the modeled increase in OH concentrations and the observed and modeled decrease in O3 during the COVID-19 lockdown, which limited N2O5 formation and subsequent heterogeneous nitrate formation. Moreover, nitrogen isotope-constrained sensitivity analysis suggests that a reduction of approximately 40(±10)% in transportation NOx emissions relative to the annual emission inventory estimates may be required to reproduce the observed decrease in δ15N(pNO3) during the COVID-19 period. These findings highlight the utility of isotopes to detail the complex interactions between emission reductions, atmospheric oxidation chemistry, and secondary aerosol formation. Understanding these interactions is critical for effectively determining air pollution mitigation strategies and testing air-quality models, particularly under rapidly evolving emission conditions associated with energy transitions and policy interventions.",
-      "published": "2026-10-28",
-      "doi": "10.1021/acs.est.6c10023",
-      "url": "https://doi.org/10.1021/acs.est.6c10023",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Solar\nActivation of Peroxymonosulfate by Chromophoric\nDissolved Organic Matter Enables Predictable Micropollutant Attenuation\nin Real Waters",
-      "abstract": "Abstract Solar-driven activation of peroxymonosulfate (PMS) is a promising advanced oxidation process for water and wastewater treatment; however, the kinetics of emerging contaminant removal in real water matrices remain poorly understood. In this study, we investigated PMS photosensitization in three environmentally relevant water matrices and evaluated its role in the abatement of 42 pharmaceuticals and personal care products (PPCPs). Under simulated solar irradiation, CDOM promoted PMS transformation and generated multiple photochemically produced reactive intermediates (PPRIs). A multiple-probe chemical method was employed to quantify the cumulative exposure doses of HO•, SO4•–, Cl2•–, CO3•–, and 1O2. Across the tested matrices, PPRI exposure doses followed the order CO3•– &gt; 1O2 &gt; Cl2•– ∼ SO4•– &gt; HO•. The measured PPRI exposure doses, together with second-order rate constants, reasonably predicted PPCP removal in the solar/PMS/CDOM system. For several phenolic and aniline-containing PPCPs, DOM-mediated inhibition was observed and was attributed to reductive back-reaction of one-electron oxidation intermediates; incorporating inhibition factors improved the agreement between calculated and experimental removal efficiencies. Furthermore, four commonly detected PPCPs, sucralose, metformin, caffeine, and carbamazepine, were first identified as practical indicator compounds for estimating PPRI exposure without adding external probe chemicals. These findings provide a mechanistic framework for predicting PPCP attenuation during solar/PMS treatment in CDOM-rich waters and highlight the importance of secondary radicals in real aquatic matrices.",
-      "published": "2026-10-28",
-      "doi": "10.1021/acs.est.6c09034",
-      "url": "https://doi.org/10.1021/acs.est.6c09034",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "药物与个人护理品",
-        "新污染物综合"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 2
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Electron Transfer\nat Microbe–Mineral Interfaces:\nFrom Molecular Mechanisms to Ecosystem-Scale Biogeochemical Cycling\nand Remediation",
-      "abstract": "Abstract Microbe–mineral electron transfer (MMET) drives key microbial processes and biogeochemical cycling, but linking these microscopic interactions to ecosystem-scale dynamics remains a major challenge. MMET couples intracellular metabolism to extracellular mineral transformations. The resulting changes in mineral redox state and reactivity can, in turn, influence microbial energy conservation and metabolism. MMET flux could therefore provide a quantitative link between nanometer-scale electron exchange and larger-scale biogeochemical processes. In energy-limited and contaminated environments, electroactive microorganisms may transfer electrons to or acquire electrons from redox-active minerals, depending on their metabolic capabilities and local redox conditions. These interactions can support energy conservation, mitigate toxic stress, and generate localized zones of high biogeochemical activity. As their effects accumulate across space and time, microscale electron transfer may influence ecosystem-scale elemental cycling, microbial community succession, organic carbon stabilization, and contaminant fate. Building on established modeling approaches, we suggest that integrating individual-based models (IBMs) with genome-scale metabolic models (GSMMs) could translate spatially heterogeneous, genome-informed microbial responses into collective MMET fluxes across scales while accounting for key thermodynamic and kinetic constraints. More broadly, progress requires characterizing electroactive microbial diversity and mechanisms, engineering microbe–mineral interfaces through computational design and synthetic biology, and translating MMET principles into scalable environmental applications.",
-      "published": "2026-10-28",
-      "doi": "10.1021/acs.est.6c07419",
-      "url": "https://doi.org/10.1021/acs.est.6c07419",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Multiheme\n                    <i>c</i>\n                    -Type Cytochrome-Dependent\nArsenate Reduction Enhances Methanogenesis in\n                    <i>Methanosarcina acetivorans</i>",
-      "abstract": "Abstract Microorganism-mediated arsenate (As(V)) reduction plays a critical role in arsenic mobility and microbial adaptation in arsenic-contaminated anoxic environments. Current understanding of microbial As(V) reduction has primarily focused on two pathways: extracellular reduction mediated by membrane-bound As(V) respiratory reductase, and intracellular reduction catalyzed by cytoplasmic As(V) detoxification reductase. Here, we report an extracellular As(V) reduction process that operates independently of both known As(V) reductases and is mediated by methanogenic archaea that are recognized for obligate methanogenesis across diverse anoxic habitats. We demonstrate that a model methanogenic archaeon is capable of concurrently performing intracellular methanogenesis and extracellular As(V) reduction, with the latter process significantly enhancing methanogenic growth. Through a combination of microbial physiological, biochemical, and molecular genetic approaches, we identify multiheme c-type cytochromes (MHCs), which are widely distributed within the order Methanosarcinales and have been previously implicated in extracellular iron reduction, as the key molecular components responsible for extracellular As(V) reduction. Furthermore, employing density functional theory simulations, we propose plausible reduction pathways for As(V) reduction mediated by the heme prosthetic groups of MHCs and confirm their thermodynamic feasibility. This work not only provides new insights into the previously overlooked coupling between arsenic transformation and methanogenesis in anoxic environments on Earth, but also underscores the interconnected nature of iron and As(V) reduction, both of which can be mediated by MHCs.",
-      "published": "2026-10-28",
-      "doi": "10.1021/acs.est.6c14511",
-      "url": "https://doi.org/10.1021/acs.est.6c14511",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "重金属与放射性"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Novel NIR-II Imaging\nReveals Gut-First, Brain-Later\nInorganic Mercury Signals with Structural Injury in Zebrafish",
-      "abstract": "Abstract Mercury (Hg) neurotoxicity has generally been assessed by organic methylmercury, whereas inorganic mercury [Hg(II)] is often considered less likely to cause direct brain exposure. Conventional approaches cannot resolve the in vivo spatiotemporal distribution of Hg(II) across tissues. In this study, we first developed an Hg(II)-responsive aggregation-induced emission sensor for second near-infrared (NIR-II) fluorescence imaging, which was then employed to track Hg(II) signals in live zebrafish. The sensor produced enhanced NIR-II signals in the presence of Hg(II), allowing low-background, noninvasive, and real-time imaging. We observed that Hg(II)-responsive sensor signals first appeared in the intestinal region and later increased in the brain region, revealing an intestine-first and brain-later temporal pattern in living zebrafish. During a 48-h continuous exposure followed by depuration, brain-region Hg(II)-responsive sensor fluorescence increased with exposure concentration and time and remained detectable during the depuration phase. Expansion microscopy further showed that low-dose Hg(II) exposure reduced the brain cell density and average cell size, and disrupted the local tissue organization. These results provided in vivo evidence of Hg(II)-responsive sensor in the brain region and its association with structural brain injury during development. Thus, inorganic Hg should also be considered in the assessments of developmental brain exposure and neural structural injury.",
-      "published": "2026-10-28",
-      "doi": "10.1021/acs.est.6c10425",
-      "url": "https://doi.org/10.1021/acs.est.6c10425",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [
-        "重金属与放射性"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
     }
   ],
   "digest": {
-    "pollutant_count": 15,
+    "pollutant_count": 14,
     "microplastic_count": 4,
     "pollutant_articles": [
       {
@@ -1121,26 +1118,48 @@
         "url": "https://doi.org/10.1016/j.jhazmat.2026.143810"
       },
       {
-        "doi": "10.1016/j.jhazmat.2026.143876",
+        "doi": "10.1016/j.jhazmat.2026.143957",
         "title_zh": "",
         "journal": "JHM",
         "published": "2026-11-01",
         "pollutant_categories": [
-          "PFAS"
+          "纳米材料"
         ],
         "microplastic_themes": [],
-        "url": "https://doi.org/10.1016/j.jhazmat.2026.143876"
+        "url": "https://doi.org/10.1016/j.jhazmat.2026.143957"
       },
       {
-        "doi": "10.1038/s41467-026-78960-5",
+        "doi": "10.1038/s41467-026-78611-9",
         "title_zh": "",
         "journal": "NC",
-        "published": "2026-10-29",
+        "published": "2026-10-30",
         "pollutant_categories": [
           "药物与个人护理品"
         ],
         "microplastic_themes": [],
-        "url": "https://doi.org/10.1038/s41467-026-78960-5"
+        "url": "https://doi.org/10.1038/s41467-026-78611-9"
+      },
+      {
+        "doi": "10.1021/acs.est.6c03909",
+        "title_zh": "",
+        "journal": "EST",
+        "published": "2026-10-30",
+        "pollutant_categories": [
+          "重金属与放射性"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1021/acs.est.6c03909"
+      },
+      {
+        "doi": "10.1021/acs.est.6c11234",
+        "title_zh": "",
+        "journal": "EST",
+        "published": "2026-10-29",
+        "pollutant_categories": [
+          "重金属与放射性"
+        ],
+        "microplastic_themes": [],
+        "url": "https://doi.org/10.1021/acs.est.6c11234"
       },
       {
         "doi": "10.1021/acs.est.6c13254",
@@ -1152,55 +1171,20 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1021/acs.est.6c13254"
-      },
-      {
-        "doi": "10.1021/acs.est.6c09034",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-28",
-        "pollutant_categories": [
-          "药物与个人护理品",
-          "新污染物综合"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c09034"
-      },
-      {
-        "doi": "10.1021/acs.est.6c14511",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-28",
-        "pollutant_categories": [
-          "重金属与放射性"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c14511"
-      },
-      {
-        "doi": "10.1021/acs.est.6c10425",
-        "title_zh": "",
-        "journal": "EST",
-        "published": "2026-10-28",
-        "pollutant_categories": [
-          "重金属与放射性"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1021/acs.est.6c10425"
       }
     ],
     "writing_brief": {
-      "date": "2026-10-29",
-      "overview": "本周共整理 15 篇新污染物相关文献，其中微塑料 4 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
+      "date": "2026-10-30",
+      "overview": "本周共整理 14 篇新污染物相关文献，其中微塑料 4 篇。研究热点集中在「检测与表征」，建议优先从微塑料日常暴露、环境归趋或健康风险角度组织写作。",
       "stats": {
-        "total_pollutant": 15,
+        "total_pollutant": 14,
         "microplastic": 4,
         "categories": {
-          "药物与个人护理品": 4,
+          "药物与个人护理品": 3,
           "微塑料": 4,
-          "PFAS": 4,
+          "PFAS": 3,
           "重金属与放射性": 3,
-          "纳米材料": 2,
-          "新污染物综合": 1
+          "纳米材料": 3
         },
         "microplastic_themes": {
           "检测与表征": 1,
@@ -1208,36 +1192,6 @@
         }
       },
       "hot_themes": [
-        {
-          "theme": "药物与个人护理品",
-          "category": "药物与个人护理品",
-          "article_count": 4,
-          "heat_level": "高",
-          "sample_titles": [
-            "HumanToxPredict: An interpretable data-driven framework for human oral TDLo pred",
-            "Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance",
-            "Antimicrobial peptides derived from Nemuri induce ribosomal condensation to inhi"
-          ],
-          "writing_angles": [
-            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 4 篇相关论文，话题热度较高）",
-            "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
-          ]
-        },
-        {
-          "theme": "PFAS",
-          "category": "PFAS",
-          "article_count": 4,
-          "heat_level": "高",
-          "sample_titles": [
-            "Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance",
-            "Interpretable QSPR modeling of PFAS endpoints via transformer-driven SMILES-to-m",
-            "Fluorine mass balance, precursor transformability, and screening-level inhalatio"
-          ],
-          "writing_angles": [
-            "PFAS 研究新进展：PFAS——公众最需要知道什么？（本周已有 4 篇相关论文，话题热度较高）",
-            "从实验室到现实：最新 PFAS 毒性/归趋研究如何影响治理逻辑？"
-          ]
-        },
         {
           "theme": "微塑料 · 检测与表征",
           "category": "微塑料",
@@ -1267,14 +1221,44 @@
           ]
         },
         {
+          "theme": "药物与个人护理品",
+          "category": "药物与个人护理品",
+          "article_count": 3,
+          "heat_level": "中",
+          "sample_titles": [
+            "HumanToxPredict: An interpretable data-driven framework for human oral TDLo pred",
+            "Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance",
+            "Sequential protonation and deprotonation reactions govern alternating access in "
+          ],
+          "writing_angles": [
+            "水环境中的隐形杀手：药物与个人护理品 研究热点解读（本周已有 3 篇相关论文，话题热度较高）",
+            "消毒副产物 + 新污染物：管网末端正在发生什么化学反应？"
+          ]
+        },
+        {
+          "theme": "PFAS",
+          "category": "PFAS",
+          "article_count": 3,
+          "heat_level": "中",
+          "sample_titles": [
+            "Structure-dependent cellular mechanisms of PFAS regulating antibiotic resistance",
+            "Interpretable QSPR modeling of PFAS endpoints via transformer-driven SMILES-to-m",
+            "Fluorine mass balance, precursor transformability, and screening-level inhalatio"
+          ],
+          "writing_angles": [
+            "PFAS 研究新进展：PFAS——公众最需要知道什么？（本周已有 3 篇相关论文，话题热度较高）",
+            "从实验室到现实：最新 PFAS 毒性/归趋研究如何影响治理逻辑？"
+          ]
+        },
+        {
           "theme": "重金属与放射性",
           "category": "重金属与放射性",
           "article_count": 3,
           "heat_level": "中",
           "sample_titles": [
             "A multifunctional Ce(IV)-based coagulant with integrated oxidation and adsorptio",
-            "Multiheme\n                    <i>c</i>\n                    -Type Cytochrome-Depe",
-            "Novel NIR-II Imaging\nReveals Gut-First, Brain-Later\nInorganic Mercury Signals wi"
+            "Dual-Isotope Tracing\nReveals Substantial Postanthesis\nFoliar and Panicle Contrib",
+            "Lipophilic\nRedox\nMediators Reprogram Intracellular\nElectron Flow to Promote Arse"
           ],
           "writing_angles": [
             "新污染物周报：重金属与放射性 为何成为近期研究焦点？（本周已有 3 篇相关论文，话题热度较高）",
@@ -1284,28 +1268,16 @@
         {
           "theme": "纳米材料",
           "category": "纳米材料",
-          "article_count": 2,
+          "article_count": 3,
           "heat_level": "中",
           "sample_titles": [
             "Molecular mechanisms underlying the modulation of Co(II)-catalase interactions b",
+            "Fe₃O₄ nanoparticles alleviate florfenicol-induced phytotoxicity in soybean seedl",
             "Deriving Organism-Relevant\nNanoparticle Safety Exposure\nLimits from\n            "
           ],
           "writing_angles": [
-            "新污染物周报：纳米材料 为何成为近期研究焦点？",
+            "新污染物周报：纳米材料 为何成为近期研究焦点？（本周已有 3 篇相关论文，话题热度较高）",
             "跨期刊观察：JHM 最新论文传递了怎样的研究风向？"
-          ]
-        },
-        {
-          "theme": "新污染物综合",
-          "category": "新污染物综合",
-          "article_count": 1,
-          "heat_level": "低",
-          "sample_titles": [
-            "Solar\nActivation of Peroxymonosulfate by Chromophoric\nDissolved Organic Matter E"
-          ],
-          "writing_angles": [
-            "新污染物周报：新污染物综合 为何成为近期研究焦点？",
-            "跨期刊观察：EST 最新论文传递了怎样的研究风向？"
           ]
         }
       ],
