@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:21:02Z",
+  "updated_at": "2026-11-16T07:51:35Z",
   "journals": {
     "NC": {
       "name": "Nature Communications",
@@ -15,6 +15,86 @@
     }
   },
   "articles": [
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Structurally guided wavefront neural encoder for broad-range generalizable 3D holography",
+      "abstract": "Abstract Deep learning has advanced computer-generated holography, but learned models remain coupled to fixed wavelengths and distances, limiting generalization. Here we present the structurally guided wavefront neural encoder (SGWN-Encoder), which integrates diffraction physics with neural networks and employs a structural propagation strategy that analytically strips the parameter-sensitive global phase. This reveals a scale-normalized description of diffraction, letting the network learn transferable light-field evolution rules and generalize across propagation distances and visible wavelengths by direct inference. A dataset-free paradigm built on statistically diverse random fields teaches the model the structural mapping from complex amplitude to phase-only holograms instead of external image distributions. Without fine-tuning, a single SGWN-Encoder maintains a distance-averaged RGB PSNR of 31.9 dB and SSIM of 0.91 over the primary 2–200 mm range, retaining reconstruction up to 500 mm. Numerical and optical experiments on full-color 3D scenes establish a physically grounded route toward adaptive holographic displays.",
+      "published": "2026-11-16",
+      "doi": "10.1038/s41467-026-79408-6",
+      "url": "https://doi.org/10.1038/s41467-026-79408-6",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Encapsulating an iron complex within a heme and anthraquinone codecorated capsule for multiphoton C(sp3)−H bond oxygenation",
+      "abstract": "",
+      "published": "2026-11-16",
+      "doi": "10.1038/s41467-026-79524-3",
+      "url": "https://doi.org/10.1038/s41467-026-79524-3",
+      "title_zh": "",
+      "abstract_zh": "（暂无摘要）",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Phenotypic discovery of GABAA receptor-mediated general anesthetics with analgesic activity",
+      "abstract": "Abstract General anesthetics are essential for invasive medical procedures; however, there remains a need for safer agents. Using a bespoke 96-well-plate format platform enabling high-throughput imaging of larval zebrafish behavior, we screen 12,000 compounds and identify an isoxazole chemotype that phenocopies the intravenous anesthetics etomidate and propofol. Its optimization via medicinal chemistry yields an anesthetic that we call nidradine. This anesthetic is efficacious in both zebrafish and mice and lacks the problematic adrenal suppression characteristic of etomidate. Mechanistic studies using electrophysiology and structural biology reveal that nidradine, like etomidate and propofol, is a positive allosteric modulator of the GABA A receptor. Remarkably, behavioral assays in mice demonstrate that nidradine differs from most general anesthetics in that it also produces analgesia at subsedative doses.",
+      "published": "2026-11-16",
+      "doi": "10.1038/s41467-026-79384-x",
+      "url": "https://doi.org/10.1038/s41467-026-79384-x",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "NC",
+      "journal_name": "Nature Communications",
+      "title": "Co-deficiency of RECQL1 and BLM causes replication stress associated with DNA damage and cohesion loss",
+      "abstract": "Abstract The mechanistic basis for chromosomal instability characteristic of RECQ helicase disorders remains poorly understood due to their molecular-genetic complexity. To characterize the genetic interactions of RECQL1 ( also referred to as RECQL or RECQ1) , implicated in RECON syndrome, we performed an RNA interference screen and discovered a functional relationship with BLM , a gene that is mutated in Bloom syndrome. RECQL1/BLM co-deficient cells display pronounced replication stress, DNA damage accumulation, and chromosomal instability. Strikingly, RECQL1/BLM co-deficiency induces sister chromatid separation during metaphase suppressible by depletion of the cohesin unloader WAPL, suggesting that a threshold of replication stress in the genetically co-deficient cells disrupts cohesion. Primary embryonic fibroblasts from transgenic Blm -/- ;Recql -/- mice recapitulate the sister chromatid separation phenotype and heightened replication stress observed for human cells. Our findings highlight the joint roles of RECQL1 and BLM in the replication stress response and their concurrent importance for maintenance of chromosomal stability even in the absence of exogenously induced DNA damage. Furthermore, we elucidated a genetic interaction in which sister chromatid cohesion is synergistically elevated by the loss of two conserved RECQ helicases encoded by genes in which mutations are linked to hereditary diseases that are not associated with sister chromatid cohesion defects. The findings presented provide insights into the genetic crosstalk of two prominent RECQ helicases with established importance in clinical diseases of genomic instability.",
+      "published": "2026-11-16",
+      "doi": "10.1038/s41467-026-79297-9",
+      "url": "https://doi.org/10.1038/s41467-026-79297-9",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Spatiotemporal\nOrchestration of Dual Functional Sites\nEnables Efficacious NH3-SCR and CO Oxidation: Synergy\nof Zeolite-Associated Cu Sites and Cu-O-Co Interfacial Ensembles",
+      "abstract": "Abstract Integrated abatement of NOx and CO is highly desirable for industrial flue-gas purification, yet competitive adsorption and mismatched kinetic requirements between NH3–SCR and CO oxidation hinder the realization of a unified low-temperature reaction window. Herein, a spatiotemporally organized Cu–O–Co/Cu-ZSM-5 architecture was constructed to provide differentiated catalytic environments and reduce mutual interference between the two reactions. The optimized Co0.2@Cu/Cu-Z5 catalyst delivers a broad co-operational window of 150–350 °C at 45,000 mL·h–1·g–1 and sustains simultaneous NO and CO conversions above 80% from 175 to 350 °C even at 175,000 mL·h–1·g–1, with high N2 selectivity and robust tolerance to 5 vol % H2O. In situ DRIFTS and transient cross-interference experiments indicate that zeolite-associated Cu species preferentially sustain NH3–SCR functionality, whereas Cu–O–Co interfacial ensembles preferentially enhance CO/NO oxidation, thereby alleviating mutual inhibition under coupled conditions. Theoretical calculations further reveal interfacial electron redistribution, Cu 3d-Co 3d hybridization, and more favorable oxygen-vacancy formation at the CuO/Co3O4 interface, and the CuO/Co3O4 interface lowers the activation barrier of the carbonate-forming elementary step from 2.12 to 0.36 eV via a carbonate-assisted MVK-like pathway, whereas its low activation barrier for the first NH3 dehydrogenation step (0.41 eV) suggests the necessity of confining NH3 activation to Cu-zeolite sites to avoid parasitic oxidation. This dual-center pathway differentiation alleviates adsorption and kinetic conflicts between competing reactions, offering a strategy for improving compatibility in multifunctional environmental catalysis.",
+      "published": "2026-11-16",
+      "doi": "10.1021/acs.est.6c10597",
+      "url": "https://doi.org/10.1021/acs.est.6c10597",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
     {
       "journal": "NC",
       "journal_name": "Nature Communications",
@@ -178,6 +258,22 @@
       "relevance_score": 0
     },
     {
+      "journal": "EST",
+      "journal_name": "Environmental Science & Technology",
+      "title": "Temperature-Dependent\nDecay of Infectivity of Infectious\nSalmon Anemia Virus (ISAV) in Raw Seawater",
+      "abstract": "Abstract Infectious salmon anemia virus (ISAV) is an enveloped, single-stranded RNA, orthomyxovirus, distantly related to influenza viruses. ISAV poses a significant threat to global salmon aquaculture and wild fish and is a notifiable disease according to the World Organization for Animal Health. Understanding virus persistence in seawater under different environmental conditions is critical for biosecurity and disease mitigation. In this study, the persistence of ISAV infectivity was studied in raw seawater at five temperatures. Cell-culture propagated ISAV was incubated in raw seawater at 4, 7, 10, 13, and 17 °C for defined time periods. The persisting ISAV infectivity was then determined using an in vivo salmon fry challenge model, based on the assumption that the resulting infection prevalence correlates with the number of infectious ISAV virions present during the bath challenge. The results showed a clear temperature-dependence in infectivity persistence, with higher temperatures leading to faster decay of infectivity. The experimental data were used to estimate ISAV infectivity half-lives that were incorporated into a dispersal model to simulate the spread of infectious ISAV at different seawater temperatures. The modeling showed that the average potential exposure distance to infectious ISAV decreased approximately 40% when seawater temperature increased from 4 to 17 °C.",
+      "published": "2026-11-15",
+      "doi": "10.1021/acs.est.5c16253",
+      "url": "https://doi.org/10.1021/acs.est.5c16253",
+      "title_zh": "",
+      "abstract_zh": "",
+      "pollutant_categories": [],
+      "is_microplastic": false,
+      "is_emerging_pollutant": false,
+      "microplastic_themes": [],
+      "relevance_score": 0
+    },
+    {
       "journal": "NC",
       "journal_name": "Nature Communications",
       "title": "Built-in electric field driven MXene/perovskite Schottky heterojunction for photo-electro-thermal energy redistribution in thermochromic smart windows",
@@ -265,72 +361,6 @@
       "published": "2026-11-14",
       "doi": "10.1038/s41467-026-79704-1",
       "url": "https://doi.org/10.1038/s41467-026-79704-1",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Functional diversity of GPCR–Gustducin complexes controls signaling output and suppresses alternative pathways",
-      "abstract": "Abstract Gustducin (G gust ), the G protein mediating taste receptor signaling, is expressed not only in sensory taste cells but throughout the human body alongside numerous non-taste G protein-coupled receptors (GPCRs). Whether and how these receptors engage G gust , and the functional consequences of such interactions, remain poorly understood. Here, we develop two complementary biosensors that enable direct monitoring of GPCR–G gust interaction and downstream signaling in living cells, allowing pharmacological characterization of G gust activity induced by non-taste GPCRs. We find that several non-taste GPCRs do not activate G gust but instead stabilize the G protein heterotrimer and suppress basal signaling by forming unproductive GPCR–G protein complexes, whereas others induce conventional G gust activation and signal transduction. We further show that these unproductive GPCR–G gust complexes suppress the activation of alternative signaling pathways by sequestering receptors from other G proteins. This mode of interaction functionally partitions GPCRs into activators and inactivators of G gust and represents a mechanism for balancing concurrent signaling pathways within a cell.",
-      "published": "2026-11-14",
-      "doi": "10.1038/s41467-026-79528-z",
-      "url": "https://doi.org/10.1038/s41467-026-79528-z",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "Emergent mesoscale nanoparticle patterns from a non-equilibrium liquid lens",
-      "abstract": "",
-      "published": "2026-11-14",
-      "doi": "10.1038/s41467-026-79569-4",
-      "url": "https://doi.org/10.1038/s41467-026-79569-4",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [
-        "纳米材料"
-      ],
-      "is_microplastic": false,
-      "is_emerging_pollutant": true,
-      "microplastic_themes": [],
-      "relevance_score": 1
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "An electrically driven multimodal soft robot enabled by a monolithic heterolayer elastomer",
-      "abstract": "",
-      "published": "2026-11-14",
-      "doi": "10.1038/s41467-026-79466-w",
-      "url": "https://doi.org/10.1038/s41467-026-79466-w",
-      "title_zh": "",
-      "abstract_zh": "（暂无摘要）",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "NC",
-      "journal_name": "Nature Communications",
-      "title": "A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology",
-      "abstract": "",
-      "published": "2026-11-14",
-      "doi": "10.1038/s41467-026-79121-4",
-      "url": "https://doi.org/10.1038/s41467-026-79121-4",
       "title_zh": "",
       "abstract_zh": "（暂无摘要）",
       "pollutant_categories": [],
@@ -447,11 +477,11 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "A Substitution Paradox\nin China’s Plastics\nSector: Climate Benefits of Degradable Materials Are Conditional on\nEnergy-System Decarbonization",
-      "abstract": "Abstract Plastics are a rapidly growing source of greenhouse gas (GHG) emissions. Degradable plastics are increasingly promoted to address plastic waste concerns, while biobased alternatives are also considered for their potential to reduce reliance on fossil feedstocks and lower life cycle GHG emissions. However, their system-level climate effects remain uncertain because existing assessments often focus on individual products or polymers and rarely account for realistic substitution feasibility, value-chain interactions, and end-of-life (EoL) constraints. Here, we integrated dynamic material flow analysis, life cycle assessment, and scenario modeling to evaluate the net GHG implications of substituting degradable plastics across China’s plastics sector. The framework tracks five major conventional resins across 14 application sectors, links sector-specific substitution pathways with production-stage carbon intensities, and quantifies emission trajectories from 2025 to 2030, with long-term mitigation pathways explored to 2060. Technically feasible substitution increases cumulative life cycle GHG emissions by 7.1% relative to the conventional baseline because higher upstream production emissions outweigh potential EoL credits for recovered energy or displaced coproducts. Scenario analysis identifies a critical transition threshold: degradable plastics achieve net GHG reductions only when energy-system carbon intensity decreases by approximately 47% of the baseline level. The climate benefits of substitution are therefore conditional on coordinated energy-system decarbonization, production improvement, and waste-management development. Even under the optimistic pathway, 0.24 Gt CO2e of residual emissions remain in 2060, indicating the need for complementary mitigation measures.",
+      "title": "Dissolved\nOrganic Matter Charge Dynamics over Three\nDecades",
+      "abstract": "Abstract Dissolved organic matter (DOM) is a crucial component of aquatic ecosystems, influencing pH, metal speciation, and the bioavailability of trace elements. The influence of DOM on water quality depends not only on its concentration but also on its chemical characteristics. To quantify the site density (SD) of organic acid functional groups, a key characteristic of DOM, this study utilized data from over 31,000 water samples collected from 110 watercourses between 1995 and 2024 by Swedish national monitoring programs. We found systematic dynamic trends in SD across Sweden. The analysis revealed an increase in SD from 1995 to 2003, followed by a decline from 2003 to 2010. Since 2010, SD has stabilized, although modest increases remain evident at many sites. Earlier trends were potentially governed by changes in DOM mobility associated with recovery from acid deposition, whereas more recent trends are likely linked to DOM source characteristics.",
       "published": "2026-11-13",
-      "doi": "10.1021/acs.est.6c08458",
-      "url": "https://doi.org/10.1021/acs.est.6c08458",
+      "doi": "10.1021/acs.est.6c11339",
+      "url": "https://doi.org/10.1021/acs.est.6c11339",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -463,11 +493,11 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "Dissolved\nOrganic Matter Charge Dynamics over Three\nDecades",
-      "abstract": "Abstract Dissolved organic matter (DOM) is a crucial component of aquatic ecosystems, influencing pH, metal speciation, and the bioavailability of trace elements. The influence of DOM on water quality depends not only on its concentration but also on its chemical characteristics. To quantify the site density (SD) of organic acid functional groups, a key characteristic of DOM, this study utilized data from over 31,000 water samples collected from 110 watercourses between 1995 and 2024 by Swedish national monitoring programs. We found systematic dynamic trends in SD across Sweden. The analysis revealed an increase in SD from 1995 to 2003, followed by a decline from 2003 to 2010. Since 2010, SD has stabilized, although modest increases remain evident at many sites. Earlier trends were potentially governed by changes in DOM mobility associated with recovery from acid deposition, whereas more recent trends are likely linked to DOM source characteristics.",
+      "title": "A Substitution Paradox\nin China’s Plastics\nSector: Climate Benefits of Degradable Materials Are Conditional on\nEnergy-System Decarbonization",
+      "abstract": "Abstract Plastics are a rapidly growing source of greenhouse gas (GHG) emissions. Degradable plastics are increasingly promoted to address plastic waste concerns, while biobased alternatives are also considered for their potential to reduce reliance on fossil feedstocks and lower life cycle GHG emissions. However, their system-level climate effects remain uncertain because existing assessments often focus on individual products or polymers and rarely account for realistic substitution feasibility, value-chain interactions, and end-of-life (EoL) constraints. Here, we integrated dynamic material flow analysis, life cycle assessment, and scenario modeling to evaluate the net GHG implications of substituting degradable plastics across China’s plastics sector. The framework tracks five major conventional resins across 14 application sectors, links sector-specific substitution pathways with production-stage carbon intensities, and quantifies emission trajectories from 2025 to 2030, with long-term mitigation pathways explored to 2060. Technically feasible substitution increases cumulative life cycle GHG emissions by 7.1% relative to the conventional baseline because higher upstream production emissions outweigh potential EoL credits for recovered energy or displaced coproducts. Scenario analysis identifies a critical transition threshold: degradable plastics achieve net GHG reductions only when energy-system carbon intensity decreases by approximately 47% of the baseline level. The climate benefits of substitution are therefore conditional on coordinated energy-system decarbonization, production improvement, and waste-management development. Even under the optimistic pathway, 0.24 Gt CO2e of residual emissions remain in 2060, indicating the need for complementary mitigation measures.",
       "published": "2026-11-13",
-      "doi": "10.1021/acs.est.6c11339",
-      "url": "https://doi.org/10.1021/acs.est.6c11339",
+      "doi": "10.1021/acs.est.6c08458",
+      "url": "https://doi.org/10.1021/acs.est.6c08458",
       "title_zh": "",
       "abstract_zh": "",
       "pollutant_categories": [],
@@ -629,22 +659,6 @@
     {
       "journal": "EST",
       "journal_name": "Environmental Science & Technology",
-      "title": "Turning\nAbandoned\nMines into Carbon Sinks: Laboratory\nDemonstration of CO2 Hydrate Sequestration in Cold-Region\nGoafs under Permafrost Conditions",
-      "abstract": "Abstract Carbon capture, utilization, and storage (CCUS) is a key technology for carbon neutrality, but conventional CO2 geological sequestration suffers from high injection pressure, limited stability, and restricted storage space. Hydrate-based CO2 sequestration offers high capacity, low cost, and intrinsic safety. This study proposes a novel in situ CO2 hydrate formation and sequestration method in coal mine goafs containing permafrost layers in cold regions. The natural low-temperature permafrost environment provides favorable conditions for hydrate formation, while goafs offer large storage space. To avoid hydrate plugging and improve engineering feasibility, a liquid-first CO2 constant-pressure supply and predissolution mode was adopted. We simulated goaf conditions at depths of 110–130 m and ∼1 MPa. Experiments tested three injection temperatures (293.15, 298.15, and 303.15 K) and five goaf temperatures (269.15–277.15 K) using tetrahydrofuran and tryptophan as promoters. Results proved efficient sequestration at a low pressure of 1 MPa. Under optimal conditions (injection temperature of 298.15 K, goaf temperature of 271.15 K), capacity reached 60.9 mmol of CO2/mol of water (mmol/mol) with an efficiency of 135.36 (kg·m–3)/MPa. The 26.7 h stability experiments under depressurization showed 4.21–16.09 mmol/mol dissociated initially, but 66.38%–90.77% CO2 remained sequestered. Further, one-month tests under the pressure-release condition revealed hydrate dissociation almost stopped after day 1, yielding a 65.32% permanent sequestration ratio. Crucially, under the pressure-maintained condition, the system continued to form CO2 hydrates over the 30-day period, resulting in an additional 31.04% CO2 storage. These results validate the feasibility and long-term stability of this novel approach.",
-      "published": "2026-11-12",
-      "doi": "10.1021/acs.est.6c09528",
-      "url": "https://doi.org/10.1021/acs.est.6c09528",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
       "title": "Strategies for Eliminating\nHeavy Air Pollution in\nthe Beijing–Tianjin–Hebei Region: Insights from Joint\nPractices during the 2022 Olympic and Paralympic Winter Games",
       "abstract": "Abstract The 2022 Olympic Winter Games (OWG) and Paralympic Winter Games (PWG) marked the first time the Beijing–Tianjin–Hebei (BTH) region implemented joint air pollution prevention and control measures for a winter mega-event. Notably, while Beijing maintained clean air (daily PM2.5 concentration ≤ 75 μg/m3, according to the Ambient Air Quality Standards in effect at the time) during the OWG, a heavy-pollution episode occurred during the PWG, with the 24-h average PM2.5 concentration peaking at 155 μg/m3. Combining field observations, dynamic emission characterization, and The Comprehensive Air quality Model with extensions (CAMx) simulations, we conducted a closed-loop study to investigate the underlying causes of this episode. Results show that while the industrial sector effectively regulated emissions, the mobile-source activity levels recovered rapidly after the Chinese New Year, outweighing the control measures implemented for mobile sources. This recovery increased total NOx emissions by 13% in the BTH region, driving nitrate-dominated PM2.5 pollution. During the study period, the PM2.5 nitrate concentration (normalized by the carbon monoxide concentration) was found to increase by 3 × 10–4 and 1 × 10–5 for each one-ton increase in NOx emissions in Beijing and the BTH region, respectively. To eliminate heavy PM2.5 pollution under the meteorological conditions observed during the PWG, NOx emissions would need to be further reduced by ≥1% in Beijing and ≥7% in the BTH region. This work underscores the urgent need to mitigate emissions from diesel trucks and nonroad machinery, especially under extremely adverse meteorological conditions in the BTH region.",
       "published": "2026-11-12",
@@ -657,26 +671,10 @@
       "is_emerging_pollutant": false,
       "microplastic_themes": [],
       "relevance_score": 0
-    },
-    {
-      "journal": "EST",
-      "journal_name": "Environmental Science & Technology",
-      "title": "Gradient-Charge\nOxygen Vacancy Pairs Enable Synergistic\nActivation of O2 and H2O for Low-Temperature\nCH3CN Emission Control",
-      "abstract": "Abstract Acetonitrile (CH3CN) emitted from industrial production severely threatens atmospheric quality due to its persistence and high toxicity. While selective catalytic oxidation (SCO) represents the most promising technology for CH3CN elimination, the inherent competition between O2-activated oxidation and H2O-activated hydrolysis pathways has long prevented the simultaneous achievement of excellent low-temperature activity and high N2 selectivity. Herein, we report a Cu-modified TiO2 catalyst and propose a Cu-induced gradient-charge oxygen vacancy pair structure (Ti–OVR–Cu–OVP–Ti) as the most plausible active site configuration that enables activation of O2 and H2O via electron filling of their antibonding orbitals to promote the reaction during CH3CN oxidation. The electron-rich OVR site can adsorb both O2 and H2O, donating electrons to populate the π* antibonding orbital of O2 and the σ* antibonding orbital of H2O. Meanwhile, the electron-poor OVP site adsorbs O2 or H2O and serves as a reservoir to sustain a continuous supply of active species. The optimized catalyst induced by Ti–OVR–Cu–OVP–Ti structure achieves complete CH3CN conversion at 220 °C with 96% N2 selectivity. This work highlights the critical role of electron configuration in tailoring oxygen vacancy functions, providing a general strategy for developing advanced environmental catalysts for practical CH3CN emission control.",
-      "published": "2026-11-12",
-      "doi": "10.1021/acs.est.6c10806",
-      "url": "https://doi.org/10.1021/acs.est.6c10806",
-      "title_zh": "",
-      "abstract_zh": "",
-      "pollutant_categories": [],
-      "is_microplastic": false,
-      "is_emerging_pollutant": false,
-      "microplastic_themes": [],
-      "relevance_score": 0
     }
   ],
   "digest": {
-    "pollutant_count": 8,
+    "pollutant_count": 7,
     "microplastic_count": 1,
     "pollutant_articles": [
       {
@@ -689,17 +687,6 @@
         ],
         "microplastic_themes": [],
         "url": "https://doi.org/10.1038/s41467-026-79672-6"
-      },
-      {
-        "doi": "10.1038/s41467-026-79569-4",
-        "title_zh": "",
-        "journal": "NC",
-        "published": "2026-11-14",
-        "pollutant_categories": [
-          "纳米材料"
-        ],
-        "microplastic_themes": [],
-        "url": "https://doi.org/10.1038/s41467-026-79569-4"
       },
       {
         "doi": "10.1021/acs.est.6c10251",
@@ -772,13 +759,13 @@
       }
     ],
     "writing_brief": {
-      "date": "2026-11-15",
-      "overview": "本周共整理 8 篇新污染物相关文献（微塑料 1 篇）。当前最热方向为「纳米材料」，可结合本土案例或政策语境展开评论。",
+      "date": "2026-11-16",
+      "overview": "本周共整理 7 篇新污染物相关文献（微塑料 1 篇）。当前最热方向为「塑化剂与内分泌干扰物」，可结合本土案例或政策语境展开评论。",
       "stats": {
-        "total_pollutant": 8,
+        "total_pollutant": 7,
         "microplastic": 1,
         "categories": {
-          "纳米材料": 2,
+          "纳米材料": 1,
           "塑化剂与内分泌干扰物": 2,
           "微塑料": 1,
           "药物与个人护理品": 1,
@@ -791,20 +778,6 @@
         }
       },
       "hot_themes": [
-        {
-          "theme": "纳米材料",
-          "category": "纳米材料",
-          "article_count": 2,
-          "heat_level": "高",
-          "sample_titles": [
-            "Directly visualizing the energy level structure of quantum dot molecules",
-            "Emergent mesoscale nanoparticle patterns from a non-equilibrium liquid lens"
-          ],
-          "writing_angles": [
-            "新污染物周报：纳米材料 为何成为近期研究焦点？",
-            "跨期刊观察：NC 最新论文传递了怎样的研究风向？"
-          ]
-        },
         {
           "theme": "塑化剂与内分泌干扰物",
           "category": "塑化剂与内分泌干扰物",
@@ -845,6 +818,19 @@
             "从生态效应切入：最新研究揭示了哪些容易被忽视的风险？",
             "对比EST最新成果：生态效应研究正在发生哪些范式转变？",
             "写给非专业读者：arg到底意味着什么，我们该如何理解？"
+          ]
+        },
+        {
+          "theme": "纳米材料",
+          "category": "纳米材料",
+          "article_count": 1,
+          "heat_level": "中",
+          "sample_titles": [
+            "Directly visualizing the energy level structure of quantum dot molecules"
+          ],
+          "writing_angles": [
+            "新污染物周报：纳米材料 为何成为近期研究焦点？",
+            "跨期刊观察：NC 最新论文传递了怎样的研究风向？"
           ]
         },
         {
@@ -937,18 +923,6 @@
           "url": "https://doi.org/10.1038/s41467-026-79672-6"
         },
         {
-          "title_zh": "Emergent mesoscale nanoparticle patterns from a non-equilibrium liquid lens",
-          "journal": "NC",
-          "published": "2026-11-14",
-          "categories": [
-            "纳米材料"
-          ],
-          "microplastic_themes": [],
-          "why_write": "命中新污染物热点（纳米材料），具备科普/评论写作价值",
-          "suggested_angle": "新污染物周报：纳米材料 为何成为近期研究焦点？",
-          "url": "https://doi.org/10.1038/s41467-026-79569-4"
-        },
-        {
           "title_zh": "Mapping Multiple\nPesticides in Vegetables from Major\nProducing Areas across China: Coexposure Risk Assessment and Risk\nPrioritization",
           "journal": "EST",
           "published": "2026-11-14",
@@ -971,6 +945,18 @@
           "why_write": "命中新污染物热点（药物与个人护理品），具备科普/评论写作价值",
           "suggested_angle": "水环境中的隐形杀手：药物与个人护理品 研究热点解读",
           "url": "https://doi.org/10.1021/acs.est.6c15357"
+        },
+        {
+          "title_zh": "Integrated Network\nToxicology and Multi-Level Validations\nUnravel the Potential Mechanism Linking Phthalate Ester Exposure and\nEndocrine Diseases",
+          "journal": "EST",
+          "published": "2026-11-13",
+          "categories": [
+            "塑化剂与内分泌干扰物"
+          ],
+          "microplastic_themes": [],
+          "why_write": "命中新污染物热点（塑化剂与内分泌干扰物），具备科普/评论写作价值",
+          "suggested_angle": "日常暴露警示：塑化剂与内分泌干扰物 研究告诉了我们什么？",
+          "url": "https://doi.org/10.1021/acs.est.6c08240"
         }
       ]
     }
